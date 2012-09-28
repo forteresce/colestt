@@ -1,21 +1,19 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
-<head>
-    <?php include 'head.php'; ?>
-</head>
+    <head>
+        <?php include 'head.php'; ?>
+    </head>
 
-<body>
+    <body>
+        <?php
+            include 'header.php';
+            include 'leftpane.php';
+        ?>
 
-<?php
-    include 'header.php';
-    include 'leftpane.php';
-?>
-
-<div id="body">
-<img src="images/title/accessories.gif" /><br />
-<br />
-	<table class="product">
+        <div id="body">
+            <img src="images/title/accessories.gif" /><br /><br />
+            <table class="product">
 		<tr>
 			<td class="prodname" colspan="2">Dawei Net and Post Set - Heavy Clip</td>
 		</tr>
@@ -51,15 +49,12 @@
 		</tr>
 	</table>
 	
-	
-
 	<table class="product">
 		<tr>
 			<td class="prodname" colspan="2">Replacement Net</td>
 		</tr>
 		<tr>
 			<td class="body">
-			
 				<span class="price">
 					Price: $6.00
 				</span>
@@ -87,15 +82,12 @@
 		</tr>
 	</table>
 
-
-
 <table class="product">
 		<tr>
 			<td class="prodname" colspan="2">Galaxy Edge Tape</td>
 		</tr>
 		<tr>
 			<td class="body">
-			
 				<span class="price">
 					Price: $.40
 				</span>
@@ -124,10 +116,10 @@
 		</tr>
 	</table>
 	
-	
-	
-	
-	
+
+
+
+
 	<table class="product">
 		<tr>
 			<td class="prodname" colspan="2">Dawei Water-Based Glue (100ml)</td>
