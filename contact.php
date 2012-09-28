@@ -18,11 +18,10 @@ urchinTracker();
 
 <body>
 
-<div id="header"> <!-- Contains the header image basically -->
-		<img src="header.gif" />
-</div> <!-- END OF header -->
-
-<?php include 'leftpane.php'; ?>
+<?php
+    include 'header.php';
+    include 'leftpane.php';
+?>
 
 <div id="body"> <!-- Contains page content -->
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
@@ -51,12 +50,8 @@ urchinTracker();
         <iframe width="420" height="315" src="http://www.youtube.com/embed/KxjHMOxoApw" frameborder="0" allowfullscreen></iframe>
   </ul>
 
-<!-- All page content ENDS here -->
-    <div id="ppgearbottom">
-        <br /><a href="http://www.tabletennisdb.com/rubber/" target="_blank"><img src="http://www.tabletennisdb.com/assets/table-tennis-images/ttdb-circle.gif" alt="Ping Pong Rubber Reviews" /></a>
-        <br /><a href="http://www.tabletennisdb.com/" title="Table Tennis Reviews" target="_blank">Table Tennis Database - Reviews</a>
-    </div>
-<!-- END OF body -->
+    <?php include 'footer.php'; ?>
+    </div> <!-- END OF body -->
 
 </body>
 </html>
