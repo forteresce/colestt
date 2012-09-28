@@ -12,22 +12,8 @@
     include 'leftpane.php';
 ?>
 
-<div id="body"> <!-- Contains page content -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-993283-1";
-urchinTracker();
-</script>
+<div id="body">
 <!-- All page content STARTS here -->
-
-
-
-
-
-
-
-
  <table>
   <tr>
 	   <td class="prodname" colspan="2">w6 SF Lemon standard setup Button</td>

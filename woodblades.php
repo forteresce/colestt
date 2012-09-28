@@ -12,15 +12,8 @@
     include 'leftpane.php';
 ?>
 
-<div id="body"> <!-- Contains page content -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-993283-1";
-urchinTracker();
-</script>
+<div id="body">
 <!-- All page content STARTS here -->
-
 <img src="images/title/woodblades.gif" /><br />
 	<p>
 		I will combo any blade with any rubber but AIR brand, but I have so many different options with different prices on rubbers, sponges, and topsheets that really the only way to work a combo is for you to email me and we'll work out pricing.  

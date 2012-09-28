@@ -12,14 +12,7 @@
     include 'leftpane.php';
 ?>
 
-<div id="body"> <!-- Contains page content -->
-<!-- All page content STARTS here -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-993283-1";
-urchinTracker();
-</script>
+<div id="body">
 <img src="images/title/blades.gif" /><br />
 	<p>
 		<a href="woodblades.php"><img src="images/blades/woodblades.gif" /></a><a href="compositeblades.php"><img src="images/blades/compositeblades.gif" /></a><a href="usedblades.php"><img src="images/blades/usedblades.gif" /></a>  

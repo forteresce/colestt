@@ -12,24 +12,9 @@
     include 'leftpane.php';
 ?>
 
-<div id="body"> <!-- Contains page content -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-993283-1";
-urchinTracker();
-</script>
-<!-- All page content STARTS here -->
-
+<div id="body">
 <img src="images/title/accessories.gif" /><br />
 <br />
-
-
-
-
-
-
-	
 	<table class="product">
 		<tr>
 			<td class="prodname" colspan="2">Dawei Net and Post Set - Heavy Clip</td>
