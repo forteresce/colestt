@@ -1,4 +1,4 @@
 <div id="header">
-	<img src="header.gif"/>
+	<img src="images/header.gif"/>
 </div>
 
