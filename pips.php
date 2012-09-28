@@ -108,7 +108,7 @@ maybe I have it.  Currently I'm carrying galaxy pluto, uranus, neptune, 955, pal
 		This is a fresh batch on lemon sponge, very soft.
 			
 			<td class="image">
-				<img src="productimages/PANAMERA.jpg">
+				<img src="images/products/PANAMERA.jpg">
 			</td>
 		</tr>
 	</table>
@@ -150,7 +150,7 @@ maybe I have it.  Currently I'm carrying galaxy pluto, uranus, neptune, 955, pal
     
 			
 			<td class="image">
-				<img src="productimages/UPUPUPUP.jpg">
+				<img src="images/products/UPUPUPUP.jpg">
 			</td>
 		</tr>
 	</table>
@@ -196,7 +196,7 @@ maybe I have it.  Currently I'm carrying galaxy pluto, uranus, neptune, 955, pal
 				<b>Long pips</b><br /><br />
 			This is a wide pip with a thick base sheet.  Very spinny for a pip, but still hits with great control
 			<td class="image">
-				<img src="productimages/PANAMERA.jpg" />
+				<img src="images/products/PANAMERA.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -243,7 +243,7 @@ maybe I have it.  Currently I'm carrying galaxy pluto, uranus, neptune, 955, pal
        It is ITTF approved and legal in regular events, but not on the list of approved rubbers for US hardbat events. This 
        rubber is designed to use no sponge and I don't recommend it to be put on sponge.  Picture coming soon.
 			<td class="image">
-				<img src="productimages/classique.jpg" />
+				<img src="images/products/classique.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -292,7 +292,7 @@ maybe I have it.  Currently I'm carrying galaxy pluto, uranus, neptune, 955, pal
 				<b>Long pips</b><br /><br />
 			One of the long pips I don't know much about, but was persuaded to carry by long pips users
 			<td class="image">
-				<img src="productimages/pogo.jpg" />
+				<img src="images/products/pogo.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -338,7 +338,7 @@ This is a semi-soft long pip that still gives some reversal, so it's kind of pos
 If you sink the ball you can get some spin from the sides of the pips.  I have it factory made on 0.6, so if you use the add a sponge button you will get the factory sponge.  If you want to add thicker sponge, I'll glue it here using cannon. 
 			</td>
 			<td class="image">
-				<img src="productimages/388d-1Q.JPG" />
+				<img src="images/products/388d-1Q.JPG" />
 			</td>
 		</tr>
 	</table>
@@ -390,7 +390,7 @@ If you sink the ball you can get some spin from the sides of the pips.  I have i
 			Another tricky long pips that I've been requested to carry. Seems a nice combination of softness with reversal.
 			</td>
 			<td class="image">
-				<img src="productimages/talent.jpg" />
+				<img src="images/products/talent.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -438,7 +438,7 @@ If you sink the ball you can get some spin from the sides of the pips.  I have i
          a good choice.  Still with decent reversal.
 			</td>
 			<td class="image">
-				<img src="productimages/XY979.jpg" />
+				<img src="images/products/XY979.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -486,7 +486,7 @@ If you sink the ball you can get some spin from the sides of the pips.  I have i
         do my best if you need me to.
 			</td>
 			<td class="image">
-				<img src="productimages/meteor.jpg" />
+				<img src="images/products/meteor.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -578,7 +578,7 @@ If you sink the ball you can get some spin from the sides of the pips.  I have i
 				more toward reversal effect but still offering way more hitting control than long pips.  Made especially for hardbat with a thicker base sheet than the standard version found on sponge. Like Dr Evil, this is made for OX play.
 				Initial reports on this are very good. 
 			<td class="image">
-				<img src="productimages/peacekeeper.jpg" />
+				<img src="images/products/peacekeeper.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -622,7 +622,7 @@ If you sink the ball you can get some spin from the sides of the pips.  I have i
 				<b>Short pips</b><br /><br />
 				A very thick, soft short pip that gives excellent spin. Thick base sheet. Sorry about the price...it costs me more than twice as much as other friendship tops.
 			<td class="image">
-				<img src="productimages/802-40.jpg" />
+				<img src="images/products/802-40.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -670,7 +670,7 @@ If you sink the ball you can get some spin from the sides of the pips.  I have i
 				This is a very short pip rubber.  Fast and fairly firm.  I stock the topsheets by themselves, so can put them
 				custom onto your sponge of choice.  I recommend the 1.8 dawei lightning.  I'm also keeping one each red and black of 802-1 on hand as well.
 			<td class="image">
-				<img src="productimages/802.jpg" />
+				<img src="images/products/802.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -715,7 +715,7 @@ If you sink the ball you can get some spin from the sides of the pips.  I have i
 				not on the short list approved by hardbat committee.
 			</td>
 			<td class="image">
-				<img src="productimages/799.jpg" />
+				<img src="images/products/799.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -757,7 +757,7 @@ If you sink the ball you can get some spin from the sides of the pips.  I have i
 				563 is a medium pip.  Not reversing like a long pip, but more like an anti.  It kills the spin and makes kind of a knuckle.  Drives with this rubber kind of dip and are dead and very hard to lift.
 			</td>
 			<td class="image">
-				<img src="productimages/563.jpg" />
+				<img src="images/products/563.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -798,7 +798,7 @@ If you sink the ball you can get some spin from the sides of the pips.  I have i
 				<b>Long pips</b><br /><br />
 				837 is not a max reversal kind of top.  But it's also one of the easiest to attack with and to control in general.  So this is more of a long hitting pip.
 			<td class="image">
-				<img src="productimages/837.jpg" />
+				<img src="images/products/837.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -840,7 +840,7 @@ If you sink the ball you can get some spin from the sides of the pips.  I have i
 				755 long pips are more reversing than 837 but also maintain good attacking properties.  Deng Yaping, the best woman ever to pick up a racket, used this rubber on her backhand with a 1.0 sponge.  And she DIDN'T chop with it.
 			</td>
 			<td class="image">
-				<img src="productimages/755.jpg" />
+				<img src="images/products/755.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -882,7 +882,7 @@ If you sink the ball you can get some spin from the sides of the pips.  I have i
 				A decent reversal long pips with a loyal fan base.  Fairly stiff.  Seems like more for blocking and hitting to me.
 			</td>
 			<td class="image">
-				<img src="productimages/1615.jpg" />
+				<img src="images/products/1615.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -930,7 +930,7 @@ If you sink the ball you can get some spin from the sides of the pips.  I have i
 			Right now I really don't know when or if this topsheet will become available again.  I recommend U5 as a replacement. 
 			</td>
 			<td class="image">
-				<img src="productimages/saviga.JPG" />
+				<img src="images/products/saviga.JPG" />
 			</td>
 		</tr>
 	</table>

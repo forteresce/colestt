@@ -72,7 +72,7 @@ urchinTracker();
 		net as tight as you want it though.  Comes with a cheap net, but I include the much nicer "replacement net" seen below.
 			</td>
 			<td class="image">
-				<img src="productimages/galaxy1803post.jpg" >
+				<img src="images/products/galaxy1803post.jpg" >
 			</td>
 		</tr>
 	</table>
@@ -108,7 +108,7 @@ urchinTracker();
 		Not too bad for the price.  "Leatherette" side strips.
 			</td>
 			<td class="image">
-				<img src="productimages/netreplacement.jpg" />
+				<img src="images/products/netreplacement.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -145,7 +145,7 @@ urchinTracker();
 			like most of the name brand tapes. Email me if you prefer that. I am now getting this in long rolls, not in packages.  So I just cut to length. 
 			</td>
 			<td class="image">
-				<img src="productimages/edgetape.jpg" />
+				<img src="images/products/edgetape.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -184,7 +184,7 @@ As high a quality water glue as I've seen across several brands.  I personally s
 a brush sponge or something.  PLEASE SELECT $5 PRIORITY SHIPPING WHEN YOU GET THIS ITEM. 
 See shipping policy for details.
 			<td class="image">
-				<img src="productimages/dawei water glue.jpg" />
+				<img src="images/products/dawei water glue.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -224,7 +224,7 @@ See shipping policy for details.
 				These come standard with combo's over $40.  The case has a ball pouch that holds 3 balls on the back side.
 			</td>
 			<td class="image">
-				<img src="productimages/racketcover3.jpg" />
+				<img src="images/products/racketcover3.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -258,7 +258,7 @@ See shipping policy for details.
 				These come standard with most combos.  Brand may vary.  Comes standard with combo's under $40.
 			</td>
 			<td class="image">
-				<img src="productimages/racketcover1.jpg" />
+				<img src="images/products/racketcover1.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -294,7 +294,7 @@ See shipping policy for details.
 				Purchased separately or available with combos for up-charge.  Do not select $1 shipping with this item.
 			</td>If you order just a case and only pay $1 shipping, you will get a slightly smaller case that I can stuff into a 9x12 clasp.  If you pay $5 for shipping you get a full one with divider.
 			<td class="image">
-				<img src="productimages/racketcover2.jpg" />
+				<img src="images/products/racketcover2.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -330,7 +330,7 @@ See shipping policy for details.
 		These are the expensive Air brand glue sheets.  They have some foam type body to them.  People tell me they're better but I don't use them.
 			</td>
 			<td class="image">
-				<img src="productimages/gluesheet.jpg" />
+				<img src="images/products/gluesheet.jpg" />
 			</td>
 		</tr>
 	</table>

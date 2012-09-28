@@ -43,7 +43,7 @@ urchinTracker();
 <br /><br />
 
 <a name="gluing" id="gluing"></a><br />
-<img src="subheading-gluingcutting.gif" /><br />
+<img src="images/subheading/gluingcutting.gif" /><br />
 <p>
 			Anybody who plans on moving up from a pre-made 
 			racket needs to know how to glue on a new sheet of rubbers and cut 
@@ -113,7 +113,7 @@ urchinTracker();
 <br /><br />
 
 <a name="combining" id="combining"></a><br />
-<img src="subheading-combining.gif" /><br />
+<img src="images/subheading/combining.gif" /><br />
 <p>
     <ul>
         <iframe width="420" height="315" src="http://www.youtube.com/embed/SA3C9ABwAqM" frameborder="0" allowfullscreen></iframe><br><br>

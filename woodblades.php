@@ -107,7 +107,7 @@ urchinTracker();
 				Click this button once for each sheet of Quattro or Quattro UL or Sun/Moon you want to use in a combo.  Use this also if you want any sponge/top combination that costs over $14.
 			</td>
 			<td class="image">
-				<img src="productimages/inspiritquattro.JPG">
+				<img src="images/products/inspiritquattro.JPG">
 			</td>
 		</tr>
 	</table>
@@ -150,7 +150,7 @@ urchinTracker();
         Flared, Anatomic, or straight. 
 			</td>
 			<td class="image">
-				<img src="productimages/Qlimba.JPG" />
+				<img src="images/products/Qlimba.JPG" />
 			</td>
 		</tr>
 	</table>
@@ -189,7 +189,7 @@ urchinTracker();
 				Earlier versions of this blade were slower, but now this blade feels more like the 7ply that it is.  Hinoki outer plies give it a softer feeling though.
 			</td>
 			<td class="image">
-				<img src="productimages/Qhinoki.JPG" />
+				<img src="images/products/Qhinoki.JPG" />
 			</td>
 		</tr>
 	</table>
@@ -229,7 +229,7 @@ urchinTracker();
 				at www.colestt.com/gpics.doc.  The blade is off- with a nice feel and a very nice look. *OUT OF STOCK CPEN*
 			</td>
 			<td class="image">
-				<img src="productimages/genO.JPG" />
+				<img src="images/products/genO.JPG" />
 			</td>
 		</tr>
 	</table>
@@ -268,7 +268,7 @@ urchinTracker();
 			   wood blades I've ever seen.  LQ1 seems to be the same wood formulation as w6, but oversized.
 			</td>
 			<td class="image">
-				<img src="productimages/LQ-1s.JPG" />
+				<img src="images/products/LQ-1s.JPG" />
 			</td>
 		</tr>
 	</table>
@@ -306,7 +306,7 @@ urchinTracker();
 			   felt more, but it's flexy.  Sales have increased with the popularity of hardbat.
       </td>
 			<td class="image">
-				<img src="productimages/LQ-2s.JPG" />
+				<img src="images/products/LQ-2s.JPG" />
 			</td>
 		</tr>
 	</table>
@@ -349,7 +349,7 @@ urchinTracker();
          it just feels that way because it's a tad softer on the outer plies.  Closeups showing the near-perfect grains are available upon request.  Straight, Flared, and Cpen 
 			</td>
 			<td class="image">
-				<img src="productimages/genS.JPG" />
+				<img src="images/products/genS.JPG" />
 			</td>
 		</tr>
 	</table>
@@ -386,7 +386,7 @@ urchinTracker();
         
 			</td>
 			<td class="image">
-				<img src="productimages/982 side.JPG" />
+				<img src="images/products/982 side.JPG" />
 			</td>
 		</tr>
 	</table>
@@ -426,7 +426,7 @@ This has been one of my most popular blades over the years.  Try to find a limba
 but for intermediates and above it's a great blade for the price.  Handle now as pictured again.  Absolute steal.
 			</td>
 			<td class="image">
-				<img src="productimages/matrix.JPG" />
+				<img src="images/products/matrix.JPG" />
 			</td>
 		</tr>
 	</table>
@@ -466,7 +466,7 @@ but for intermediates and above it's a great blade for the price.  Handle now as
       
 			</td>
 			<td class="image">
-				<img src="productimages/galaxyM6.jpg" />
+				<img src="images/products/galaxyM6.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -521,7 +521,7 @@ but for intermediates and above it's a great blade for the price.  Handle now as
 				 stiffer and faster, but still pretty soft and very good control for a 7ply.
 			</td>
 			<td class="image">
-				<img src="productimages/instinct.jpg" />
+				<img src="images/products/instinct.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -578,7 +578,7 @@ but for intermediates and above it's a great blade for the price.  Handle now as
 				This racket will most likely be covered on at least one side with some sort of pips-out rubber.  Often long pips.  The typical choppers forehand will be a sticky topsheet on a thin (&lt;1.5), dead sponge.  If the player wants to be able to loop with the forehand they will sometimes go to a sponge around 1.8 thickness.
 			</td>
 			<td class="image">
-				<img src="productimages/toxic.jpg" />
+				<img src="images/products/toxic.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -623,7 +623,7 @@ but for intermediates and above it's a great blade for the price.  Handle now as
 			little flexy in the short game if you're pushing much.  
 			</td>
 			<td class="image">
-				<img src="productimages/galaxy896.jpg" />
+				<img src="images/products/galaxy896.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -670,7 +670,7 @@ but for intermediates and above it's a great blade for the price.  Handle now as
 				second to none.  This is the best option I have for a fast all wood blade. Cross cut koto outer plies are stunning to look at.
 			</td>
 			<td class="image">
-				<img src="productimages/u2006.jpg" />
+				<img src="images/products/u2006.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -726,7 +726,7 @@ but for intermediates and above it's a great blade for the price.  Handle now as
 				
 			</td>
 			<td class="image">
-				<img src="productimages/galaxyw6.jpg" />
+				<img src="images/products/galaxyw6.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -769,7 +769,7 @@ but for intermediates and above it's a great blade for the price.  Handle now as
 			This is a popular blade that's in the off- range.  Outer ply is pretty crisp, but the inner cork ply softens it up and gives it some flex.  Now in anatomic as well.
 			</td>
 			<td class="image">
-				<img src="productimages/bomb.jpg" />
+				<img src="images/products/bomb.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -822,7 +822,7 @@ but for intermediates and above it's a great blade for the price.  Handle now as
 				<br><br>
 			</td>
 			<td class="image">
-				<img src="productimages/premade buster.JPG" />
+				<img src="images/products/premade buster.JPG" />
 			</td>
 		</tr>
 	</table>

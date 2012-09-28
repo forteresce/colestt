@@ -66,7 +66,7 @@ urchinTracker();
         Beyond that please don't choose the $1 option of shipping.  Minimum of four boxes if you're ordering just balls first class, so there's enough space created to paste on the label. 
 			</td>
 			<td class="image">
-				<img src="productimages/dfish3.jpg" />
+				<img src="images/products/dfish3.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -132,7 +132,7 @@ urchinTracker();
 		 has tracking available I've been able to sell a lot more bags of balls overseas. 
 			</td>
 			<td class="image">
-				<img src="productimages/gambler 3star.JPG" />
+				<img src="images/products/gambler 3star.JPG" />
 			</td>
 		</tr>
 	</table>

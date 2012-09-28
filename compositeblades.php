@@ -106,7 +106,7 @@ urchinTracker();
 				Click this button once for each sheet of Quattro or Quattro UL you want to use in a combo.  Use this also if you want any sponge/top combination that costs over $14.
 			</td>
 			<td class="image">
-				<img src="productimages/inspiritquattro.JPG">
+				<img src="images/products/inspiritquattro.JPG">
 			</td>
 		</tr>
 	</table>
@@ -151,7 +151,7 @@ urchinTracker();
         The crafstmanship of this blade, the aesthetics (finish), may not be quite up to the T series, but I think it plays much better.  Better tone and control.  More dwell.  Seems like better materials.
 		
 			<td class="image">
-				<img src="productimages/gts.JPG" />
+				<img src="images/products/gts.JPG" />
 			</td>
 		</tr>
 	</table>
@@ -192,7 +192,7 @@ urchinTracker();
 				chopping, but enough speed for a pretty good loop.  The three layers of arylate give a very consistent block.  Not so much a drop shot block, but more of a punch block. *OUT OF STOCK FLARED*
 			</td>
 			<td class="image">
-				<img src="productimages/de1.JPG" />
+				<img src="images/products/de1.JPG" />
 			</td>
 		</tr>
 	</table>
@@ -237,7 +237,7 @@ urchinTracker();
 				very good review so far.
 			</td>
 			<td class="image">
-				<img src="productimages/genF.JPG" />
+				<img src="images/products/genF.JPG" />
 			</td>
 		</tr>
 	</table>
@@ -285,7 +285,7 @@ urchinTracker();
         played with.  I've had a couple of better players confirm my opinion.
 			</td>
 			<td class="image">
-				<img src="productimages/w1.jpg" />
+				<img src="images/products/w1.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -326,7 +326,7 @@ urchinTracker();
       they might be juniper, not really sure.  They have a more traditional carbon feel than the more wood-like W1. The T7 is correctly marked as "medium" speed. The T8 is also correctly 
       marked as fast.  They look identical so I only posted one pic. I try to keep some other T blades around as well, typically T1, 2, and 4. Email for availability on those. *OUT OF STOCK T7 STRAIGHT*
 			<td class="image">
-				<img src="productimages/galaxyT7.jpg" />
+				<img src="images/products/galaxyT7.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -366,7 +366,7 @@ urchinTracker();
 			
 			</td>
 			<td class="image">
-				<img src="productimages/t10.JPG" />
+				<img src="images/products/t10.JPG" />
 			</td>
 		</tr>
 	</table>
@@ -409,7 +409,7 @@ urchinTracker();
          
 			</td>
 			<td class="image">
-				<img src="productimages/wavestone.JPG" />
+				<img src="images/products/wavestone.JPG" />
 			</td>
 		</tr>
 	</table>
@@ -450,7 +450,7 @@ urchinTracker();
        
 			</td>
 			<td class="image">
-				<img src="productimages/gambler os kev.jpg" />
+				<img src="images/products/gambler os kev.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -493,7 +493,7 @@ urchinTracker();
       short game. STRAIGHT NO LONGER IN PRODUCTION.
 			</td>
 			<td class="image">
-				<img src="productimages/ac.png" />
+				<img src="images/products/ac.png" />
 			</td>
 		</tr>
 	</table>
@@ -533,7 +533,7 @@ urchinTracker();
 				but springy enough to loop with at mid distance.  Very little carbon tone in K5. Slight carbon tone in K6. V14 is replacing the K4.  
 			</td>
 			<td class="image">
-				<img src="productimages/k5.jpg" />
+				<img src="images/products/k5.jpg" />
 			</td>
 		</tr>
 	</table>

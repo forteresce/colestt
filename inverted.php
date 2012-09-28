@@ -64,7 +64,7 @@ urchinTracker();
   Requires 2 rubber upgrades per sheet in combo. - OUT OF STOCK 1.8, 2.0 black
 			</td>
 			<td class="image">
-				<img src="productimages/SCIROCCO.jpg">
+				<img src="images/products/SCIROCCO.jpg">
 			</td>
 		</tr>
 	</table>
@@ -111,7 +111,7 @@ urchinTracker();
 			The true strength of Illumina rubber lies in its control while countering or blocking heavy topspin. 
       Combo price is $14 per sheet while on sale...email me for this.  Neither type is tuned nor do they need tuning.  Effect is built in and permanent.  REQUIRES ONE RUBBER UPGRADE PER SHEET TO COMBO - *OUT OF STOCK ALL 1.8mm and 2.0mm*
 			<td class="image"> 
-				<img src="productimages/illumina.jpg">
+				<img src="images/products/illumina.jpg">
 			</td>
 		</tr>
 	</table>
@@ -161,7 +161,7 @@ urchinTracker();
      
 			</td>
 			<td class="image">
-				<img src="productimages/UL.JPG">
+				<img src="images/products/UL.JPG">
 			</td>
 		</tr>
 	</table>
@@ -202,7 +202,7 @@ urchinTracker();
 			
 			</td>
 			<td class="image">
-				<img src="productimages/moon.jpg" />
+				<img src="images/products/moon.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -249,7 +249,7 @@ urchinTracker();
      
 			</td>
 			<td class="image">
-				<img src="productimages/h3neo.jpg">
+				<img src="images/products/h3neo.jpg">
 			</td>
 		</tr>
 	</table>
@@ -295,7 +295,7 @@ urchinTracker();
      
 			</td>
 			<td class="image">
-				<img src="productimages/h3.png">
+				<img src="images/products/h3.png">
 			</td>
 		</tr>
 	</table>
@@ -336,7 +336,7 @@ urchinTracker();
 				This is the thicker topsheet version of quattro, which makes it play a little flatter than the UL version.  Pushes flatter, flat hits better, less topspin on loops. 
 			</td>
 			<td class="image">
-				<img src="productimages/inspiritquattro.JPG">
+				<img src="images/products/inspiritquattro.JPG">
 			</td>
 		</tr>
 	</table>
@@ -378,7 +378,7 @@ urchinTracker();
 			More controlled version of the inspirit series.  Still a very corky, euro copy sponge and an absolute steal at this price. *1.8 CARRIED IN 35deg ONLY*
 			</td>
 			<td class="image">
-				<img src="productimages/inspirit.JPG" />
+				<img src="images/products/inspirit.JPG" />
 			</td>
 		</tr>
 	</table>
@@ -425,7 +425,7 @@ urchinTracker();
 			
 			</td>
 			<td class="image">
-				<img src="productimages/venus.jpg" />
+				<img src="images/products/venus.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -462,7 +462,7 @@ urchinTracker();
 				The tackiest dawei offering I carry.
 			</td>
 			<td class="image">
-				<img src="productimages/sprungg3a2.jpg" />
+				<img src="images/products/sprungg3a2.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -505,7 +505,7 @@ urchinTracker();
       cake sponge loads topspin better. 
 			</td>
 			<td class="image">
-				<img src="productimages/outlaw.jpg">
+				<img src="images/products/outlaw.jpg">
 			</td>
 		</tr>
 	</table>
@@ -542,7 +542,7 @@ urchinTracker();
 				Wraith is the spinniest of the gambler rubbers and is quite fast for being fairly tacky.  Springy sponge.
 			</td>
 			<td class="image">
-				<img src="productimages/wraith.jpg" />
+				<img src="images/products/wraith.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -578,7 +578,7 @@ urchinTracker();
 				Shadow is a slightly more control oriented rubber than wraith.  Less tacky, softer sponge.
 			</td>
 			<td class="image">
-				<img src="productimages/shadow.jpg" />
+				<img src="images/products/shadow.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -615,7 +615,7 @@ urchinTracker();
       Most people who want to spin with it will go 2.0, and the 1.5 is more for chopping and blocking.
 			</td>
 			<td class="image">
-				<img src="productimages/reflectoid.jpg" />
+				<img src="images/products/reflectoid.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -657,7 +657,7 @@ urchinTracker();
 			
 			</td>
 			<td class="image">
-				<img src="productimages/2008xp.jpg" />
+				<img src="images/products/2008xp.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -697,7 +697,7 @@ urchinTracker();
 				A forum favorite, this rubber is very lightly tacky with a medium firm sponge.  A popular item.
 			</td>
 			<td class="image">
-				<img src="productimages/BlackPower.jpg" />
+				<img src="images/products/BlackPower.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -734,7 +734,7 @@ urchinTracker();
 			Tacky rubber with good control.  Something like geo tacky but a little firmer and faster.
 			</td>
 			<td class="image">
-				<img src="productimages/aces.jpg" />
+				<img src="images/products/aces.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -771,7 +771,7 @@ urchinTracker();
 				Modern, ultralight rubber made by friendship under the LKT brand.  Moderately tacky, this rubber is something like geo tacky.  Not quite as sticky but with a newer type of sponge. *OUT OF STOCK 2.0 Black*
 			</td>
 			<td class="image">
-				<img src="productimages/lktxt.jpg" />
+				<img src="images/products/lktxt.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -808,7 +808,7 @@ urchinTracker();
 				XP is supposed to be a less tacky (and therefore faster) version of the same rubber, but there's very little difference if any.  Instead, what I find (like many of the rubbers I carry) is that the black is quite a bit softer and tackier than the red in either make. 
 			</td>
 			<td class="image">
-				<img src="productimages/lktxp.jpg" />
+				<img src="images/products/lktxp.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -847,7 +847,7 @@ urchinTracker();
 				Geospin black tacky is among the stickiest, spiniest rubbers on the planet.  It has excellent control (being sticky it does react to incoming spin heavilly though), and is medium in speed.  The regular Geospin is supposed to be on a softer sponge, but I can't tell the difference.  I like black tacky on the forehand and red regular on BH if you choose these rubbers.
 			</td>
 			<td class="image">
-				<img src="productimages/geotacky.jpg" />
+				<img src="images/products/geotacky.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -884,7 +884,7 @@ urchinTracker();
 				One of the highest control rubbers on the market.
 			</td>
 			<td class="image">
-				<img src="productimages/fxel.jpg" />
+				<img src="images/products/fxel.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -920,7 +920,7 @@ urchinTracker();
 				fairly heavy, esp if you're using on both sides.
 			</td>
 			<td class="image">
-				<img src="productimages/cream.jpg" />
+				<img src="images/products/cream.jpg" />
 			</td>
 		</tr>
 	</table>
@@ -955,7 +955,7 @@ urchinTracker();
 				I believe this new snipe version is no longer japanese sponge, but the sponge is more consistent and the topsheet is probably the highest quality friendship makes.  Totally non tacky, quite soft.
 			</td>
 			<td class="image">
-				<img src="productimages/focus3.JPG" />
+				<img src="images/products/focus3.JPG" />
 			</td>
 		</tr>
 	</table>
