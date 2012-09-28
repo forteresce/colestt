@@ -32,7 +32,7 @@ urchinTracker();
 </script>
 <!-- All page content STARTS here -->
 
-<img src="title-woodblades.gif" /><br />
+<img src="images/title/woodblades.gif" /><br />
 	<p>
 		I will combo any blade with any rubber but AIR brand, but I have so many different options with different prices on rubbers, sponges, and topsheets that really the only way to work a combo is for you to email me and we'll work out pricing.  
     As a general rule the combo adds two rubbers and a case for $20, so below is a button that adds $20 to the order.  Unfortunately, you still have to designate

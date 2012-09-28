@@ -32,7 +32,7 @@ urchinTracker();
 </script>
 <!-- All page content STARTS here -->
 
-<img src="title-accessories.gif" /><br />
+<img src="images/title/accessories.gif" /><br />
 <br />
 
 

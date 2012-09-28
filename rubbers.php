@@ -33,14 +33,14 @@ urchinTracker();
 
 <!-- All page content STARTS here -->
 
-<img src="title-rubbers.gif" /><br />
+<img src="images/title/rubbers.gif" /><br />
 	<p>
 		As a general rule, inverted (smooth, tacky) rubbers are for spinning the ball and pips are for hitting through the ball.  But there's always exceptions, as is the case with anti-spin, long pips, and the new Dr. Evil anti-spin short pip.<br /><br />
 		Choose from the categories below:
 	</p>
 
-	<a href="inverted.php"><img src="inverted.gif" /></a><a href="topsheets-sponges.php"><img src="chinesetopsheets.gif" /></a><br />
-	<a href="pips.php"><img src="pipsout.gif" /></a><a href="topsheets-sponges.php#sponges"><img src="chinesesponges.gif" /></a>
+	<a href="inverted.php"><img src="images/rubbers/inverted.gif" /></a><a href="topsheets-sponges.php"><img src="images/rubbers/chinesetopsheets.gif" /></a><br />
+	<a href="pips.php"><img src="images/rubbers/pipsout.gif" /></a><a href="topsheets-sponges.php#sponges"><img src="images/rubbers/chinesesponges.gif" /></a>
 
 <?php include 'footer.php'; ?>
 </div> <!-- END OF body -->

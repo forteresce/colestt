@@ -32,7 +32,7 @@ urchinTracker();
 </script>
 <!-- All page content STARTS here -->
 
-<img src="title-howto.gif" /><br />
+<img src="images/title/howto.gif" /><br />
 <br /><br />
 
 <b>Table of contents</b>

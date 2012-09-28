@@ -72,7 +72,7 @@ maybe I have it.  Currently I'm carrying galaxy pluto, uranus, neptune, 955, pal
 </form>
 <br><br>
 
-<img src="title-pips.gif" /><br />
+<img src="images/title/pips.gif" /><br />
 <br />
 
 <table class="product">

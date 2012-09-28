@@ -32,7 +32,7 @@ urchinTracker();
 </script>
 <!-- All page content STARTS here -->
 
-<img src="title-contact.gif" /><br />
+<img src="images/title/contact.gif" /><br />
 	<p>
 		<b>E-mail:</b> <script type="text/javascript">nospam('cole_ely', 'hotmail', 'com');</script><br />
 		<b>Phone:</b> 620-624-5864<br/><br/>
