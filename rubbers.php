@@ -4,7 +4,7 @@
 <head>
 	<title>Cole's Equipment Site</title>
 	<meta http-equiv="content-type" content="text/html; charset=windows-1250">
-	<link rel="stylesheet" type="text/css" href="cole.css" />
+	<link rel="stylesheet" type="text/css" href="css/cole.css" />
 	<link rel="shortcut icon" href="favicon.ico" />
 	
 	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
