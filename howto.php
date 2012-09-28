@@ -13,18 +13,8 @@
 _uacct = "UA-993283-1";
 urchinTracker();
 </script>
-<script src="/nospam.js" type="text/javascript"></script>
-
-	
-	
+<script src="js/nospam.js" type="text/javascript"></script>
 </head>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-993283-1";
-urchinTracker();
-</script>
-<script src="/nospam.js" type="text/javascript"></script>
 
 <body>
 
