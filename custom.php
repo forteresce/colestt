@@ -2,14 +2,14 @@
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
-    <?php include 'head.php'; ?>
+    <?php include 'includes/head.php'; ?>
 </head>
 
 <body>
 
 <?php
-    include 'header.php';
-    include 'leftpane.php';
+    include 'includes/header.php';
+    include 'includes/leftpane.php';
 ?>
 
 <div id="body">
@@ -239,7 +239,7 @@
  
  <br><br><br>
 
-    <?php include 'footer.php'; ?>
+    <?php include 'includes/footer.php'; ?>
 </div> <!-- END OF body -->
 
 </body>

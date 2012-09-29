@@ -3,13 +3,13 @@
 <html>
     <head>
         <META name="verify-v1" content="UxNjCkjJk+ZWfvA4Me62wq3ES+yk2JUrzooQEAEyRn4=">
-        <?php include 'head.php'; ?>
+        <?php include 'includes/head.php'; ?>
     </head>
 
     <body>
         <?php
-            include 'header.php';
-            include 'leftpane.php';
+            include 'includes/header.php';
+            include 'includes/leftpane.php';
         ?>
 
         <div id="body">
@@ -70,7 +70,7 @@
                 <a href="contact.php">Contact me</a> for more accurate quotes, especially if you're outside the US.
             </p>
 
-            <?php include 'footer.php'; ?>
+            <?php include 'includes/footer.php'; ?>
         </div>
     </body>
 </html>

@@ -2,14 +2,14 @@
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
-    <?php include 'head.php'; ?>
+    <?php include 'includes/head.php'; ?>
 </head>
 
 <body>
 
 <?php
-    include 'header.php';
-    include 'leftpane.php';
+    include 'includes/header.php';
+    include 'includes/leftpane.php';
 ?>
 
 <div id="body">
@@ -24,7 +24,7 @@
 	<a href="inverted.php"><img src="images/rubbers/inverted.gif" /></a><a href="topsheets-sponges.php"><img src="images/rubbers/chinesetopsheets.gif" /></a><br />
 	<a href="pips.php"><img src="images/rubbers/pipsout.gif" /></a><a href="topsheets-sponges.php#sponges"><img src="images/rubbers/chinesesponges.gif" /></a>
 
-<?php include 'footer.php'; ?>
+<?php include 'includes/footer.php'; ?>
 </div> <!-- END OF body -->
 
 </body>
