@@ -58,8 +58,8 @@
             <tr>
                 <td class="body">
                     <span class="price">
-                        Platinum 3* (bag of 36)-$12<br>
-                        Gold 2* (bag of 72)-$15<br>
+                        Platinum 3* (Bag of 36)-$12<br />
+                        Gold 2* (Bag of 72)-$15<br />
                     </span>
                     <br /><br />
 
