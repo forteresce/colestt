@@ -119,10 +119,7 @@
 			</td>
 		</tr>
 	</table>
-    
-    <?php include 'includes/footer.php'; ?>
-</div> <!-- END OF body -->
-
+</div>
 </body>
 </html>
 

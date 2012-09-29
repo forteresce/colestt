@@ -13,7 +13,6 @@
 ?>
 
 <div id="body">
-<!-- All page content STARTS here -->
 <img src="images/title/howto.gif" /><br />
 <br /><br />
 
@@ -154,10 +153,7 @@
 			all will create some tension.</p></li>
 		</ol>
 </p>
-
-<?php include 'includes/footer.php'; ?>
-</div> <!-- END OF body -->
-
+</div>
 </body>
 </html>
 

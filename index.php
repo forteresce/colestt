@@ -69,8 +69,6 @@
 
                 <a href="contact.php">Contact me</a> for more accurate quotes, especially if you're outside the US.
             </p>
-
-            <?php include 'includes/footer.php'; ?>
         </div>
     </body>
 </html>

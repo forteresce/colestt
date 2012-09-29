@@ -300,8 +300,6 @@ See shipping policy for details.
 			</td>
 		</tr>
 	</table>
-    
-    <?php include 'includes/footer.php'; ?>
 </div>
 </body>
 </html>

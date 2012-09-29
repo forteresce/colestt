@@ -23,10 +23,7 @@
 		<br /><br />
 		As a general rule carbon will make a blade faster and stiffer, and more consistent through the blade face.  It also adds a somewhat annoying "pink" tone to your shots.  Other composites like arylate, glassfiber, and Kevlar don't stiffen or speed up the blade as much, and they feel softer.  They also enlarge the "sweet spot" while dampening the feel of the blade and absorbing some of the vibration.  Carbon in conjunction with another composite will help reduce the "pink" sound quite a bit.
 	</p>
-	
-    <?php include 'includes/footer.php'; ?>
-</div> <!-- END OF body -->
-
+</div>
 </body>
 </html>
 

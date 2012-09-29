@@ -13,7 +13,6 @@
 ?>
 
 <div id="body">
-<!-- All page content STARTS here -->
 Most of these pips come without sponge (ox) because it allows me to customize to the specs of each order.  If I tried to carry every possible permutation of sponge under each pip I'd go mad.  
 The dawei lightning pip is what used to be called cannon, and even it is at least the quality of sponge as what any of these factory versions would carry if I ordered them preassembled, and mostly better.  I have a button below to make it a $4 upcharge using cannon/lightning sponge (38-40deg).  <br> <br> 
 Or if you want to consider some of the higher quality sponges, look on the tops/sponge page. To be honest, at 1.0 and lower I don't really think it matters WHAT sponge you pick.  I can't tell the difference when it's that thin anyway. I'll assemble the top to the sponge for you, which by the way is no easy task with some of these thin-backed chinese pips, so please forgive me if it's not quite factory perfect at times.  It will be close enough or I'll start over and do it again. I just got in some ultrasoft 30deg sponge 
@@ -915,10 +914,7 @@ If you sink the ball you can get some spin from the sides of the pips.  I have i
 			</td>
 		</tr>
 	</table>
-
-<?php include 'includes/footer.php'; ?>
-</div> <!-- END OF body -->
-
+</div>
 </body>
 </html>
 

@@ -30,10 +30,7 @@
         <br>
         <iframe width="420" height="315" src="http://www.youtube.com/embed/KxjHMOxoApw" frameborder="0" allowfullscreen></iframe>
   </ul>
-
-    <?php include 'includes/footer.php'; ?>
-    </div> <!-- END OF body -->
-
+    </div>
 </body>
 </html>
 

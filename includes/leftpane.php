@@ -15,5 +15,6 @@
 	</div>
 	<br />
 	<center><a target="_blank" title="Ping Pong Videos and Reviews" href="http://www.tabletennisdb.com/"><img alt="Table Tennis Database" src="http://www.tabletennisdb.com/assets/table-tennis-images/ttdb-circle.gif" /></a></center>
+    <br /><a href="http://www.tabletennisdb.com/" title="Table Tennis Reviews" target="_blank">Table Tennis Database</a>
 </div>
 

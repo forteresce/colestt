@@ -13,7 +13,6 @@
 ?>
 
 <div id="body">
-<!-- All page content STARTS here -->
 <table class="product">
 		<tr>
 			<td class="prodname" colspan="2">AIR Scirocco SF on Lemon 40 - SALE $16</td>
@@ -942,16 +941,6 @@
 			</td>
 		</tr>
 	</table>
-
-
-
-
-
-
-
-
-<?php include 'includes/footer.php'; ?>
-</div> <!-- END OF body -->
-
+</div>
 </body>
 </html>
