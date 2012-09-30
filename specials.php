@@ -11,24 +11,22 @@
     ?>
 
     <div id="body">
-        <img src="images/title/specials.gif" /><br />
+        <img src="images/title/specials.gif" />
         <p>
-            Well, it used to be used blades.  Now it's used anything, or anything new on special. Used blades will combo for $20 above the listed price using most rubbers.  I will work with you and the seller	to combo blades that are sold on consignement if desired.  I don't make anything on these.  I just do it as a service and perhaps to generate traffic.  So if you have something you need to get 	rid of, let me know.  I used to do this all the time and I almost never do it anymore, so sell something.
+            It used to be used blades. Now it's used anything, or anything new on special. Used blades will combo for $20 above the listed price using most rubbers. I will work with you and the seller to combo blades that are sold on consignement if desired. I don't make anything on these. I just do it as a service and perhaps to generate traffic. So if you have something you need to get 	rid of, let me know. I used to do this all the time and I almost never do it anymore, so sell something.
         </p>
 
-        <br />
-        
         <table class="product">
             <tr>
                 <td class="prodname" colspan="2">Dawei "Premade Buster" Combo</td>
     		</tr>
             <tr>
                 <td class="body">
-                    <span class="price">
-                        Price: $28 - SALE $26
-                    </span>
-                    <br /><br />
-
+                    <p>
+                        <span class="price">
+                            Price: $28 - SALE $26
+                        </span>
+                    </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
                         <table>
                             <tr>
@@ -70,15 +68,16 @@
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
                     </form>
-                    <br /><br />
-                    
-                    Made with a Dawei Premade Buster blade and 2008XP rubbers, I'd put this against any premade under $60 at least.
-                    <br /><br />
-                    If you want to mix thicknesses, email me please.
-                    <br /><br />
-                    <b>Please select priority shipping with this item.</b> This is done on the checkout page after you enter your info. See shipping policy for instructions or details.
+                    <p>
+                        Made with a Dawei Premade Buster blade and 2008XP rubbers, I'd put this against any premade under $60 at least.
+                    </p>
+                    <p>
+                        If you want to mix thicknesses, email me please.
+                    </p>
+                    <p>
+                        <b>Please select $5 priority shipping with this combo.</b>
+                    </p>
                 </td>
-                
                 <td class="image">
                     <img src="images/products/premade buster.JPG" />
                 </td>
@@ -91,11 +90,11 @@
             </tr>
             <tr>
                 <td class="body">
-                    <span class="price">
-                        Price: $16 - SALE $11 (2.2 35deg Red)
-                    </span>
-                    <br /><br />
-                    
+                    <p>
+                        <span class="price">
+                            Price: $16 - SALE $11 (2.2 35deg Red)
+                        </span>
+                   </p> 
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
                         <table>
                             <tr>
@@ -116,9 +115,9 @@
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
                     </form>
-                    <br />
-                    
-                    Misordered and overstocked. My mistake is your gain.
+                    <p>
+                        Misordered and overstocked. My mistake is your gain.
+                    </p
                 </td>
                 <td class="image">
                     <img src="images/products/UL.JPG">
@@ -132,11 +131,11 @@
             </tr>
             <tr>
                 <td class="body">
-                    <span class="price">
-                        Price: $15 - SALE $10
-                    </span>
-                    <br /><br />
-                    
+                    <p>
+                        <span class="price">
+                            Price: $15 - SALE $10
+                        </span>
+                    </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
                         <table>
                             <tr>
@@ -157,7 +156,6 @@
                                 </td>
                             </tr>
                         </table>
-                        
                         <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but22.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
                         <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
                         <input type="hidden" name="add" value="1">
@@ -170,51 +168,15 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
                     </form>
-                    <br />
-                    
-                    This is a quality traditional Chinese, tacky topsheet on a fairly hard but heavilly tuned sponge. Thicker plastic base seems to allow the sponge to retain the tuner more than other makes I've tried.  Quality product but the provincial Moon is what's selling now in tuned, and I don't want to hold onto a tuned rubber too long.
+                    <p>
+                        This is a quality traditional Chinese, tacky topsheet on a fairly hard but heavilly tuned sponge. Thicker plastic base seems to allow the sponge to retain the tuner more than other makes I've tried. Quality product but the provincial Moon is what's selling now in tuned, and I don't want to hold onto a tuned rubber too long.
+                    </p>
                 </td>
                 <td class="image">
                     <img src="images/products/venus.jpg" />
                 </td>
             </tr>
         </table>
-        
-        <!--
-        <table class="product">
-            <tr>
-                <td class="prodname" colspan="2">Juic Masterspin 2.0 Black - SOLD OUT!</td>
-            </tr>
-            <tr>
-                <td class="body">
-                    <span class="price">
-                        Price: $20
-                    </span>
-                    <br /><br />
-                    
-                    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                        <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but22.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
-                        <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                        <input type="hidden" name="add" value="1">
-                        <input type="hidden" name="cmd" value="_cart">
-                        <input type="hidden" name="business" value="cole.ely@gmail.com">
-                        <input type="hidden" name="item_name" value="Masterspin">
-                        <input type="hidden" name="amount" value="20">
-                        <input type="hidden" name="no_shipping" value="2">
-                        <input type="hidden" name="no_note" value="1">
-                        <input type="hidden" name="currency_code" value="USD">
-                        <input type="hidden" name="bn" value="PP-ShopCartBF">
-                    </form>
-                    <br />
-                    
-                    I've played against this rubber, but never with.  I remember it seemed to be more like a medium pips.  Able to generate some spin but also to let some through.
-                </td>
-                <td class="image">
-                    <img src="images/products/masterspin.JPG" />
-                </td>
-            </tr>
-        </table>
-        -->
     </div>
 </body>
 </html>
