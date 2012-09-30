@@ -14,8 +14,7 @@
         <img src="images/title/rubbers.gif" /><br />
         <p>
             As a general rule, inverted (smooth, tacky) rubbers are for spinning the ball and pips are for hitting through the ball.  But there's always exceptions, as is the case with anti-spin, long pips, and the new Dr. Evil anti-spin short pip.
-            <br /><br />
-            Choose from the categories below:
+            <br />
         </p>
 
         <a href="inverted.php"><img src="images/rubbers/inverted.gif" /></a>

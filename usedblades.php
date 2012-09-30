@@ -20,13 +20,12 @@
         
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Dawei "Premade Buster" Combo (R2 Shown)</td>
+                <td class="prodname" colspan="2">Dawei "Premade Buster" Combo</td>
     		</tr>
             <tr>
                 <td class="body">
                     <span class="price">
-                        Price: $28.00<br />
-                        * SALE $26
+                        Price: $28.00 - SALE $26
                     </span>
                     <br /><br />
 
@@ -34,11 +33,28 @@
                         <table>
                             <tr>
                                 <td><input type="hidden" name="on0" value="Blade/Handle Type">Blade/Handle</td>
-                                <td><select name="os0"><option value="R5 St">R5 Straight<option value="R5 Fl">R5 Flared<option value="R5 Cpen">R5Cpen<option value="R2 St">R2 Straight<option value="R2 Fl">R2 Flared<option value="R2 Cpen">R2Cpen<option value="DW2 St">DW2 Straight<option value="DW2 Fl">DW2 Flared<option value="DW2 Cpen">DW2 Pen</select></td>
+                                <td>
+                                    <select name="os0">
+                                        <option value="DW2 Straight">Control DW2 Straight
+                                        <option value="DW2 Flared">Control DW2 Flared
+                                        <option value="DW2 Cpen">Control DW2 Cpen
+                                        <option value="R2 Straight">Medium R2 Straight
+                                        <option value="R2 Flared">Medium R2 Flared
+                                        <option value="R2 Cpen">Medium R2 Cpen
+                                        <option value="R5 Straight">Fast R5 Straight
+                                        <option value="R5 Flared">Fast R5 Flared
+                                        <option value="R5 Cpen">Fast R5 Cpen
+                                    </select>
+                                </td>
                             </tr>
                             <tr>
                                 <td><input type="hidden" name="on1" value="Thickness">Thickness</td>
-                                <td><select name="os1"><option value="1.8">1.8<option value="2.0">2.0</select></td>
+                                <td>
+                                    <select name="os1">
+                                        <option value="1.8">1.8
+                                        <option value="2.0">2.0
+                                    </select>
+                                </td>
                             </tr>
                         </table>
                         <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but22.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
@@ -54,10 +70,11 @@
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
                     </form>
-                    <br /><br /><br />
-                    
-                    An easy way to buy your custom premade buster combo of choice.  Made with premade buster blade and 2008xp rubbers, I'd put this against any premade under $60 at least.         If you want to mix thicknesses, email me please.        PLEASE Select priority shipping with this item.  This is done on the checkout page after you enter your info.  See shipping policy for instructions or details.
                     <br /><br />
+                    
+                    An easy way to buy your custom premade buster combo of choice.  Made with premade buster blade and 2008XP rubbers, I'd put this against any premade under $60 at least.         If you want to mix thicknesses, email me please.        PLEASE Select priority shipping with this item.  This is done on the checkout page after you enter your info.  See shipping policy for instructions or details.
+                    <br /><br />
+                    (OUT OF STOCK DW2 Flared)
                 </td>
                 
                 <td class="image">
@@ -68,12 +85,12 @@
         
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Galaxy Venus2 Tuned - SALE $10</td>
+                <td class="prodname" colspan="2">Galaxy Venus 2 Tuned</td>
             </tr>
             <tr>
                 <td class="body">
                     <span class="price">
-                        Price: $15.00<br />
+                        Price: $15.00 - SALE $10<br />
                     </span>
                     <br /><br />
                     
@@ -81,11 +98,20 @@
                         <table>
                             <tr>
                                 <td><input type="hidden" name="on0" value="Color">Color</td>
-                                <td><select name="os0"><option value="Red">Red<option value="Black">Black</select></td>
+                                <td>
+                                    <select name="os0">
+                                        <option value="Black">Black
+                                        <option value="Red">Red
+                                    </select>
+                                </td>
                             </tr>
                             <tr>
                                 <td><input type="hidden" name="on1" value="Thickness">Thickness</td>
-                                <td><select name="os1"><option value="2.2">2.2</select></td>
+                                <td>
+                                    <select name="os1">
+                                        <option value="2.2">2.2
+                                    </select>
+                                </td>
                             </tr>
                         </table>
                         
@@ -103,7 +129,7 @@
                     </form>
                     <br />
                     
-                    This is a quality traditional chinese, tacky topsheet on a fairly hard but heavilly tuned sponge. Thicker plastic base seems to allow the sponge				to retain the tuner more than other makes I've tried.  Quality product but the provincial Moon is what's selling now in tuned , and I don't want to hold onto a tuned rubber too long.
+                    This is a quality traditional chinese, tacky topsheet on a fairly hard but heavilly tuned sponge. Thicker plastic base seems to allow the sponge to retain the tuner more than other makes I've tried.  Quality product but the provincial Moon is what's selling now in tuned, and I don't want to hold onto a tuned rubber too long.
                 </td>
                 <td class="image">
                     <img src="images/products/venus.jpg" />
@@ -113,12 +139,12 @@
         
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Quattro Ultralight 2.2 35 RED ONLY</td>
+                <td class="prodname" colspan="2">Quattro Ultralight (2.2 35deg RED ONLY)</td>
             </tr>
             <tr>
                 <td class="body">
                     <span class="price">
-                        Price:OVERSTOCK SALE $11<br />
+                        Price: OVERSTOCK SALE $11<br />
                     </span>
                     <br /><br />
                     
@@ -126,7 +152,7 @@
                         <table>
                             <tr>
                                 <td><input type="hidden" name="on0" value="Color/Type">Color/Type</td>
-                                <td><select name="os0"><option value="UL 2.2 35 Red">UL 2.2 35 Red</select></td>
+                                <td><select name="os0"><option value="2.2 35deg Red">2.2 35deg Red</select></td>
                             </tr>
                         </table>
                         <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but22.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
@@ -152,9 +178,10 @@
             </tr>
         </table>
         
+        <!--
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Juic Masterspin 2.0 Black - SOLD!</td>
+                <td class="prodname" colspan="2">Juic Masterspin 2.0 Black - SOLD OUT!</td>
             </tr>
             <tr>
                 <td class="body">
@@ -185,6 +212,7 @@
                 </td>
             </tr>
         </table>
+        -->
     </div>
 </body>
 </html>

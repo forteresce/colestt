@@ -31,7 +31,7 @@
             Olympian has put on a table tennis coaching website at ttEDGE.com which features coaching 
             videos, match analysis, training exercises, blogs and more. ColesTT customers receive a 10% 
             discount when signing up   any any Gold or Platinum membership. Use promo code colestt611 to 
-            claim your discount: <a href="http://www.ttEDGE.com">Table Tennis Coaching ttEDGE</a></b>
+            claim your discount:</b> <a href="http://www.ttEDGE.com">Table Tennis Coaching ttEDGE</a>
             <br /><br />
         </p>
         
@@ -39,8 +39,8 @@
         <p>
             I accept payment through the following: 
             <ul>
-                <li><b>credit card</b> through <b>PayPal</b></li>
-                <li><b>personal checks</b> (for approved customers only)</li>
+                <li><b>Credit card</b> through <b>PayPal</b></li>
+                <li><b>Personal checks</b> (for approved customers only)</li>
             </ul>
             NOTE: <u>You do NOT need to have a PayPal account</u> in order to pay by credit card through PayPal.
             <br /><br />

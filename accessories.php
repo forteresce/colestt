@@ -16,12 +16,12 @@
 
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Dawei Net and Post Set - Heavy Clip</td>
+                <td class="prodname" colspan="2">Dawei Net and Post Set (Heavy Clip)</td>
             </tr>
             <tr>
                 <td class="body">
                     <span class="price">
-                        Price: $35.00
+                        Price: $35
                     </span>
                     <br /><br />
             
@@ -41,7 +41,7 @@
             
                     Extremely nice and durable.  Don't be afraid of the clip.  This is all solid stuff.  I've had mine on and off at the club 2x a week for 3 years 
                     and they're still like new, literally.  Clamp is super heavy, but it won't fix your table if the heights don't match like screw will. :)  It will hold the 
-                    net as tight as you want it though.  Comes with a cheap net, but I include the much nicer "replacement net" seen below.
+                    net as tight as you want it though.  Comes with a cheap net, but I include the much nicer "Replacement Net" seen below.
                 </td>
                 <td class="image">
                     <img src="images/products/galaxy1803post.jpg"/>
@@ -56,7 +56,7 @@
             <tr>
                 <td class="body">
                     <span class="price">
-                        Price: $6.00
+                        Price: $6
                     </span>
                     <br /><br />
             
@@ -66,8 +66,8 @@
                         <input type="hidden" name="add" value="1">
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
-                        <input type="hidden" name="item_name" value="Replacement net">
-                        <input type="hidden" name="amount" value="6.00">
+                        <input type="hidden" name="item_name" value="Replacement Net">
+                        <input type="hidden" name="amount" value="6">
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
@@ -99,7 +99,7 @@
                         <input type="hidden" name="add" value="1">
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
-                        <input type="hidden" name="item_name" value="Galaxy edge tape">
+                        <input type="hidden" name="item_name" value="Galaxy Edge Tape">
                         <input type="hidden" name="amount" value=".40">
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
@@ -123,7 +123,7 @@
             <tr>
                 <td class="body">
                     <span class="price">
-                        Price: $12.00
+                        Price: $12
                     </span>
                     <br /><br />
                     
@@ -134,7 +134,7 @@
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
                         <input type="hidden" name="item_name" value="Dawei Water-Based Glue">
-                        <input type="hidden" name="amount" value="12.00">
+                        <input type="hidden" name="amount" value="12">
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
@@ -153,12 +153,12 @@
 
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Dawei Racket Cover - Eliptical</td>
+                <td class="prodname" colspan="2">Dawei Racket Cover (Elliptical)</td>
             </tr>
             <tr>
                 <td class="body">
                     <span class="price">
-                        Price: $5.00
+                        Price: $5
                     </span>
                     <br /><br />
                     
@@ -168,8 +168,8 @@
                         <input type="hidden" name="add" value="1">
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
-                        <input type="hidden" name="item_name" value="Racket Cover (full)">
-                        <input type="hidden" name="amount" value="5.00">
+                        <input type="hidden" name="item_name" value="Racket Cover (Full)">
+                        <input type="hidden" name="amount" value="5">
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
@@ -186,12 +186,12 @@
 
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Racket Cover (round) - SALE $3</td>
+                <td class="prodname" colspan="2">Racket Cover (Round)</td>
             </tr>
             <tr>
                 <td class="body">
                     <span class="price">
-                        Price: $4.00
+                        Price: $4 - SALE $3 
                     </span>
                     <br /><br />
                     
@@ -201,8 +201,8 @@
                         <input type="hidden" name="add" value="1">
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
-                        <input type="hidden" name="item_name" value="Racket Cover (round)">
-                        <input type="hidden" name="amount" value="3.00">
+                        <input type="hidden" name="item_name" value="Racket Cover (Round)">
+                        <input type="hidden" name="amount" value="3">
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
@@ -217,15 +217,14 @@
             </tr>
         </table>
 
-        If you order just a case and only pay $1 shipping, you will get a slightly smaller case that I can stuff into a 9x12 clasp.  If you pay $5 for shipping you get a full one with divider.
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Racket Cover (rectangular)</td>
+                <td class="prodname" colspan="2">Racket Cover (Rectangular)</td>
             </tr>
             <tr>
                 <td class="body">
                     <span class="price">
-                        Price: $9.00
+                        Price: $9
                     </span>
                     <br /><br />
                     
@@ -235,15 +234,16 @@
                         <input type="hidden" name="add" value="1">
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
-                        <input type="hidden" name="item_name" value="Racket Cover (rectangular)">
-                        <input type="hidden" name="amount" value="9.00">
+                        <input type="hidden" name="item_name" value="Racket Cover (Rectangular)">
+                        <input type="hidden" name="amount" value="9">
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
                     </form>
                     <br />
                     
-                    Purchased separately or available with combos for up-charge.  Do not select $1 shipping with this item.
+                    Purchased separately or available with combos for up-charge.  Do not select $1 shipping with this item.<br /><br />
+                    If you order just a case and only pay $1 shipping, you will get a slightly smaller case that I can stuff into a 9x12 clasp.  If you pay $5 for shipping you get a full one with divider.
                 </td>
                 <td class="image">
                     <img src="images/products/racketcover2.jpg"/>
@@ -253,12 +253,12 @@
 
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Glue sheets - AIR</td>
+                <td class="prodname" colspan="2">Glue Sheets (AIR)</td>
             </tr>
             <tr>
                 <td class="body">
                     <span class="price">
-                        Price: $2.00
+                        Price: $2
                     </span>
                     <br /><br />
                     
@@ -268,8 +268,8 @@
                         <input type="hidden" name="add" value="1">
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
-                        <input type="hidden" name="item_name" value="1 glue sheet">
-                        <input type="hidden" name="amount" value="2.00">
+                        <input type="hidden" name="item_name" value="1 Glue Sheet">
+                        <input type="hidden" name="amount" value="2">
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
