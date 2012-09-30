@@ -11,9 +11,7 @@
     ?>
 
     <div id="body">
-        <p>
-            <img src="images/title/balls.gif"/>
-        </p>
+        <img src="images/title/balls.gif"/>
 
         <table class="product">
             <tr>
@@ -51,8 +49,15 @@
                             <input type="hidden" name="bn" value="PP-ShopCartBF">
                         </form>
                     </p>
-                    <p>For me, this is the best 3 star ball. Although some people try both and prefer the DHS, I seem to get more repeat orders for these when customers try both. They have a hard feel and are durable. At $3 a box they're an incredible bargain.</p>
-                    <p>I can ship up to 8 boxes first class for $1. Beyond that please don't choose the $1 option of shipping. Minimum of 4 boxes if you're ordering just balls first class, so there's enough space created to paste on the label.</p> 
+                    <p>
+                        This is the best 3 star ball in my opinion. Many customers seem to prefer this over DHS. They have a hard feel and are durable. At $3 a box they're an incredible bargain.
+                    </p>
+                    <p>
+                        Minimum of <b>4 boxes</b> if you're ordering just balls for space to paste a label.
+                    </p> 
+                    <p>
+                        I can ship up to 8 boxes first class for $1. Beyond that please choose $5 priority shipping.
+                    </p>
                 </td>
                 <td class="image">
                     <img src="images/products/dfish3.jpg"/>
@@ -134,13 +139,16 @@
                         </form>
                     </p>
                     <p>
-                        Why pay for a pretty box you're going to throw away? Because they're bagged and use a single colored stamp, they're half the price of comparable products, making them the best value in balls on the market. The 3 star are USATT approved tournament quality. The 2 star are great for service practice or multiball.
+                        Why pay for a pretty box you're going to throw away? Because these are bagged and use a single colored stamp, they're half the price of comparable products, making them the best value in balls on the market.
                     </p>
                     <p>
-                        <b>Bags of balls cannot be shipped for $1, so please don't choose the $1 option with them.</b> (The change is made on the 2nd page of the cart, after you enter your info.)
+                        The 3 star are USATT approved tournament quality. The 2 star are great for service practice or multiball.
                     </p>
                     <p>
-                        Also, for international orders, shipping must be quoted separately with training balls because the bulk just makes shipping non-feasible in many cases. The balls are light but the weight of the box it takes to ship them becomes substantial, although now that first class has tracking available I've been able to sell a lot more bags of balls overseas.
+                        <b>Bags can only be shipped with $5 priority shipping.</b>
+                    </p>
+                    <p>
+                        For international orders, shipping must be quoted separately because the bulk just makes shipping impossible in many cases. This is because the balls are light, but the weight of the box makes the shipping charge substantial. 
                     </p>
                 </td>
                 <td class="image">
