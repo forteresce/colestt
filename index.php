@@ -51,7 +51,7 @@
             <b>International Shipping:</b> I have shipped to every continent except Antarctica.	I charge actual shipping for 
             international orders. NOTE: Shipping rates have changed. Now anything above 5oz has to go in a 
             priority flat rate envelope. So if you're going to get more than one rubber, you might as well get 10 as far 
-            as shipping is concerned. Priority international has gone to $15. Above that it varies by weight but will go 
+            as shipping is concerned. Priority international has gone to $16.50. Above that it varies by weight but will go 
             priority which is trackable (actually just "deliver confirmation"). If the order won't fit in a flat rate envelope, 
             it's best if you email me for a shipping quote.
             <br /><br />
@@ -61,7 +61,7 @@
             ON THE SECOND PAGE OF THE CART, AFTER YOU PUT IN YOUR INFO.</b>
             <br /><br />
         
-            otherwise I use USPS Priority which is $5 and takes two days to anywhere in the continental US. 
+            Otherwise I use USPS Priority which is $5 and takes two days to anywhere in the continental US. 
             Both domestic options will include "delivery confirmation." I reserve the right to refuse any order (with full 
             refund of course) due to shipping infeasibility or for any other reason I deem appropriate.
             <br /><br />
