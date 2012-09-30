@@ -162,7 +162,7 @@
                                 <td><input type="hidden" name="on1" value="Thickness">Thickness</td>
                                 <td>
                                     <select name="os1">
-                                        <option value="1.8 35">1.8 SV
+                                        <option value="1.8 SV">1.8 SV
                                         <option value="2.0 SV">2.0 SV
                                         <option value="2.2 SV">2.2 SV
                                         <option value="Max SV">Max SV
@@ -1111,7 +1111,7 @@
                         <input type="hidden" name="add" value="1">
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
-                        <input type="hidden" name="item_name" value="729 Cream Magic Red Sponge">
+                        <input type="hidden" name="item_name" value="729 Cream on Magic Red Sponge">
                         <input type="hidden" name="amount" value="14">
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
