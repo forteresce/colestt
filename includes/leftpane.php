@@ -6,7 +6,7 @@
 		<a href="blades.php"><img src="images/sidemenu/blades.gif" /></a><br />
 		<a href="balls.php"><img src="images/sidemenu/balls.gif" /></a><br />
 		<a href="accessories.php"><img src="images/sidemenu/accessories.gif" /></a><br />
-		<a href="usedblades.php"><img src="images/sidemenu/specials.gif" /></a><br />
+		<a href="specials.php"><img src="images/sidemenu/specials.gif" /></a><br />
 		<img src="images/sidemenu/midsection.gif" /><br />
 		<a href="howto.php"><img src="images/sidemenu/howto.gif" /></a><br />
 		<a href="contact.php"><img src="images/sidemenu/contact.gif" /></a><br />

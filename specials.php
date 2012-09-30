@@ -11,7 +11,7 @@
     ?>
 
     <div id="body">
-        <img src="images/title/usedblades.gif" /><br />
+        <img src="images/title/specials.gif" /><br />
         <p>
             Well, it used to be used blades.  Now it's used anything, or anything new on special. Used blades will combo for $20 above the listed price using most rubbers.  I will work with you and the seller	to combo blades that are sold on consignement if desired.  I don't make anything on these.  I just do it as a service and perhaps to generate traffic.  So if you have something you need to get 	rid of, let me know.  I used to do this all the time and I almost never do it anymore, so sell something.
         </p>
@@ -25,7 +25,7 @@
             <tr>
                 <td class="body">
                     <span class="price">
-                        Price: $28.00 - SALE $26
+                        Price: $28 - SALE $26
                     </span>
                     <br /><br />
 
@@ -62,8 +62,8 @@
                         <input type="hidden" name="add" value="1">
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
-                        <input type="hidden" name="item_name" value="Premade Buster Combo">
-                        <input type="hidden" name="amount" value="26.00">
+                        <input type="hidden" name="item_name" value="Dawei Premade Buster Combo">
+                        <input type="hidden" name="amount" value="26">
                         <input type="hidden" name="no_shipping" value="2">
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
@@ -72,11 +72,56 @@
                     </form>
                     <br /><br />
                     
-                    An easy way to buy your custom premade buster combo of choice.  Made with premade buster blade and 2008XP rubbers, I'd put this against any premade under $60 at least.         If you want to mix thicknesses, email me please.        PLEASE Select priority shipping with this item.  This is done on the checkout page after you enter your info.  See shipping policy for instructions or details.
+                    Made with a Dawei Premade Buster blade and 2008XP rubbers, I'd put this against any premade under $60 at least.
+                    <br /><br />
+                    If you want to mix thicknesses, email me please.
+                    <br /><br />
+                    <b>Please select priority shipping with this item.</b> This is done on the checkout page after you enter your info. See shipping policy for instructions or details.
                 </td>
                 
                 <td class="image">
                     <img src="images/products/premade buster.JPG" />
+                </td>
+            </tr>
+        </table>
+        
+        <table class="product">
+            <tr>
+                <td class="prodname" colspan="2">Dawei Inspirit Quattro Ultralight</td>
+            </tr>
+            <tr>
+                <td class="body">
+                    <span class="price">
+                        Price: $16 - SALE $11 (2.2 35deg Red)
+                    </span>
+                    <br /><br />
+                    
+                    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                        <table>
+                            <tr>
+                                <td><input type="hidden" name="on0" value="Color/Type">Color/Type</td>
+                                <td><select name="os0"><option value="2.2 35deg Red">2.2 35deg Red</select></td>
+                            </tr>
+                        </table>
+                        <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but22.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+                        <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                        <input type="hidden" name="add" value="1">
+                        <input type="hidden" name="cmd" value="_cart">
+                        <input type="hidden" name="business" value="cole.ely@gmail.com">
+                        <input type="hidden" name="item_name" value="Dawei Inspirit Ultralight 2.2 35deg Red">
+                        <input type="hidden" name="amount" value="11">
+                        <input type="hidden" name="no_shipping" value="0">
+                        <input type="hidden" name="no_note" value="1">
+                        <input type="hidden" name="currency_code" value="USD">
+                        <input type="hidden" name="lc" value="US">
+                        <input type="hidden" name="bn" value="PP-ShopCartBF">
+                    </form>
+                    <br />
+                    
+                    Misordered and overstocked. My mistake is your gain.
+                </td>
+                <td class="image">
+                    <img src="images/products/UL.JPG">
                 </td>
             </tr>
         </table>
@@ -88,7 +133,7 @@
             <tr>
                 <td class="body">
                     <span class="price">
-                        Price: $15.00 - SALE $10<br />
+                        Price: $15 - SALE $10
                     </span>
                     <br /><br />
                     
@@ -118,8 +163,8 @@
                         <input type="hidden" name="add" value="1">
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
-                        <input type="hidden" name="item_name" value="Venus 2">
-                        <input type="hidden" name="amount" value="10.00">
+                        <input type="hidden" name="item_name" value="Galaxy Venus 2 Tuned">
+                        <input type="hidden" name="amount" value="10">
                         <input type="hidden" name="no_shipping" value="2">
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
@@ -135,47 +180,6 @@
             </tr>
         </table>
         
-        <table class="product">
-            <tr>
-                <td class="prodname" colspan="2">Quattro Ultralight (2.2 35deg RED ONLY)</td>
-            </tr>
-            <tr>
-                <td class="body">
-                    <span class="price">
-                        Price: OVERSTOCK SALE $11<br />
-                    </span>
-                    <br /><br />
-                    
-                    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                        <table>
-                            <tr>
-                                <td><input type="hidden" name="on0" value="Color/Type">Color/Type</td>
-                                <td><select name="os0"><option value="2.2 35deg Red">2.2 35deg Red</select></td>
-                            </tr>
-                        </table>
-                        <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but22.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
-                        <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                        <input type="hidden" name="add" value="1">
-                        <input type="hidden" name="cmd" value="_cart">
-                        <input type="hidden" name="business" value="cole.ely@gmail.com">
-                        <input type="hidden" name="item_name" value="UL 2.2 35deg Red">
-                        <input type="hidden" name="amount" value="11.00">
-                        <input type="hidden" name="no_shipping" value="0">
-                        <input type="hidden" name="no_note" value="1">
-                        <input type="hidden" name="currency_code" value="USD">
-                        <input type="hidden" name="lc" value="US">
-                        <input type="hidden" name="bn" value="PP-ShopCartBF">
-                    </form>
-                    <br />
-                    
-                    Misordered last time.  My mistake is your gain.
-                </td>
-                <td class="image">
-                    <img src="images/products/UL.JPG">
-                </td>
-            </tr>
-        </table>
-        
         <!--
         <table class="product">
             <tr>
@@ -184,7 +188,7 @@
             <tr>
                 <td class="body">
                     <span class="price">
-                        Price: $20<br />
+                        Price: $20
                     </span>
                     <br /><br />
                     
@@ -195,7 +199,7 @@
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
                         <input type="hidden" name="item_name" value="Masterspin">
-                        <input type="hidden" name="amount" value="20.00">
+                        <input type="hidden" name="amount" value="20">
                         <input type="hidden" name="no_shipping" value="2">
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
