@@ -60,8 +60,7 @@
                     <br />
 
                     Very lightly tacky, soft, medium thickness topsheet complemented by a 40deg sponge with a lot of pop (both sound and speed).  Could pass for Japanese make easilly.  
-                    Requires 2 rubber upgrades per sheet in combo.<br /><br />
-                    (OUT OF STOCK 1.8, 2.0 Black)
+                    Requires 2 rubber upgrades per sheet in combo.
                 </td>
                 <td class="image">
                     <img src="images/products/SCIROCCO.jpg"/>
@@ -128,8 +127,7 @@
                     The new version is 35deg but bouncy and clicky. They call it "Delta Sound."
                     The true strength of Illumina rubber lies in its control while countering or blocking heavy topspin. 
                     Combo price is $14 per sheet while on sale... email me for this.  Neither type is tuned nor do they need tuning.  Effect is built in and permanent.<br /><br />
-                    REQUIRES ONE RUBBER UPGRADE PER SHEET TO COMBO<br /><br />
-                    (ONLY 2.2 IN STOCK)
+                    REQUIRES ONE RUBBER UPGRADE PER SHEET TO COMB/
                 </td>
                 <td class="image"> 
                     <img src="images/products/illumina.jpg"/>
@@ -140,7 +138,7 @@
         <a id="inspiritquattro"></a>
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Inspirit Quattro ULTRALIGHT</td>
+                <td class="prodname" colspan="2">Dawei Inspirit Quattro ULTRALIGHT</td>
             </tr>
             <tr>
                 <td class="body">
@@ -195,7 +193,6 @@
                     Dawei's best Euro copy rubber. Thin top allows for better sink into the sponge and better use of the best glue feel sponge of any unglued rubber coming from China by far.  This is a Euro style looping rubber, lightly tacky, and built for max topspin.
                     Max is supposed to be 2.3 but sometimes goes thicker.  The SV is around 35deg, Regular around 40, and Power version around 42deg.  42deg is available in 2.2 only.
                     If you want to use Quattro or Quattro UL in a combo you will need to click the "Quattro Upcharge" button below the regular Quattro, once for each sheet you want to use.  It will add $2 to the cost of your combo for each sheet.<br /><br />
-                    (OUT OF STOCK 42deg Black)
                     <br />
                 </td>
                 <td class="image">
@@ -370,7 +367,7 @@
         <a id="inspiritquattro"></a>
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Inspirit Quattro</td>
+                <td class="prodname" colspan="2">Dawei Inspirit Quattro</td>
             </tr>
             <tr>
                 <td class="body">
@@ -480,8 +477,7 @@
                     </form>
                     <br />
 
-                    More controlled version of the Inspirit series.  Still a very corky Euro copy sponge and an absolute steal at this price.<br /><br />
-                    (1.8 CARRIED IN 35deg ONLY)
+                    More controlled version of the Inspirit series.  Still a very corky Euro copy sponge and an absolute steal at this price.
                 </td>
                 <td class="image">
                     <img src="images/products/inspirit.JPG" />

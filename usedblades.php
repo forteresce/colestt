@@ -73,8 +73,6 @@
                     <br /><br />
                     
                     An easy way to buy your custom premade buster combo of choice.  Made with premade buster blade and 2008XP rubbers, I'd put this against any premade under $60 at least.         If you want to mix thicknesses, email me please.        PLEASE Select priority shipping with this item.  This is done on the checkout page after you enter your info.  See shipping policy for instructions or details.
-                    <br /><br />
-                    (OUT OF STOCK DW2 Flared)
                 </td>
                 
                 <td class="image">

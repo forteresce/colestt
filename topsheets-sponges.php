@@ -289,7 +289,7 @@
                     </form>
                     <br />
                     
-                    Very euro sponge with some glue feel.  Slightly springier than saviga.  Available in 1.8 2.0 2.2, and 2.3, densities 35, 40 and 42.  42 in 2.2 only. *OUT OF STOCK 2.2 42deg* *OUT OF STOCK 1.8 35deg*
+                    Very euro sponge with some glue feel.  Slightly springier than saviga.  Available in 1.8 2.0 2.2, and 2.3, densities 35, 40 and 42.  42 in 2.2 only.
                 </td>
                 <td class="image">
                     <img src="images/products/cannon.jpg" />
@@ -328,7 +328,7 @@
                     </form>
                     <br />
                     
-                    I firmly believe these sponges are the highest quality produced outside of Japan or Europe and better than many $30-40 rubbers' sponges.  Good spring for the softness and maximum glue feel. Lots of synthetic in the mix. I don't 			know of any sponge sold seperately that approaches this quality. **OUT OF STOCK 1.8 30deg**
+                    I firmly believe these sponges are the highest quality produced outside of Japan or Europe and better than many $30-40 rubbers' sponges.  Good spring for the softness and maximum glue feel. Lots of synthetic in the mix. I don't 			know of any sponge sold seperately that approaches this quality.
                 </td>
                 <td class="image">
                     <img src="images/products/cannon.jpg" />
@@ -367,7 +367,7 @@
                     </form>
                     <br />
                     
-                    This is the remarketing of the cannon sponge.  I carry it from 0.6 to 2.2 and it typically runs around 38deg.  For years this was the best sponge I carried and it sold for $8.  It still sells for that on another major seller's website.  Cannon, Dawei's low end sponge, is still better than most chinese companies' best sponges.				If you're ordering this with a pips-out topsheet, you can select it in the "add a sponge" section of the pips page for a lower price. - OUT OF STOCK 1.0
+                    This is the remarketing of the cannon sponge.  I carry it from 0.6 to 2.2 and it typically runs around 38deg.  For years this was the best sponge I carried and it sold for $8.  It still sells for that on another major seller's website.  Cannon, Dawei's low end sponge, is still better than most chinese companies' best sponges.				If you're ordering this with a pips-out topsheet, you can select it in the "add a sponge" section of the pips page for a lower price.
                 </td>
                 <td class="image">
                     <img src="images/products/lightning.jpg" />

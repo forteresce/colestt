@@ -206,7 +206,7 @@
                                         
                     The O is probably my favorite of the Genote line and the most unique.  It is a very thin blade, but made faster and stiffer by
                     the addition of two plies of red-stained, hardened ayous.  From the side, this blade looks like a donic dicon.  You can see a side pic
-                    at www.colestt.com/gpics.doc.  The blade is off- with a nice feel and a very nice look. *OUT OF STOCK CPEN*
+                    at www.colestt.com/gpics.doc.  The blade is off- with a nice feel and a very nice look.
                 </td>
                 <td class="image">
                     <img src="images/products/genO.JPG" />
@@ -816,8 +816,7 @@
                     This is pretty much an exclusive to Colestt.com. I don't know anyone else who is selling this quality of all ayous blade for $12, much less offering it as part of a custom combo for $28.  I have three versions
                     of premade buster blade, one (dw2) all+ and lighter, one offensive minus (r2), and one fairly fast (r5).  Try to find that anywhere else for $28!
                     <br /><br />
-                    If you want a premade buster combo, it is on sale for $26 on the specials page. *OUT OF STOCK DW2 Flared*
-                    <br><br>
+                    If you want a Premade Buster combo, it is on sale for $26 on the bpecials page.
                 </td>
                 <td class="image">
                     <img src="images/products/premade buster.JPG" />
