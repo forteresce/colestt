@@ -120,7 +120,7 @@
                         <input type="hidden" name="add" value="1">
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
-                        <input type="hidden" name="item_name" value="Venus2">
+                        <input type="hidden" name="item_name" value="Venus 2">
                         <input type="hidden" name="amount" value="10.00">
                         <input type="hidden" name="no_shipping" value="2">
                         <input type="hidden" name="no_note" value="1">
@@ -129,7 +129,7 @@
                     </form>
                     <br />
                     
-                    This is a quality traditional chinese, tacky topsheet on a fairly hard but heavilly tuned sponge. Thicker plastic base seems to allow the sponge to retain the tuner more than other makes I've tried.  Quality product but the provincial Moon is what's selling now in tuned, and I don't want to hold onto a tuned rubber too long.
+                    This is a quality traditional Chinese, tacky topsheet on a fairly hard but heavilly tuned sponge. Thicker plastic base seems to allow the sponge to retain the tuner more than other makes I've tried.  Quality product but the provincial Moon is what's selling now in tuned, and I don't want to hold onto a tuned rubber too long.
                 </td>
                 <td class="image">
                     <img src="images/products/venus.jpg" />
@@ -160,7 +160,7 @@
                         <input type="hidden" name="add" value="1">
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
-                        <input type="hidden" name="item_name" value="UL 2.2 35 Red">
+                        <input type="hidden" name="item_name" value="UL 2.2 35deg Red">
                         <input type="hidden" name="amount" value="11.00">
                         <input type="hidden" name="no_shipping" value="0">
                         <input type="hidden" name="no_note" value="1">
