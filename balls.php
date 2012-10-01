@@ -15,7 +15,9 @@
 
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Double Fish 3*</td>
+                <td class="prodname" colspan="2">
+                    Double Fish 3*
+                </td>
             </tr>
             <tr>
                 <td class="body">
@@ -67,7 +69,9 @@
 
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Gambler Platinum 3*, Gold 2*</td>
+                <td class="prodname" colspan="2">
+                    Gambler Platinum 3*, Gold 2*
+                </td>
             </tr>
             <tr>
                 <td class="body">

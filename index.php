@@ -49,7 +49,6 @@
         <p> 
             Otherwise I use USPS Priority which is $5 and takes two days to anywhere in the continental US. Both domestic options will include "delivery confirmation." I reserve the right to refuse any order (with full refund of course) due to shipping infeasibility or for any other reason I deem appropriate.
         </p>
-
         <p>
             <a href="contact.php">Contact me</a> for more accurate quotes, especially if you're outside the US.
         </p>

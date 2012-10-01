@@ -18,7 +18,9 @@
 
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Dawei "Premade Buster" Combo</td>
+                <td class="prodname" colspan="2">
+                    Dawei "Premade Buster" Combo
+                </td>
     		</tr>
             <tr>
                 <td class="body">
@@ -30,7 +32,9 @@
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
                         <table>
                             <tr>
-                                <td><input type="hidden" name="on0" value="Blade/Handle Type">Blade/Handle</td>
+                                <td>
+                                    <input type="hidden" name="on0" value="Blade/Handle Type">Blade/Handle
+                                </td>
                                 <td>
                                     <select name="os0">
                                         <option value="DW2 Straight">Control DW2 Straight
@@ -46,7 +50,9 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td><input type="hidden" name="on1" value="Thickness">Thickness</td>
+                                <td>
+                                    <input type="hidden" name="on1" value="Thickness">Thickness
+                                </td>
                                 <td>
                                     <select name="os1">
                                         <option value="1.8">1.8
@@ -98,8 +104,14 @@
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
                         <table>
                             <tr>
-                                <td><input type="hidden" name="on0" value="Color/Type">Color/Type</td>
-                                <td><select name="os0"><option value="2.2 35deg Red">2.2 35deg Red</select></td>
+                                <td>
+                                    <input type="hidden" name="on0" value="Color/Type">Color/Type
+                                </td>
+                                <td>
+                                    <select name="os0">
+                                        <option value="2.2 35deg Red">2.2 35deg Red
+                                    </select>
+                                </td>
                             </tr>
                         </table>
                         <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but22.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
@@ -139,7 +151,9 @@
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
                         <table>
                             <tr>
-                                <td><input type="hidden" name="on0" value="Color">Color</td>
+                                <td>
+                                    <input type="hidden" name="on0" value="Color">Color
+                                </td>
                                 <td>
                                     <select name="os0">
                                         <option value="Black">Black
@@ -148,7 +162,9 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td><input type="hidden" name="on1" value="Thickness">Thickness</td>
+                                <td>
+                                    <input type="hidden" name="on1" value="Thickness">Thickness
+                                </td>
                                 <td>
                                     <select name="os1">
                                         <option value="2.2">2.2

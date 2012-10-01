@@ -15,7 +15,9 @@
 
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Dawei Net and Post Set (Heavy Clip)</td>
+                <td class="prodname" colspan="2">
+                    Dawei Net and Post Set (Heavy Clip)
+                </td>
             </tr>
             <tr>
                 <td class="body">
@@ -37,7 +39,7 @@
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
                     </form>
                     <p>
-                        Extremely nice and durable. Don't be afraid of the clip. This is all solid stuff. I've had mine on and off at the club 2x a week for 3 years and they're still like new, literally.  Clamp is super heavy, but it won't fix your table if the heights don't match like screw will. :) It will hold the net as tight as you want it though.
+                        Extremely nice and durable. Don't be afraid of the clip. This is all solid stuff. I've had mine on and off at the club 2x a week for 3 years and they're still like new, literally. Clamp is super heavy, but it won't fix your table if the heights don't match like screw will. :) It will hold the net as tight as you want it though.
                     </p>
                     <p>    
                         Comes with a cheap net, but I include the much nicer "Replacement Net" seen below.
@@ -51,7 +53,9 @@
 
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Replacement Net</td>
+                <td class="prodname" colspan="2">
+                    Replacement Net
+                </td>
             </tr>
             <tr>
                 <td class="body">
@@ -73,7 +77,7 @@
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
                     </form>
                     <p>
-                        Not too bad for the price.  "Leatherette" side strips.
+                        Not too bad for the price. "Leatherette" side strips.
                     </p>
                 </td>
                 <td class="image">
@@ -84,7 +88,9 @@
 
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Dawei Water-Based Glue (100ml)</td>
+                <td class="prodname" colspan="2">
+                    Dawei Water-Based Glue (100ml)
+                </td>
             </tr>
             <tr>
                 <td class="body">
@@ -120,7 +126,9 @@
 
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Racket Cover (Rectangular)</td>
+                <td class="prodname" colspan="2">
+                    Racket Cover (Rectangular)
+                </td>
             </tr>
             <tr>
                 <td class="body">
@@ -159,7 +167,9 @@
 
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Racket Cover (Elliptical)</td>
+                <td class="prodname" colspan="2">
+                    Racket Cover (Elliptical)
+                </td>
             </tr>
             <tr>
                 <td class="body">
@@ -192,7 +202,9 @@
 
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Racket Cover (Round)</td>
+                <td class="prodname" colspan="2">
+                    Racket Cover (Round)
+                </td>
             </tr>
             <tr>
                 <td class="body">
@@ -225,7 +237,9 @@
 
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Air Glue Sheet</td>
+                <td class="prodname" colspan="2">
+                    Air Glue Sheet
+                </td>
             </tr>
             <tr>
                 <td class="body">
@@ -255,7 +269,9 @@
 
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Galaxy Edge Tape</td>
+                <td class="prodname" colspan="2">
+                    Galaxy Edge Tape
+                </td>
             </tr>
             <tr>
                 <td class="body">

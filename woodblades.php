@@ -13,10 +13,10 @@
     <div id="body">
         <img src="images/title/woodblades.gif" /><br />
         <p>
-            I will combo any blade with any rubber but AIR brand, but I have so many different options with different prices on rubbers, sponges, and topsheets that really the only way to work a combo is for you to email me and we'll work out pricing.  
-            As a general rule the combo adds two rubbers and a case for $20, so below is a button that adds $20 to the order.  Unfortunately, you still have to designate
-            what rubbers, colors, thicknesses, hardnesses, penhold gap, and any other specs in an email.  There are cases where you may want a combination that doesn't fall
-            well into that $20 rule though (usually that means cheaper - pips with no sponge for example), so as per usual, feel free to email me for specific quotes. BLADES UNDER $32 WILL COME UP AS $1 FIRST CLASS SHIPING.  IN THIS CASE YOU'LL NEED TO MANUALLY CHANGE IT TO $5 PRIORITY. I CAN'T MAKE MY SHOPPING CART WORK ANY OTHER WAY, SORRY.
+            I will combo any blade with any rubber but AIR brand, but I have so many different options with different prices on rubbers, sponges, and topsheets that really the only way to work a combo is for you to email me and we'll work out pricing. 
+            As a general rule the combo adds two rubbers and a case for $20, so below is a button that adds $20 to the order. Unfortunately, you still have to designate
+            what rubbers, colors, thicknesses, hardnesses, penhold gap, and any other specs in an email. There are cases where you may want a combination that doesn't fall
+            well into that $20 rule though (usually that means cheaper - pips with no sponge for example), so as per usual, feel free to email me for specific quotes. BLADES UNDER $32 WILL COME UP AS $1 FIRST CLASS SHIPING. IN THIS CASE YOU'LL NEED TO MANUALLY CHANGE IT TO $5 PRIORITY. I CAN'T MAKE MY SHOPPING CART WORK ANY OTHER WAY, SORRY.
         </p>
         
         <table class="product">
@@ -45,9 +45,9 @@
                     </form>
                     <br />
 
-                    I wish had a system where you could select your rubbers in this combo upcharge button, or even a place for comments where you could write in the specs for your combo.  Unfortunately my paypal shopping cart is just too limited and my
-                    rubber options too diverse, given that I allow different sponge/topsheet combinations as well.  So the only thing I can do is ask you to email me the specs when you order the combo upcharge:  cole_ely@hotmail.com  By default, combo's come assembled with rubbers, case, tape, ready to play.
-                    Works with rubbers $14 and under.  
+                    I wish had a system where you could select your rubbers in this combo upcharge button, or even a place for comments where you could write in the specs for your combo. Unfortunately my paypal shopping cart is just too limited and my
+                    rubber options too diverse, given that I allow different sponge/topsheet combinations as well. So the only thing I can do is ask you to email me the specs when you order the combo upcharge:  cole_ely@hotmail.com  By default, combo's come assembled with rubbers, case, tape, ready to play.
+                    Works with rubbers $14 and under. 
                 </td>
             </tr>
         </table>
@@ -79,7 +79,7 @@
                     </form>
                     <br />
                     
-                    Click this button once for each sheet of Quattro or Quattro UL or Sun/Moon you want to use in a combo.  Use this also if you want any sponge/top combination that costs over $14.
+                    Click this button once for each sheet of Quattro or Quattro UL or Sun/Moon you want to use in a combo. Use this also if you want any sponge/top combination that costs over $14.
                 </td>
                 <td class="image">
                     <img src="images/products/inspiritquattro.JPG"/>
@@ -121,7 +121,7 @@
                     <br />
                                         
                     A classic Swedish formula, limba over ayous, favored by many great loopers from around the world. This blade had originally has been a little lighter, but now I've got them making it in what I consider to be the optimum weight range of 84-88. Personally I think it plays best around 86-88.
-                    This is my best selling blade.  It has 7 thin plies, making it a bit faster than the typical 5ply wood limba but not as fast as most 7plies. 
+                    This is my best selling blade. It has 7 thin plies, making it a bit faster than the typical 5ply wood limba but not as fast as most 7plies. 
                     Flared, Anatomic, or straight. 
                 </td>
                 <td class="image">
@@ -163,7 +163,7 @@
                     </form>
                     <br />
                                         
-                    Earlier versions of this blade were slower, but now this blade feels more like the 7ply that it is.  Hinoki outer plies give it a softer feeling though.
+                    Earlier versions of this blade were slower, but now this blade feels more like the 7ply that it is. Hinoki outer plies give it a softer feeling though.
                 </td>
                 <td class="image">
                     <img src="images/products/Qhinoki.JPG" />
@@ -204,9 +204,9 @@
                     </form>
                     <br />
                                         
-                    The O is probably my favorite of the Genote line and the most unique.  It is a very thin blade, but made faster and stiffer by
-                    the addition of two plies of red-stained, hardened ayous.  From the side, this blade looks like a donic dicon.  You can see a side pic
-                    at www.colestt.com/gpics.doc.  The blade is off- with a nice feel and a very nice look.
+                    The O is probably my favorite of the Genote line and the most unique. It is a very thin blade, but made faster and stiffer by
+                    the addition of two plies of red-stained, hardened ayous. From the side, this blade looks like a donic dicon. You can see a side pic
+                    at www.colestt.com/gpics.doc. The blade is off- with a nice feel and a very nice look.
                 </td>
                 <td class="image">
                     <img src="images/products/genO.JPG" />
@@ -247,9 +247,9 @@
                     </form>
                     <br />
                     
-                    Li Qian is a new sponsored player for Galaxy.  As I understand it, she is a modern defensive player from China now playing for Poland.  These are the two new "flagship" blades for Galaxy. The Lq-1 is a fairly fast blade
-                    for being defensive, but it has a defensive shape. What I noticed was that the length of the blade meant that it was extremely flexible and spinny if you loop or chop near the tip.  The quality of crafstmanship and materials used in the LQ blades are second no other all
-                    wood blades I've ever seen.  LQ1 seems to be the same wood formulation as w6, but oversized.
+                    Li Qian is a new sponsored player for Galaxy. As I understand it, she is a modern defensive player from China now playing for Poland. These are the two new "flagship" blades for Galaxy. The Lq-1 is a fairly fast blade
+                    for being defensive, but it has a defensive shape. What I noticed was that the length of the blade meant that it was extremely flexible and spinny if you loop or chop near the tip. The quality of crafstmanship and materials used in the LQ blades are second no other all
+                    wood blades I've ever seen. LQ1 seems to be the same wood formulation as w6, but oversized.
                 </td>
                 <td class="image">
                     <img src="images/products/LQ-1s.JPG" />
@@ -290,8 +290,8 @@
                     </form>
                     <br />
 
-                    This blade is shaped like the LQ-1, but seems to be a touch slower with a lower pitch and more flex, making it seem a bit more like I would expect a defensive blade to feel.  The handle is a thick cork. Flex to the max...well, not to the max, I've 
-                    felt more, but it's flexy.  Sales have increased with the popularity of hardbat.
+                    This blade is shaped like the LQ-1, but seems to be a touch slower with a lower pitch and more flex, making it seem a bit more like I would expect a defensive blade to feel. The handle is a thick cork. Flex to the max...well, not to the max, I've 
+                    felt more, but it's flexy. Sales have increased with the popularity of hardbat.
                 </td>
                 <td class="image">
                     <img src="images/products/LQ-2s.JPG" />
@@ -333,8 +333,8 @@
                     <br />
 
                     Dawei has used a top quality hinoki to form the outer plies, which makes it just a tad softer, as well as prettier, and probably more 
-                    collectible.  This blade is also about 6.5mm thick and weighs around 88g.  I'd call it on the high side of offensive but not quite as fast as the C, or maybe
-                    it just feels that way because it's a tad softer on the outer plies.  Closeups showing the near-perfect grains are available upon request.  Straight, Flared, and Cpen 
+                    collectible. This blade is also about 6.5mm thick and weighs around 88g. I'd call it on the high side of offensive but not quite as fast as the C, or maybe
+                    it just feels that way because it's a tad softer on the outer plies. Closeups showing the near-perfect grains are available upon request. Straight, Flared, and Cpen 
                 </td>
                 <td class="image">
                     <img src="images/products/genS.JPG" />
@@ -369,7 +369,7 @@
                     </form>
                     <br />
                     
-                    Real one ply hinoki.  Grains are pretty nice for this price.  Maybe not quite as perfect as the $200 ones, but the play is extremely comperable.  I've certainly seen one ply blades that sold for $100+ that weren't as nicely grained.
+                    Real one ply hinoki. Grains are pretty nice for this price. Maybe not quite as perfect as the $200 ones, but the play is extremely comperable. I've certainly seen one ply blades that sold for $100+ that weren't as nicely grained.
                 </td>
                 <td class="image">
                     <img src="images/products/982 side.JPG" />
@@ -410,8 +410,8 @@
                     </form>
                     <br />
                     
-                    This has been one of my most popular blades over the years.  Try to find a limba outer ply at this price anywhere else.  Handles now again as pictured.  This blade has great tone.  A little fast for beginners,
-                    but for intermediates and above it's a great blade for the price.  Handle now as pictured again.  Absolute steal.
+                    This has been one of my most popular blades over the years. Try to find a limba outer ply at this price anywhere else. Handles now again as pictured. This blade has great tone. A little fast for beginners,
+                    but for intermediates and above it's a great blade for the price. Handle now as pictured again. Absolute steal.
                 </td>
                 <td class="image">
                     <img src="images/products/matrix.JPG" />
@@ -452,8 +452,8 @@
                     </form>
                     <br />
 
-                    This blade has been labeled off to off+, but I think it's more like off.  Maybe because the feel and control are so great.  This one rivals my w6.  Thinner blade but two layers of red hardened
-                    ayous give it speed and stiffness beyond what you would expect given it's thin structure.  Really a nice piece of work.  Some have called it a clipper clone but I don't see it as being as fast as most of the clippers I've tried.
+                    This blade has been labeled off to off+, but I think it's more like off. Maybe because the feel and control are so great. This one rivals my w6. Thinner blade but two layers of red hardened
+                    ayous give it speed and stiffness beyond what you would expect given it's thin structure. Really a nice piece of work. Some have called it a clipper clone but I don't see it as being as fast as most of the clippers I've tried.
                 </td>
                 <td class="image">
                     <img src="images/products/galaxyM6.jpg" />
@@ -504,7 +504,7 @@
                     </span>
                     <br /><br />
                     
-                     Soft ayous blade with lots of control.  The instinct 5ply is all+ and a very popular blade.  The instinct plus is a 7ply version so it's 
+                     Soft ayous blade with lots of control. The instinct 5ply is all+ and a very popular blade. The instinct plus is a 7ply version so it's 
                      stiffer and faster, but still pretty soft and very good control for a 7ply.
                 </td>
                 <td class="image">
@@ -557,13 +557,13 @@
                     </span>
                     <br /><br />
                     
-                    This is Friendship's answer to the popular defensive "Hock" blades.  They have that low tone that screams control.  However, even the Toxic3 isn't as slow as some of the 3-ply Hocks I've tried.
+                    This is Friendship's answer to the popular defensive "Hock" blades. They have that low tone that screams control. However, even the Toxic3 isn't as slow as some of the 3-ply Hocks I've tried.
                     <br /><br />
-                    The 5-ply still has that low tone, although not quite as pronounced.  However when you take a bigger cut that tone disappears and it feels more like a normal all-around blade.
+                    The 5-ply still has that low tone, although not quite as pronounced. However when you take a bigger cut that tone disappears and it feels more like a normal all-around blade.
                     <br /><br />
                     Both rackets have the distinctive Hock shape, with an exaggerated oversized head.
                     <br /><br />
-                    This racket will most likely be covered on at least one side with some sort of pips-out rubber.  Often long pips.  The typical choppers forehand will be a sticky topsheet on a thin (&lt;1.5), dead sponge.  If the player wants to be able to loop with the forehand they will sometimes go to a sponge around 1.8 thickness.
+                    This racket will most likely be covered on at least one side with some sort of pips-out rubber. Often long pips. The typical choppers forehand will be a sticky topsheet on a thin (&lt;1.5), dead sponge. If the player wants to be able to loop with the forehand they will sometimes go to a sponge around 1.8 thickness.
                 </td>
                 <td class="image">
                     <img src="images/products/toxic.jpg" />
@@ -610,8 +610,8 @@
                     </span>
                     <br /><br />
                     
-                    This is a mid soft but flexy and springy looping blade that has maintained long-term popularity.  Seems to be the highest quality of ayous I've run across in this price range.  Loops as well as anything but a
-                    little flexy in the short game if you're pushing much.  
+                    This is a mid soft but flexy and springy looping blade that has maintained long-term popularity. Seems to be the highest quality of ayous I've run across in this price range. Loops as well as anything but a
+                    little flexy in the short game if you're pushing much. 
                 </td>
                 <td class="image">
                     <img src="images/products/galaxy896.jpg" />
@@ -660,8 +660,8 @@
                     </span>
                     <br /><br />
                     
-                    This is an extremely high quality blade in the model of stiga's cr wrb. Coated outer plies. Speed is pretty fast...I'd put it in a class with clipper.  Quality on this blade, (like w6 and w1) is truly
-                    second to none.  This is the best option I have for a fast all wood blade. Cross cut koto outer plies are stunning to look at.
+                    This is an extremely high quality blade in the model of stiga's cr wrb. Coated outer plies. Speed is pretty fast...I'd put it in a class with clipper. Quality on this blade, (like w6 and w1) is truly
+                    second to none. This is the best option I have for a fast all wood blade. Cross cut koto outer plies are stunning to look at.
                 </td>
                 <td class="image">
                     <img src="images/products/u2006.jpg" />
@@ -710,10 +710,10 @@
                     </span>
                     <br /><br />
                     
-                    Some forum lists have pegged this blade as a sub for Yasaka Extra, making it especially popular in penhold but sell a ton in shake grips as well. I'd call it on the up side of OFF-.  Different wood grain from the other blades I list.
-                    I get different answers when I ask people what wood it is exactly.  Not ayous or limba.  
-                    It's very important that you treat this one heavy along the outside edge.  The thin, crisp outer ply can chip up.  Of course, I can do that for you if you ask, and usually do anyway. 
-                    5-ply Wood.  
+                    Some forum lists have pegged this blade as a sub for Yasaka Extra, making it especially popular in penhold but sell a ton in shake grips as well. I'd call it on the up side of OFF-. Different wood grain from the other blades I list.
+                    I get different answers when I ask people what wood it is exactly. Not ayous or limba. 
+                    It's very important that you treat this one heavy along the outside edge. The thin, crisp outer ply can chip up. Of course, I can do that for you if you ask, and usually do anyway. 
+                    5-ply Wood. 
                 </td>
                 <td class="image">
                     <img src="images/products/galaxyw6.jpg" />
@@ -760,7 +760,7 @@
                     </span>
                     <br /><br />
                     
-                    This is a popular blade that's in the off- range.  Outer ply is pretty crisp, but the inner cork ply softens it up and gives it some flex.  Now in anatomic as well.
+                    This is a popular blade that's in the off- range. Outer ply is pretty crisp, but the inner cork ply softens it up and gives it some flex. Now in anatomic as well.
                 </td>
                 <td class="image">
                     <img src="images/products/bomb.jpg" />
@@ -813,8 +813,8 @@
                     </span>
                     <br /><br />
                     
-                    This is pretty much an exclusive to Colestt.com. I don't know anyone else who is selling this quality of all ayous blade for $12, much less offering it as part of a custom combo for $28.  I have three versions
-                    of premade buster blade, one (dw2) all+ and lighter, one offensive minus (r2), and one fairly fast (r5).  Try to find that anywhere else for $28!
+                    This is pretty much an exclusive to Colestt.com. I don't know anyone else who is selling this quality of all ayous blade for $12, much less offering it as part of a custom combo for $28. I have three versions
+                    of premade buster blade, one (dw2) all+ and lighter, one offensive minus (r2), and one fairly fast (r5). Try to find that anywhere else for $28!
                     <br /><br />
                     If you want a Premade Buster combo, it is on sale for $26 on the bpecials page.
                 </td>

@@ -13,7 +13,7 @@
     <div id="body">
         <img src="images/title/topsheets.gif" /><br />
         <p>
-            Most of the pips-out rubbers are available as topsheets as well.  If you're wanting pips topsheets, go to the pips page.  If you want sponge glued 	to your topsheet, you need to order one from the bottom of this page.<br />
+            Most of the pips-out rubbers are available as topsheets as well. If you're wanting pips topsheets, go to the pips page. If you want sponge glued 	to your topsheet, you need to order one from the bottom of this page.<br />
         </p>    
 
         <table class="product">
@@ -47,7 +47,7 @@
                     </form>
                     <br />
                     
-                    I like this topsheet a lot.  Consistent, soft, good weight.  Price is reasonable.  Tacky.  Don't ask me the difference between 999 and 999t.  As far as I can tell, the t has a "t" on it after the 999 stamp.				I'm told there is a difference although the reasons/opinions I get vary.
+                    I like this topsheet a lot. Consistent, soft, good weight. Price is reasonable. Tacky. Don't ask me the difference between 999 and 999t. As far as I can tell, the t has a "t" on it after the 999 stamp.				I'm told there is a difference although the reasons/opinions I get vary.
                 </td>
                 <td class="image">
                     <img src="images/products/999.jpg" />
@@ -86,7 +86,7 @@
                     </form>
                     <br />
                     
-                    Lighter than most topsheets and about half tacky.  Nice soft texture.
+                    Lighter than most topsheets and about half tacky. Nice soft texture.
                 </td>
                 <td class="image">
                     <img src="images/products/palio.jpg" />
@@ -125,7 +125,7 @@
                     </form>
                     <br />
                     
-                    This is a very high quality topsheet.  I'm carrying it in 1.4mm which is feather light and 1.5 which is just a hair thicker.  They're very euro...not super tacky but grippy and spinny because they're butter-soft.  Good for putting on thick sponges while remaining within legal thicknesses.  Perhaps a little fragile        based on thinness but I haven't had any problems at all with them.
+                    This is a very high quality topsheet. I'm carrying it in 1.4mm which is feather light and 1.5 which is just a hair thicker. They're very euro...not super tacky but grippy and spinny because they're butter-soft. Good for putting on thick sponges while remaining within legal thicknesses. Perhaps a little fragile        based on thinness but I haven't had any problems at all with them.
                 </td>
                 <td class="image">
                     <img src="images/products/cj8000.jpg" />
@@ -168,7 +168,7 @@
                     </form>
                     <br />
                     
-                    The popular friendship topsheets from the inverted rubbers.  Fairly thin and soft.
+                    The popular friendship topsheets from the inverted rubbers. Fairly thin and soft.
                 </td>
                 <td class="image">
                     <img src="images/products/lktxt.jpg" />
@@ -207,7 +207,7 @@
                     </form>
                     <br />
                     
-                    Old school Chinese topsheet.  Thick and as sticky as they come.  If you want max spin on serves, chops and pushes, this is the top.
+                    Old school Chinese topsheet. Thick and as sticky as they come. If you want max spin on serves, chops and pushes, this is the top.
                 </td>
                 <td class="image">
                     <img src="images/products/2000.jpg" />
@@ -250,7 +250,7 @@
                     </form>
                     <br />
                     
-                    This stuff isn't really so much sponge as it is more of a foam.  It's made to absorb the speed of balls, most commonly used with pips.  Can be used with 				inverted topsheets as well.  Works well for chopping if you really want to put on the breaks.
+                    This stuff isn't really so much sponge as it is more of a foam. It's made to absorb the speed of balls, most commonly used with pips. Can be used with 				inverted topsheets as well. Works well for chopping if you really want to put on the breaks.
                 </td>
                 <td class="image">
                     <img src="images/products/zero.jpg" />
@@ -289,7 +289,7 @@
                     </form>
                     <br />
                     
-                    Very euro sponge with some glue feel.  Slightly springier than saviga.  Available in 1.8 2.0 2.2, and 2.3, densities 35, 40 and 42.  42 in 2.2 only.
+                    Very euro sponge with some glue feel. Slightly springier than saviga. Available in 1.8 2.0 2.2, and 2.3, densities 35, 40 and 42. 42 in 2.2 only.
                 </td>
                 <td class="image">
                     <img src="images/products/cannon.jpg" />
@@ -328,7 +328,7 @@
                     </form>
                     <br />
                     
-                    I firmly believe these sponges are the highest quality produced outside of Japan or Europe and better than many $30-40 rubbers' sponges.  Good spring for the softness and maximum glue feel. Lots of synthetic in the mix. I don't 			know of any sponge sold seperately that approaches this quality.
+                    I firmly believe these sponges are the highest quality produced outside of Japan or Europe and better than many $30-40 rubbers' sponges. Good spring for the softness and maximum glue feel. Lots of synthetic in the mix. I don't 			know of any sponge sold seperately that approaches this quality.
                 </td>
                 <td class="image">
                     <img src="images/products/cannon.jpg" />
@@ -367,7 +367,7 @@
                     </form>
                     <br />
                     
-                    This is the remarketing of the cannon sponge.  I carry it from 0.6 to 2.2 and it typically runs around 38deg.  For years this was the best sponge I carried and it sold for $8.  It still sells for that on another major seller's website.  Cannon, Dawei's low end sponge, is still better than most chinese companies' best sponges.				If you're ordering this with a pips-out topsheet, you can select it in the "add a sponge" section of the pips page for a lower price.
+                    This is the remarketing of the cannon sponge. I carry it from 0.6 to 2.2 and it typically runs around 38deg. For years this was the best sponge I carried and it sold for $8. It still sells for that on another major seller's website. Cannon, Dawei's low end sponge, is still better than most chinese companies' best sponges.				If you're ordering this with a pips-out topsheet, you can select it in the "add a sponge" section of the pips page for a lower price.
                 </td>
                 <td class="image">
                     <img src="images/products/lightning.jpg" />

@@ -11,17 +11,23 @@
     ?>
 
     <div id="body">
-        <img src="images/title/rubbers.gif" /><br />
+        <img src="images/title/rubbers.gif" />
         <p>
-            As a general rule, inverted (smooth, tacky) rubbers are for spinning the ball and pips are for hitting through the ball.  But there's always exceptions, as is the case with anti-spin, long pips, and the new Dr. Evil anti-spin short pip.
-            <br />
+            As a general rule, inverted (smooth, tacky) rubbers are for spinning the ball and pips are for hitting through the ball. But there's always exceptions, as is the case with anti-spin, long pips, and the new Dr. Evil anti-spin short pip.
         </p>
-
-        <a href="inverted.php"><img src="images/rubbers/inverted.gif" /></a>
-        <a href="topsheets-sponges.php"><img src="images/rubbers/chinesetopsheets.gif" /></a>
+        <a href="inverted.php">
+            <img src="images/rubbers/inverted.gif" />
+        </a>
+        <a href="topsheets-sponges.php">
+            <img src="images/rubbers/chinesetopsheets.gif" />
+        </a>
         <br />
-        <a href="pips.php"><img src="images/rubbers/pipsout.gif" /></a>
-        <a href="topsheets-sponges.php#sponges"><img src="images/rubbers/chinesesponges.gif" /></a>
+        <a href="pips.php">
+            <img src="images/rubbers/pipsout.gif" />
+        </a>
+        <a href="topsheets-sponges.php#sponges">
+            <img src="images/rubbers/chinesesponges.gif" />
+        </a>
     </div>
 </body>
 </html>
