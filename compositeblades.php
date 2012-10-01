@@ -13,7 +13,13 @@
     <div id="body">
         <img src="images/title/compositeblades.gif"/>
         <p>
-            I will combo price any blade with any rubber but Air brand, but I have so many different options with different prices on rubbers, sponges, and topsheets that the only way to work a combo is for you to email me and we'll work out pricing. As a general rule the combo adds two rubbers and a case for $20, so below is a button that adds $20 to the order. Unfortunately, you still have to designate what rubbers, colors, thicknesses, hardnesses, penhold gap, and any other specs in an email. There are cases where you may want a combination that doesn't fall well into that $20 rule though (usually that means cheaper - pips with no sponge for example), so as per usual, feel free to email me for specific quotes. Combos come assembled by default, with rubbers, blade, case, tape, ready to go.
+            I will combo price any blade with any rubber but Air brand, but I have so many different options with different prices on rubbers, sponges, and topsheets that the only way to work a combo is for you to email me and we'll work out pricing.
+        </p>
+        <p> 
+            As a general rule the combo adds two rubbers and a case for $20, so below is a button that adds $20 to the order. Unfortunately, you still have to designate what rubbers, colors, thicknesses, hardnesses, penhold gap, and any other specs in an email.
+        </p>
+        <p>
+            There are cases where you may want a combination that doesn't fall well into that $20 rule though (usually that means cheaper - pips with no sponge for example), so as per usual, feel free to email me for specific quotes. Combos come assembled by default, with rubbers, blade, case, tape, ready to go.
         </p>
             
         <table class="product">
