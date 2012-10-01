@@ -40,12 +40,8 @@
     </div>
     <br />
     <center>
-        <a target="_blank" title="Table Tennis Reviews" href="http://www.tabletennisdb.com/">
-            <img alt="Table Tennis Database" src="http://www.tabletennisdb.com/assets/table-tennis-images/ttdb-circle.gif"/>
-        </a>
+        <a href="http://www.tabletennisdb.com/"><img alt="Table Tennis Database" src="http://www.tabletennisdb.com/assets/table-tennis-images/ttdb-circle.gif"/></a>
         <br />
-        <a href="http://www.tabletennisdb.com/" title="Table Tennis Reviews" target="_blank">
-            Table Tennis Database
-        </a>
+        <a href="http://www.tabletennisdb.com/">Table Tennis Database</a>
     </center>
 </div>

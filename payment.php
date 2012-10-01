@@ -54,7 +54,7 @@
             </ul>
         </p>
         <p>
-            I reserve the right to refuse any order (with full refund of course) due to shipping infeasibility or for any other reason I deem appropriate. Please <a href="contact.php">Contact me</a> for more accurate quotes, especially if you're outside the US.
+            I reserve the right to refuse any order (with full refund of course) due to shipping infeasibility or for any other reason I deem appropriate. Please <a href="contact.php">contact me</a> for more accurate quotes, especially if you're outside the US.
         </p>
         <p>
             
