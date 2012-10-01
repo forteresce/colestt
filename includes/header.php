@@ -1,4 +1,3 @@
 <div id="header">
-	<img src="images/header.jpg"/>
+    <img src="images/header.jpg"/>
 </div>
-
