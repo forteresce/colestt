@@ -92,8 +92,8 @@
                                     </td>
                                     <td>
                                         <select name="os0">
-                                            <option value="Orange">Orange
-                                            <option value="White">White
+                                            <option value="Orange">Orange</option>
+                                            <option value="White">White</option>
                                         </select>
                                     </td>
                                 </tr>
@@ -122,8 +122,8 @@
                                     </td>
                                     <td>
                                         <select name="os0">
-                                            <option value="Orange">Orange
-                                            <option value="White">White
+                                            <option value="Orange">Orange</option>
+                                            <option value="White">White</option>
                                         </select>
                                     </td>
                                 </tr>

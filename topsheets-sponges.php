@@ -87,8 +87,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>
@@ -98,8 +98,8 @@
                                 </td>
                                 <td>
                                     <select name="os1">
-                                        <option value="XP">XP
-                                        <option value="XT">XT
+                                        <option value="XP">XP</option>
+                                        <option value="XT">XT</option>
                                     </select>
                                 </td>
                             </tr>
@@ -146,8 +146,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>
@@ -244,8 +244,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>
@@ -294,16 +294,16 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="1.2mm 30deg">1.2mm 30deg
-                                        <option value="1.5mm 30deg">1.5mm 30deg
-                                        <option value="1.8mm 30deg">1.8mm 30deg
-                                        <option value="2.0mm 30deg">2.0mm 30deg
-                                        <option value="2.2mm 30deg">2.2mm 30deg
-                                        <option value="2.3mm 30deg">2.3mm 30deg
-                                        <option value="1.8mm 38deg">1.8mm 38deg
-                                        <option value="2.0mm 38deg">2.0mm 38deg
-                                        <option value="2.2mm 38deg">2.2mm 38deg
-                                        <option value="2.3mm 38deg">2.3mm 38deg
+                                        <option value="1.2mm 30deg">1.2mm 30deg</option>
+                                        <option value="1.5mm 30deg">1.5mm 30deg</option>
+                                        <option value="1.8mm 30deg">1.8mm 30deg</option>
+                                        <option value="2.0mm 30deg">2.0mm 30deg</option>
+                                        <option value="2.2mm 30deg">2.2mm 30deg</option>
+                                        <option value="2.3mm 30deg">2.3mm 30deg</option>
+                                        <option value="1.8mm 38deg">1.8mm 38deg</option>
+                                        <option value="2.0mm 38deg">2.0mm 38deg</option>
+                                        <option value="2.2mm 38deg">2.2mm 38deg</option>
+                                        <option value="2.3mm 38deg">2.3mm 38deg</option>
                                     </select>
                                 </td>
                             </tr>
@@ -350,10 +350,10 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="0.6mm">0.6mm
-                                        <option value="1.0mm">1.0mm
-                                        <option value="1.2mm">1.2mm
-                                        <option value="1.5mm">1.5mm
+                                        <option value="0.6mm">0.6mm</option>
+                                        <option value="1.0mm">1.0mm</option>
+                                        <option value="1.2mm">1.2mm</option>
+                                        <option value="1.5mm">1.5mm</option>
                                     </select>
                                 </td>
                             </tr>
@@ -397,15 +397,15 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="1.8mm 35deg">1.8mm 35deg
-                                        <option value="2.0mm 35deg">2.0mm 35deg
-                                        <option value="2.2mm 35deg">2.2mm 35deg
-                                        <option value="2.3mm 35deg">2.3mm 35deg
-                                        <option value="1.8mm 40deg">1.8mm 40deg
-                                        <option value="2.0mm 40deg">2.0mm 40deg
-                                        <option value="2.2mm 40deg">2.2mm 40deg
-                                        <option value="2.3mm 40deg">2.3mm 40deg
-                                        <option value="2.2mm 42deg">2.2mm 42deg
+                                        <option value="1.8mm 35deg">1.8mm 35deg</option>
+                                        <option value="2.0mm 35deg">2.0mm 35deg</option>
+                                        <option value="2.2mm 35deg">2.2mm 35deg</option>
+                                        <option value="2.3mm 35deg">2.3mm 35deg</option>
+                                        <option value="1.8mm 40deg">1.8mm 40deg</option>
+                                        <option value="2.0mm 40deg">2.0mm 40deg</option>
+                                        <option value="2.2mm 40deg">2.2mm 40deg</option>
+                                        <option value="2.3mm 40deg">2.3mm 40deg</option>
+                                        <option value="2.2mm 42deg">2.2mm 42deg</option>
                                     </select>
                                 </td>
                             </tr>
@@ -450,13 +450,13 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="0.6mm">0.6mm
-                                        <option value="1.0mm">1.0mm
-                                        <option value="1.2mm">1.2mm
-                                        <option value="1.5mm">1.5mm
-                                        <option value="1.8mm">1.8mm
-                                        <option value="2.0mm">2.0mm
-                                        <option value="2.2mm">2.2mm
+                                        <option value="0.6mm">0.6mm</option>
+                                        <option value="1.0mm">1.0mm</option>
+                                        <option value="1.2mm">1.2mm</option>
+                                        <option value="1.5mm">1.5mm</option>
+                                        <option value="1.8mm">1.8mm</option>
+                                        <option value="2.0mm">2.0mm</option>
+                                        <option value="2.2mm">2.2mm</option>
                                     </select>
                                 </td>
                             </tr>

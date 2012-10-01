@@ -37,15 +37,15 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="DW2 Flared">Control DW2 Flared
-                                        <option value="DW2 Straight">Control DW2 Straight
-                                        <option value="DW2 Cpen">Control DW2 Cpen
-                                        <option value="R2 Flared">Medium R2 Flared
-                                        <option value="R2 Straight">Medium R2 Straight
-                                        <option value="R2 Cpen">Medium R2 Cpen
-                                        <option value="R5 Flared">Fast R5 Flared
-                                        <option value="R5 Straight">Fast R5 Straight
-                                        <option value="R5 Cpen">Fast R5 Cpen
+                                        <option value="DW2 Flared">Control DW2 Flared</option>
+                                        <option value="DW2 Straight">Control DW2 Straight</option>
+                                        <option value="DW2 Cpen">Control DW2 Cpen</option>
+                                        <option value="R2 Flared">Medium R2 Flared</option>
+                                        <option value="R2 Straight">Medium R2 Straight</option>
+                                        <option value="R2 Cpen">Medium R2 Cpen</option>
+                                        <option value="R5 Flared">Fast R5 Flared</option>
+                                        <option value="R5 Straight">Fast R5 Straight</option>
+                                        <option value="R5 Cpen">Fast R5 Cpen</option>
                                     </select>
                                 </td>
                             </tr>
@@ -55,8 +55,8 @@
                                 </td>
                                 <td>
                                     <select name="os1">
-                                        <option value="1.8">1.8
-                                        <option value="2.0">2.0
+                                        <option value="1.8">1.8</option>
+                                        <option value="2.0">2.0</option>
                                     </select>
                                 </td>
                             </tr>
@@ -109,7 +109,7 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="2.2 35deg Red">2.2 35deg Red
+                                        <option value="2.2 35deg Red">2.2 35deg Red</option>
                                     </select>
                                 </td>
                             </tr>
@@ -156,8 +156,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Black">Black
-                                        <option value="Red">Red
+                                        <option value="Black">Black</option>
+                                        <option value="Red">Red</option>
                                     </select>
                                 </td>
                             </tr>
@@ -167,7 +167,7 @@
                                 </td>
                                 <td>
                                     <select name="os1">
-                                        <option value="2.2">2.2
+                                        <option value="2.2">2.2</option>
                                     </select>
                                 </td>
                             </tr>

@@ -46,13 +46,13 @@
                                 </td>
                                 <td>
                                     <select name="os1">
-                                        <option value="0.6">0.6
-                                        <option value="1.0">1.0
-                                        <option value="1.2">1.2
-                                        <option value="1.5">1.5
-                                        <option value="1.8">1.8
-                                        <option value="2.0">2.0
-                                        <option value="2.2">2.2
+                                        <option value="0.6">0.6</option>  
+                                        <option value="1.0">1.0</option>
+                                        <option value="1.2">1.2</option>
+                                        <option value="1.5">1.5</option>
+                                        <option value="1.8">1.8</option>
+                                        <option value="2.0">2.0</option>
+                                        <option value="2.2">2.2</option>
                                     </select>
                                 </td>
                             </tr>
@@ -99,8 +99,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>
@@ -109,8 +109,10 @@
                                     <input type="hidden" name="on1" value="Type">Type
                                 </td>
                                 <td>
-                                    <select name="os1"><option value="UQ">UQ Softer/Slower
-                                    <option value="US">US Firmer/Reversal</select>
+                                    <select name="os1">
+                                        <option value="UQ">UQ Softer/Slower</option>
+                                        <option value="US">US Firmer/Reversal</option>
+                                    </select>
                                 </td>
                             </tr>
                         </table>
@@ -158,8 +160,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>
@@ -168,9 +170,9 @@
                                     <input type="hidden" name="on1" value="Type">Thickness</td>
                                 <td>
                                     <select name="os1">
-                                        <option value="1.5">1.5
-                                        <option value="1.8">1.8
-                                        <option value="2.0">2.0
+                                        <option value="1.5">1.5</option>
+                                        <option value="1.8">1.8</option>
+                                        <option value="2.0">2.0</option>
                                     </select>
                                 </td>
                             </tr>
@@ -219,8 +221,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>
@@ -273,8 +275,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>
@@ -324,8 +326,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>
@@ -375,8 +377,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>
@@ -429,8 +431,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>
@@ -483,8 +485,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>
@@ -537,8 +539,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>
@@ -591,8 +593,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>
@@ -645,8 +647,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>
@@ -696,8 +698,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>
@@ -750,8 +752,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>
@@ -804,8 +806,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>
@@ -858,8 +860,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>
@@ -912,8 +914,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>
@@ -966,8 +968,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>
@@ -1017,8 +1019,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Red">Red
-                                        <option value="Black">Black
+                                        <option value="Red">Red</option>
+                                        <option value="Black">Black</option>
                                     </select>
                                 </td>
                             </tr>

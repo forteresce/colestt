@@ -274,8 +274,7 @@
                         <table>
                             <tr>
                                 <td>
-                                    <input type="hidden" name="on0" value="Handle Type">
-                                        Handle Style
+                                    <input type="hidden" name="on0" value="Handle Type">Handle Style
                                     </td>
                                 <td>
                                     <select name="os0">

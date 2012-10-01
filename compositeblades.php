@@ -117,9 +117,9 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Flared">Flared
-                                        <option value="Straight">Straight
-                                        <option value="Cpen">Cpen
+                                        <option value="Flared">Flared</option>
+                                        <option value="Straight">Straight</option>
+                                        <option value="Cpen">Cpen</option>
                                     </select>
                                 </td>
                             </tr>
@@ -168,9 +168,9 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Flared">Flared
-                                        <option value="Straight">Straight
-                                        <option value="Cpen">Cpen
+                                        <option value="Flared">Flared</option>
+                                        <option value="Straight">Straight</option>
+                                        <option value="Cpen">Cpen</option>
                                     </select>
                                 </td>
                             </tr>
@@ -219,9 +219,9 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Flared">Flared
-                                        <option value="Straight">Straight
-                                        <option value="Cpen">Cpen
+                                        <option value="Flared">Flared</option>
+                                        <option value="Straight">Straight</option>
+                                        <option value="Cpen">Cpen</option>
                                     </select>
                                 </td>
                             </tr>
@@ -270,8 +270,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Flared">Flared
-                                        <option value="Straight">Straight
+                                        <option value="Flared">Flared</option>
+                                        <option value="Straight">Straight</option>
                                     </select>
                                 </td>
                             </tr>
@@ -320,10 +320,10 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="V14">V14
-                                        <option value="K4">K4
-                                        <option value="K5">K5
-                                        <option value="K6">K6
+                                        <option value="V14">V14</option>
+                                        <option value="K4">K4</option>
+                                        <option value="K5">K5</option>
+                                        <option value="K6">K6</option>
                                     </select>
                                 </td>
                             </tr>
@@ -333,8 +333,8 @@
                                 </td>
                                 <td>
                                     <select name="os1">
-                                        <option value="Flared">Flared
-                                        <option value="Straight">Straight
+                                        <option value="Flared">Flared</option>
+                                        <option value="Straight">Straight</option>
                                     </select>
                                 </td>
                             </tr>
@@ -380,8 +380,8 @@
                                 </td>
                                 <td>
                                     <select name="os1">
-                                        <option value="Flared">Flared
-                                        <option value="Straight">Straight
+                                        <option value="Flared">Flared</option>
+                                        <option value="Straight">Straight</option>
                                     </select>
                                 </td>
                             </tr>
@@ -430,8 +430,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="T7 (Medium)">T7 (Medium)
-                                        <option value="T8 (Fast)">T8 (Fast)
+                                        <option value="T7 (Medium)">T7 (Medium)</option>
+                                        <option value="T8 (Fast)">T8 (Fast)</option>
                                     </select>
                                 </td>
                             </tr>
@@ -443,9 +443,9 @@
                                 </td>
                                 <td>
                                     <select name="os1">
-                                        <option value="Flared">Flared
-                                        <option value="Straight">Straight
-                                        <option value="Cpen">Cpen
+                                        <option value="Flared">Flared</option>
+                                        <option value="Straight">Straight</option>
+                                        <option value="Cpen">Cpen</option>
                                     </select>
                                 </td>
                             </tr>
@@ -497,8 +497,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Flared">Flared
-                                        <option value="Straight">Straight
+                                        <option value="Flared">Flared</option>
+                                        <option value="Straight">Straight</option>
                                     </select>
                                 </td>
                             </tr>
@@ -550,8 +550,8 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Flared">Flared
-                                        <option value="Straight">Straight
+                                        <option value="Flared">Flared</option>
+                                        <option value="Straight">Straight</option>
                                     </select>
                                 </td>
                             </tr>
@@ -600,7 +600,7 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Flared">Flared
+                                        <option value="Flared">Flared</option>
                                     </select>
                                 </td>
                             </tr>
