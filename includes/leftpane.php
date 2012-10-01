@@ -32,7 +32,7 @@
             <img src="images/sidemenu/contact.gif"/>
         </a>
         <br />
-        <a href="index.php#payment">
+        <a href="payment.php">
             <img src="images/sidemenu/payment.gif"/>
         </a>
         <br />
