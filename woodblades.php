@@ -11,25 +11,23 @@
     ?>
 
     <div id="body">
-        <img src="images/title/woodblades.gif" /><br />
+        <img src="images/title/woodblades.gif"/>
         <p>
-            I will combo any blade with any rubber but AIR brand, but I have so many different options with different prices on rubbers, sponges, and topsheets that really the only way to work a combo is for you to email me and we'll work out pricing. 
-            As a general rule the combo adds two rubbers and a case for $20, so below is a button that adds $20 to the order. Unfortunately, you still have to designate
-            what rubbers, colors, thicknesses, hardnesses, penhold gap, and any other specs in an email. There are cases where you may want a combination that doesn't fall
-            well into that $20 rule though (usually that means cheaper - pips with no sponge for example), so as per usual, feel free to email me for specific quotes. BLADES UNDER $32 WILL COME UP AS $1 FIRST CLASS SHIPING. IN THIS CASE YOU'LL NEED TO MANUALLY CHANGE IT TO $5 PRIORITY. I CAN'T MAKE MY SHOPPING CART WORK ANY OTHER WAY, SORRY.
+            I will combo any blade with any rubber but Air brand, but I have so many different options with different prices on rubbers, sponges, and topsheets that really the only way to work a combo is for you to email me and we'll work out pricing. As a general rule the combo adds two rubbers and a case for $20, so below is a button that adds $20 to the order. Unfortunately, you still have to designate what rubbers, colors, thicknesses, hardnesses, penhold gap, and any other specs in an email. There are cases where you may want a combination that doesn't fall well into that $20 rule though (usually that means cheaper - pips with no sponge for example), so as per usual, feel free to email me for specific quotes. BLADES UNDER $32 WILL COME UP AS $1 FIRST CLASS SHIPING. IN THIS CASE YOU'LL NEED TO MANUALLY CHANGE IT TO $5 PRIORITY. I CAN'T MAKE MY SHOPPING CART WORK ANY OTHER WAY, SORRY.
         </p>
-        
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Combo Upcharge $20</td>
+                <td class="prodname" colspan="2">
+                    Combo Upcharge $20
+                </td>
             </tr>
             <tr>
                 <td class="body">
-                    <span class="price">
-                        Price: $20.00<br />
-                    </span>
-                    <br />
-                    
+                    <p>
+                        <span class="price">
+                            Price: $20.00
+                        </span>
+                    </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
                         <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but22.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
                         <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
@@ -43,11 +41,9 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
                     </form>
-                    <br />
-
-                    I wish had a system where you could select your rubbers in this combo upcharge button, or even a place for comments where you could write in the specs for your combo. Unfortunately my paypal shopping cart is just too limited and my
-                    rubber options too diverse, given that I allow different sponge/topsheet combinations as well. So the only thing I can do is ask you to email me the specs when you order the combo upcharge:  cole_ely@hotmail.com  By default, combo's come assembled with rubbers, case, tape, ready to play.
-                    Works with rubbers $14 and under. 
+                    <p>
+                        I wish had a system where you could select your rubbers in this combo upcharge button, or even a place for comments where you could write in the specs for your combo. Unfortunately my paypal shopping cart is just too limited and my rubber options too diverse, given that I allow different sponge/topsheet combinations as well. So the only thing I can do is ask you to email me the specs when you order the combo upcharge:  cole_ely@hotmail.com  By default, combo's come assembled with rubbers, case, tape, ready to play. Works with rubbers $14 and under. 
+                    </p>
                 </td>
             </tr>
         </table>
