@@ -105,8 +105,9 @@
                 <td class="body">
                     <p>
                         <span class="price">
-                            Price: $32<br />
-                            * Combo price: $52
+                            Price: $32
+                            <br />
+                            Combo Price: $52
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -156,8 +157,9 @@
                 <td class="body">
                     <p>
                         <span class="price">
-                            Price: $32<br />
-                            * Combo price: $52
+                            Price: $32
+                            <br />
+                            Combo Price: $52
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -207,8 +209,9 @@
                 <td class="body">
                     <p>
                         <span class="price">
-                            Price: $25<br />
-                            * Combo price: $45
+                            Price: $25
+                            <br />
+                            Combo Price: $45
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -258,8 +261,9 @@
                 <td class="body">
                     <p>
                         <span class="price">
-                            Price: $64<br />
-                            * Combo price: $84
+                            Price: $64
+                            <br />
+                            Combo Price: $84
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -308,8 +312,9 @@
                 <td class="body">
                     <p>
                         <span class="price">
-                            Price: $52<br />
-                            * Combo price: $72
+                            Price: $52
+                            <br />
+                            Combo Price: $72
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">		
@@ -368,8 +373,9 @@
                 <td class="body">
                     <p>
                         <span class="price">
-                            Price: $42<br />
-                            * Combo price: $62
+                            Price: $42
+                            <br />
+                            Combo Price: $62
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -418,8 +424,9 @@
                 <td class="body">
                     <p>
                         <span class="price">
-                            Price: $34<br />
-                            * Combo price: $54
+                            Price: $34
+                            <br />
+                            Combo Price: $54
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -485,8 +492,9 @@
                 <td class="body">
                     <p>
                         <span class="price">
-                            Price: $32<br />
-                            * Combo price: $52
+                            Price: $32
+                            <br />
+                            Combo Price: $52
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -538,8 +546,9 @@
                 <td class="body">
                     <p>
                         <span class="price">
-                            Price: $32<br />
-                            * Combo price: $50-55
+                            Price: $32
+                            <br />
+                            Combo Price: $50-55
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -588,8 +597,9 @@
                 <td class="body">
                     <p>
                         <span class="price">
-                            Price: $32<br />
-                            * Combo price: $52
+                            Price: $32
+                            <br />
+                            Combo Price: $52
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
