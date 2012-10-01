@@ -13,7 +13,7 @@
     <div id="body">
         <img src="images/title/specials.gif" />
         <p>
-            It used to be used blades. Now it's used anything, or anything new on special. Used blades will combo for $20 above the listed price using most rubbers. I will work with you and the seller to combo blades that are sold on consignement if desired. I don't make anything on these. I just do it as a service and perhaps to generate traffic. So if you have something you need to get 	rid of, let me know. I used to do this all the time and I almost never do it anymore, so sell something.
+            It used to be used blades. Now it's used anything, or anything new on special. Used blades will combo for $20 above the listed price using most rubbers. I will work with you and the seller to combo blades that are sold on consignment if desired. I don't make anything on these. I just do it as a service and perhaps to generate traffic. So if you have something you need to get rid of, let me know. I used to do this all the time and I almost never do it anymore, so sell something.
         </p>
 
         <table class="product">
