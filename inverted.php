@@ -120,7 +120,7 @@
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
                         <input type="hidden" name="item_name" value="Air Illumina x88 Alpha Plus/Delta Sound">
-                        <input type="hidden" name="amount" value="14">
+                        <input type="hidden" name="amount" value="16">
                         <input type="hidden" name="no_shipping" value="0">
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
