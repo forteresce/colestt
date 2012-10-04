@@ -16,7 +16,7 @@
         <table class="product">
             <tr>
                 <td class="prodname" colspan="2">
-                    Double Fish 3*
+                    Double Fish 3* Balls (Pack of 3)
                 </td>
             </tr>
             <tr>
@@ -52,7 +52,7 @@
                         </form>
                     </p>
                     <p>
-                        This is the best 3 star ball in my opinion. Many customers seem to prefer this over DHS. They have a hard feel and are durable. At $3 a box they're an incredible bargain.
+                        This is the best 3 star ball in my opinion. Many customers seem to prefer this over DHS. They have a hard feel and are durable. At $3 for a box of 3 they're an incredible bargain.
                     </p>
                     <p>
                         Minimum of <b>4 boxes</b> if you're ordering just balls for space to paste a label.
