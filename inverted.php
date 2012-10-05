@@ -107,8 +107,8 @@
                                         <option value="1.8 35deg">1.8 35deg</option>
                                         <option value="2.0 35deg">2.0 35deg</option>
                                         <option value="2.2 35deg">2.2 35deg</option>
-                                        <!-- <option value="1.8 38deg">1.8 38deg</option> -->
-                                        <!-- <option value="2.0 38deg">2.0 38deg</option> -->
+                                        <option value="1.8 38deg">1.8 38deg</option>
+                                        <option value="2.0 38deg">2.0 38deg</option>
                                         <option value="2.2 38deg">2.2 38deg</option>
                                     </select>
                                 </td>
@@ -135,9 +135,6 @@
                     </p>
                     <p>
                         <b>Requires 1 rubber upgrade per sheet in combo.</b>
-                    </p>
-                    <p>
-                        <b>OUT OF STOCK 1.8, 2.0 Alpha Plus (38deg)</b>
                     </p>
                 </td>
                 <td class="image"> 
@@ -1084,6 +1081,9 @@
                     </form>
                     <p>
                         Pro XP is supposed to be a less tacky (and therefore faster) version of the same rubber, but there's very little difference if any. Instead, what I find (like many of the rubbers I carry) is that the black is quite a bit softer and tackier than the red in either make. 
+                    </p>
+                    <p>
+                        <b>OUT OF STOCK 2.0 Black</b>
                     </p>
                 </td>
                 <td class="image">
