@@ -98,18 +98,29 @@
                 <td class="body">
                     <p>
                         <span class="price">
-                            Price: $16 - SALE $11 (2.2 35deg Red)
+                            Price: $16 - SALE $11 (2.2 35deg Only)
                         </span>
                    </p> 
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
                         <table>
                             <tr>
                                 <td>
-                                    <input type="hidden" name="on0" value="Color/Type">Color/Type
+                                    <input type="hidden" name="on0" value="Color">Color
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="2.2 35deg Red">2.2 35deg Red</option>
+                                        <option value="Black">Black</option>
+                                        <option value="Red">Red</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <input type="hidden" name="on1" value="Thickness">Thickness
+                                </td>
+                                <td>
+                                    <select name="os1">
+                                        <option value="2.2 35deg">2.2 35deg</option>
                                     </select>
                                 </td>
                             </tr>
@@ -119,7 +130,7 @@
                         <input type="hidden" name="add" value="1">
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
-                        <input type="hidden" name="item_name" value="Dawei Inspirit Ultralight 2.2 35deg Red">
+                        <input type="hidden" name="item_name" value="Dawei Inspirit Ultralight 2.2 Special">
                         <input type="hidden" name="amount" value="11">
                         <input type="hidden" name="no_shipping" value="0">
                         <input type="hidden" name="no_note" value="1">

@@ -77,9 +77,9 @@
                 <td class="body">
                     <p>
                         <span class="price">
-                            3* (Bag of 36) - $15
+                            3* (Bag of 36) - $12
                             <br />
-                            2* (Bag of 72) - $12
+                            2* (Bag of 72) - $15
                         </span>
                     </p> 
                     <p>
@@ -104,7 +104,7 @@
                             <input type="hidden" name="cmd" value="_cart">
                             <input type="hidden" name="business" value="cole.ely@gmail.com">
                             <input type="hidden" name="item_name" value="Gambler 3* Platinum Balls (Bag of 36)">
-                            <input type="hidden" name="amount" value="15">
+                            <input type="hidden" name="amount" value="12">
                             <input type="hidden" name="no_shipping" value="2">
                             <input type="hidden" name="no_note" value="1">
                             <input type="hidden" name="currency_code" value="USD">
@@ -134,7 +134,7 @@
                             <input type="hidden" name="cmd" value="_cart">
                             <input type="hidden" name="business" value="cole.ely@gmail.com">
                             <input type="hidden" name="item_name" value="Gambler 2* Gold Balls (Bag of 72)">
-                            <input type="hidden" name="amount" value="12">
+                            <input type="hidden" name="amount" value="15">
                             <input type="hidden" name="no_shipping" value="2">
                             <input type="hidden" name="no_note" value="1">
                             <input type="hidden" name="currency_code" value="USD">
