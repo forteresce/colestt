@@ -92,13 +92,13 @@
         
         <table class="product">
             <tr>
-                <td class="prodname" colspan="2">Dawei Inspirit Quattro Ultralight</td>
+                <td class="prodname" colspan="2">Dawei 2008XP</td>
             </tr>
             <tr>
                 <td class="body">
                     <p>
                         <span class="price">
-                            Price: $16 - SALE $11 (2.2 35deg Only)
+                            Price: $7 - SALE $6 (2.2 Only)
                         </span>
                    </p> 
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -120,7 +120,7 @@
                                 </td>
                                 <td>
                                     <select name="os1">
-                                        <option value="2.2 35deg">2.2 35deg</option>
+                                        <option value="2.2 35deg">2.2</option>
                                     </select>
                                 </td>
                             </tr>
@@ -130,20 +130,17 @@
                         <input type="hidden" name="add" value="1">
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
-                        <input type="hidden" name="item_name" value="Dawei Inspirit Ultralight 2.2 Special">
-                        <input type="hidden" name="amount" value="11">
+                        <input type="hidden" name="item_name" value="Dawei 2008XP 2.2 Special">
+                        <input type="hidden" name="amount" value="6">
                         <input type="hidden" name="no_shipping" value="0">
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
                     </form>
-                    <p>
-                        Misordered and overstocked. My mistake is your gain.
-                    </p
                 </td>
                 <td class="image">
-                    <img src="images/products/UL.JPG">
+                    <img src="images/products/2008xp.jpg">
                 </td>
             </tr>
         </table>

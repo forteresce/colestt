@@ -450,7 +450,10 @@
                         This rubber should be selling for at least $10, but what the heck right? The sponge is 40deg and fairly fast. The topsheet is medium thickness and only very lightly tacky. In 1.8 it's a decent rubber for beginners if a little "hot", and offers a quality option for premade prices.
                     </p>
                     <p>
-                        <b>Premade Buster combo with 2008XP rubbers and case for $26 on the Specials page!</b>
+                        <b>2.2 ON SALE for $6 on the <a href="specials.php">Specials</a> page!</b>
+                    </p>
+                    <p>
+                        <b>Premade Buster combo with 2008XP rubbers and case for $26 on the <a href="specials.php">Specials</a> page!</b>
                     </p>
                 </td>
                 <td class="image">
