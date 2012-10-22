@@ -394,7 +394,7 @@
                                 </td>
                                 <td>
                                     <select name="os1">
-                                        <option value="Control DW2">Control DW2</option>
+                                        <!--<option value="Control DW2">Control DW2</option>-->
                                         <option value="Medium R2">Medium R2</option>
                                         <option value="Fast R5">Fast R5</option>
                                     </select>
@@ -429,7 +429,7 @@
                         <b>If you want a Premade Buster combo, it is on sale for $26 on the <a href="specials.php">Specials</a> page.</b>
                     </p>
                     <p>
-                        <b>OUT OF STOCK DW2 Cpen</b>
+                        <b>OUT OF STOCK DW2</b>
                     </p>
                 </td>
                 <td class="image">
