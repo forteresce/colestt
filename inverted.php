@@ -82,7 +82,7 @@
                 <td class="body">
                     <p>
                         <span class="price">
-                            Price: $18 - SALE $16
+                            Price: $20 - SALE $18
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -120,7 +120,7 @@
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
                         <input type="hidden" name="item_name" value="Air Illumina x88 Alpha Plus/Delta Sound">
-                        <input type="hidden" name="amount" value="16">
+                        <input type="hidden" name="amount" value="18">
                         <input type="hidden" name="no_shipping" value="0">
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
@@ -801,6 +801,9 @@
                     </form>
                     <p>
                         This very successful rubber has been one of my biggest sellers over the last year or two. Totally non-tacky but reasonably spinny top. Excellent speed. The Classic sponge is faster and less spinny, while the Golden Cake sponge loads topspin better. 
+                    </p>
+                    <p>
+                        <b>OUT OF STOCK Golden Cake (Red)</b>
                     </p>
                 </td>
                 <td class="image">

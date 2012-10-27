@@ -123,7 +123,7 @@
                                 </td>
                                 <td>
                                     <select name="os1">
-                                        <option value="2.2 35deg">2.2</option>
+                                        <option value="2.2 40deg">2.2</option>
                                     </select>
                                 </td>
                             </tr>

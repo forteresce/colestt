@@ -296,7 +296,7 @@
                                     <select name="os0">
                                         <option value="1.2mm 30deg">1.2mm 30deg</option>
                                         <option value="1.5mm 30deg">1.5mm 30deg</option>
-                                        <option value="1.8mm 30deg">1.8mm 30deg</option>
+                                        <!--<option value="1.8mm 30deg">1.8mm 30deg</option>-->
                                         <option value="2.0mm 30deg">2.0mm 30deg</option>
                                         <option value="2.2mm 30deg">2.2mm 30deg</option>
                                         <option value="2.3mm 30deg">2.3mm 30deg</option>
@@ -321,6 +321,9 @@
                     </form>
                     <p>
                         I firmly believe these sponges are the highest quality produced outside of Japan or Europe and better than many $30-40 rubbers' sponges. Good spring for the softness and maximum glue feel. Lots of synthetic in the mix. I don't know of any sponge sold separately that approaches this quality.
+                    </p>
+                    <p>
+                        <b>OUT OF STOCK 1.8 30deg</b>
                     </p>
                 </td>
                 <td class="image">
