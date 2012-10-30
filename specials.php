@@ -37,9 +37,9 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <!--<option value="DW2 Flared">Control DW2 Flared</option>-->
+                                        <option value="DW2 Flared">Control DW2 Flared</option>
                                         <option value="DW2 Straight">Control DW2 Straight</option>
-                                        <option value="DW2 Cpen">Control DW2 Cpen</option>
+                                        <!--<option value="DW2 Cpen">Control DW2 Cpen</option>-->
                                         <option value="R2 Flared">Medium R2 Flared</option>
                                         <option value="R2 Straight">Medium R2 Straight</option>
                                         <option value="R2 Cpen">Medium R2 Cpen</option>
@@ -85,7 +85,7 @@
                         <b>Please select $5 priority shipping with this combo.</b>
                     </p>
                     <p>
-                        <b>OUT OF STOCK DW2 Flared</b>
+                        <b>OUT OF STOCK DW2 Cpen</b>
                     </p>
                 </td>
                 <td class="image">
