@@ -368,9 +368,9 @@
             <tr>
                 <td class="body">
                     <span class="price">
-                        Price: $12
+                        Price: $14
                         <br />
-                        Combo Price: $28 - SALE $26
+                        Combo Price: $30 - SALE $28
                         <br />
                         (With 2 x 2008XP)
                     </span>
@@ -394,7 +394,7 @@
                                 </td>
                                 <td>
                                     <select name="os1">
-                                        <!--<option value="Control DW2">Control DW2</option>-->
+                                        <option value="Control DW2">Control DW2</option
                                         <option value="Medium R2">Medium R2</option>
                                         <option value="Fast R5">Fast R5</option>
                                     </select>
@@ -406,7 +406,7 @@
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
                         <input type="hidden" name="item_name" value="Dawei Premade Buster">
-                        <input type="hidden" name="amount" value="12">
+                        <input type="hidden" name="amount" value="14">
                         <input type="hidden" name="no_shipping" value="2">
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
@@ -423,13 +423,13 @@
                         </span>
                     </p>
                     <p>
-                        This is pretty much exclusive to colestt.com. I don't know anyone else who is selling this quality of all Ayous blade for $12, much less offering it as part of a custom combo for $26. I have three versions of Premade Buster blade, one ALL+ (DW2) and lighter, one OFF- (R2), and one fairly fast (R5). Try to find that anywhere else for $28!
+                        This is pretty much exclusive to colestt.com. I don't know anyone else who is selling this quality of all Ayous blade for $14, much less offering it as part of a custom combo for $28. I have three versions of Premade Buster blade, one ALL+ (DW2) and lighter, one OFF- (R2), and one fairly fast (R5). Try to find that anywhere else for $28!
                     </p>
                     <p>
-                        <b>If you want a Premade Buster combo, it is on sale for $26 on the <a href="specials.php">Specials</a> page.</b>
+                        <b>If you want a Premade Buster combo, it is on sale for $28 on the <a href="specials.php">Specials</a> page.</b>
                     </p>
                     <p>
-                        <b>OUT OF STOCK DW2</b>
+                        <b>OUT OF STOCK DW2 Flared</b>
                     </p>
                 </td>
                 <td class="image">
@@ -837,7 +837,7 @@
                                 <td>
                                     <select name="os0">
                                         <option value="Toxic 3 (3-ply)">Toxic 3 (3-ply)</option>
-                                        <option value="Toxic 5 (5-ply)">Toxic 5 (5-ply)</option>
+                                        <!--<option value="Toxic 5 (5-ply)">Toxic 5 (5-ply)</option>-->
                                     </select>
                                 </td>
                             </tr>
@@ -880,6 +880,9 @@
                     </p>
                     <p>
                         This racket will most likely be covered on at least one side with some sort of pips-out rubber. Often long pips. The typical choppers forehand will be a sticky topsheet on a thin (&lt;1.5), dead sponge. If the player wants to be able to loop with the forehand they will sometimes go to a sponge around 1.8 thickness.
+                    </p>
+                    <p>
+                        <b>OUT OF STOCK Toxic 5</b>
                     </p>
                 </td>
                 <td class="image">

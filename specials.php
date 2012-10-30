@@ -26,7 +26,7 @@
                 <td class="body">
                     <p>
                         <span class="price">
-                            Price: $28 - SALE $26
+                            Price: $30 - SALE $28
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -38,8 +38,8 @@
                                 <td>
                                     <select name="os0">
                                         <!--<option value="DW2 Flared">Control DW2 Flared</option>-->
-                                        <!--<option value="DW2 Straight">Control DW2 Straight</option>-->
-                                        <!--<option value="DW2 Cpen">Control DW2 Cpen</option>-->
+                                        <option value="DW2 Straight">Control DW2 Straight</option>
+                                        <option value="DW2 Cpen">Control DW2 Cpen</option>
                                         <option value="R2 Flared">Medium R2 Flared</option>
                                         <option value="R2 Straight">Medium R2 Straight</option>
                                         <option value="R2 Cpen">Medium R2 Cpen</option>
@@ -57,6 +57,7 @@
                                     <select name="os1">
                                         <option value="1.8">1.8</option>
                                         <option value="2.0">2.0</option>
+                                        <option value="2.2">2.2</option>
                                     </select>
                                 </td>
                             </tr>
@@ -67,7 +68,7 @@
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
                         <input type="hidden" name="item_name" value="Dawei Premade Buster Combo">
-                        <input type="hidden" name="amount" value="26">
+                        <input type="hidden" name="amount" value="28">
                         <input type="hidden" name="no_shipping" value="2">
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
@@ -84,7 +85,7 @@
                         <b>Please select $5 priority shipping with this combo.</b>
                     </p>
                     <p>
-                        <b>OUT OF STOCK DW2</b>
+                        <b>OUT OF STOCK DW2 Flared</b>
                     </p>
                 </td>
                 <td class="image">
@@ -201,48 +202,6 @@
                 </td>
                 <td class="image">
                     <img src="images/products/venus.jpg" />
-                </td>
-            </tr>
-        </table>
-
-        <table class="product">
-            <tr>
-                <td class="prodname" colspan="2">Gambler Reflectoid Combo (Like New)</td>
-            </tr>
-            <tr>
-                <td class="body">
-                    <p>
-                        <span class="price">
-                            Price: $25
-                        </span>
-                    </p>
-                    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                        <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but22.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
-                        <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                        <input type="hidden" name="add" value="1">
-                        <input type="hidden" name="cmd" value="_cart">
-                        <input type="hidden" name="business" value="cole.ely@gmail.com">
-                        <input type="hidden" name="item_name" value="Gambler Reflectoid Combo Special - $25">
-                        <input type="hidden" name="amount" value="25">
-                        <input type="hidden" name="no_shipping" value="2">
-                        <input type="hidden" name="no_note" value="1">
-                        <input type="hidden" name="currency_code" value="USD">
-                        <input type="hidden" name="bn" value="PP-ShopCartBF">
-                    </form>
-                    <p>
-                        Gambler Reflectoid Combo with Dawei DW2 flared blade and two 1.5 Gambler Reflectoid rubbers. Great for a beginner setup, and excels at chopping and blocking. Used only a few times.
-                    </p>
-                    <p>
-                        Comes with racket cover, ready to play.
-                    </p>
-                    <p>
-                        <b>Please select $5 priority shipping with this purchase.</a>
-                    </p>
-                </td>
-                <td class="image">
-                    <img src="images/products/reflectoid.jpg" />
-                    <br />
-                    <img src="images/products/premade buster.JPG" />
                 </td>
             </tr>
         </table>
