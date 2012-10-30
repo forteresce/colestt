@@ -394,7 +394,7 @@
                                 </td>
                                 <td>
                                     <select name="os1">
-                                        <option value="Control DW2">Control DW2</option
+                                        <option value="Control DW2">Control DW2</option>
                                         <option value="Medium R2">Medium R2</option>
                                         <option value="Fast R5">Fast R5</option>
                                     </select>
