@@ -13,92 +13,8 @@
     <div id="body">
         <img src="images/title/woodblades.gif"/>
         <p>
-            I will combo any blade with any rubber but Air brand, but I have so many different options with different prices on rubbers, sponges, and topsheets that really the only way to work a combo is for you to email me and we'll work out pricing.
-        </p>
-        <p>
-            As a general rule the combo adds two rubbers and a case for $20, so below is a button that adds $20 to the order. Unfortunately, you still have to designate what rubbers, colors, thicknesses, hardnesses, penhold gap, and any other specs in an email.
-        </p>
-        <p>
-            There are cases where you may want a combination that doesn't fall well into that $20 rule though (usually that means cheaper - pips with no sponge for example), so as per usual, feel free to email me for specific quotes.
-        </p>    
-        <p>
             <b>Blades under $32 will come up as $1 first class shipping. In this case you'll need to manually change it to $5 priority shipping. I can't make my shopping cart work any other way, sorry!</b>
         </p>
-        <table class="product">
-            <tr>
-                <td class="prodname" colspan="2">
-                    Combo Upcharge $20
-                </td>
-            </tr>
-            <tr>
-                <td class="body">
-                    <p>
-                        <span class="price">
-                            Price: $20
-                        </span>
-                    </p>
-                    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                        <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but22.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
-                        <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                        <input type="hidden" name="add" value="1">
-                        <input type="hidden" name="cmd" value="_cart">
-                        <input type="hidden" name="business" value="cole.ely@gmail.com">
-                        <input type="hidden" name="item_name" value="Combo Upcharge">
-                        <input type="hidden" name="amount" value="20">
-                        <input type="hidden" name="no_shipping" value="2">
-                        <input type="hidden" name="no_note" value="1">
-                        <input type="hidden" name="currency_code" value="USD">
-                        <input type="hidden" name="bn" value="PP-ShopCartBF">
-                    </form>
-                    <p>
-                        I wish had a system where you could select your rubbers in this combo upcharge button, or even a place for comments where you could write in the specs for your combo.
-                    </p>
-                    <p>
-                        Unfortunately my PayPal shopping cart is just too limited and my rubber options too diverse, given that I allow different sponge/topsheet combinations as well. So the only thing I can do is ask you to email me the specs when you order the combo upcharge: <script type="text/javascript">nospam('cole_ely', 'hotmail', 'com');</script>.
-                    </p>    
-                    <p>
-                        By default, combos come assembled with rubbers, case, tape, ready to play. Works with rubbers $14 and under. 
-                    </p>
-                </td>
-            </tr>
-        </table>
-
-        <table class="product">
-            <tr>
-                <td class="prodname" colspan="2">
-                    Rubber Upgrade $2 Per Sheet
-                </td>
-            </tr>
-            <tr>
-                <td class="body">
-                    <p>
-                        <span class="price">
-                            Price: $2 Per Sheet Upcharge
-                        </span>
-                    </p>
-                    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                        <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but22.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
-                        <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                        <input type="hidden" name="add" value="1">
-                        <input type="hidden" name="cmd" value="_cart">
-                        <input type="hidden" name="business" value="cole.ely@gmail.com">
-                        <input type="hidden" name="item_name" value="Rubber Upgrade">
-                        <input type="hidden" name="amount" value="2">
-                        <input type="hidden" name="no_shipping" value="0">
-                        <input type="hidden" name="no_note" value="1">
-                        <input type="hidden" name="currency_code" value="USD">
-                        <input type="hidden" name="lc" value="US">
-                        <input type="hidden" name="bn" value="PP-ShopCartBF">
-                    </form>
-                    <p>
-                        Click this button once for each sheet of Quattro or Quattro UL or Sun/Moon you want to use in a combo. Use this also if you want any sponge/top combination that costs over $14.
-                    </p>
-                </td>
-                <td class="image">
-                    <img src="images/products/inspiritquattro.JPG"/>
-                </td>
-            </tr>
-        </table>
 
         <table class="product">
             <tr>
@@ -111,8 +27,6 @@
                     <p>
                         <span class="price">
                             Price: $22
-                            <br />
-                            Combo Price: $42
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -163,8 +77,6 @@
                     <p>
                         <span class="price">
                             Price: $22
-                            <br />
-                            Combo Price: $42
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -215,8 +127,6 @@
                     <p>
                         <span class="price">
                             Price: $22
-                            <br />
-                            Combo Price: $42
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -266,8 +176,6 @@
                     <p>
                         <span class="price">
                             Price: $22
-                            <br />
-                            Combo Price: $42
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -318,8 +226,6 @@
                     <p>                    
                         <span class="price">
                             Price: $18
-                            <br />
-                            Combo Price: $38
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -370,7 +276,7 @@
                     <span class="price">
                         Price: $14
                         <br />
-                        Combo Price: $30 - SALE $28
+                        Combo Price: $28
                         <br />
                         (With 2 x 2008XP)
                     </span>
@@ -449,8 +355,6 @@
                     <p>
                         <span class="price">
                             Price: $51
-                            <br />
-                            Combo Price: $71
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -500,10 +404,6 @@
                     <p>
                         <span class="price">
                             Price: $50
-                            <br />
-                            Combo Price: $70
-                            <br />
-                            (With 2 Rubbers)
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -540,8 +440,6 @@
                     <p>                
                         <span class="price">
                             Price: $49
-                            <br />
-                            Combo Price: $69
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -591,8 +489,6 @@
                     <p>
                         <span class="price">
                             Price: $27
-                            <br />
-                            Combo Price: $47
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -646,8 +542,6 @@
                     <p>
                         <span class="price">
                             Price: $40
-                            <br />
-                            Combo Price: $60
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -705,8 +599,6 @@
                     <p>
                         <span class="price">
                             Price: $34
-                            <br />
-                            Combo Price: $54
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -765,8 +657,6 @@
                     <p>
                         <span class="price">
                             Price: $16
-                            <br />
-                            Combo Price: $36
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -824,8 +714,6 @@
                     <p>
                         <span class="price">
                             Price: $22
-                            <br />
-                            Combo Price: $42
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -902,8 +790,6 @@
                     <p>
                         <span class="price">
                             Price: $18
-                            <br />
-                            Combo Price: $38
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -962,8 +848,6 @@
                     <p>
                         <span class="price">
                             Price: $16
-                            <br />
-                            Combo Price: $36
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -1011,6 +895,9 @@
                     </span>
                      <p>
                          Soft ayous blade with lots of control. The Instinct 5ply is all+ and a very popular blade. The Instinct Plus is a 7ply version so it's stiffer and faster, but still pretty soft and very good control for a 7ply.
+                     </p>
+                     <p>
+                        <b>On sale for $15 in combo!</b>
                      </p>
                 </td>
                 <td class="image">

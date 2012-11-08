@@ -64,9 +64,6 @@
                     <p>
                         Very lightly tacky, soft, medium thickness topsheet complemented by a 40deg sponge with a lot of pop (both sound and speed). Could pass for Japanese make easily.  
                     </p>
-                    <p>
-                        <b>Requires 1 rubber upgrade per sheet in combo.</b>
-                    </p>
                 </td>
                 <td class="image">
                     <img src="images/products/SCIROCCO.jpg"/>
@@ -132,9 +129,6 @@
                     </p>
                     <p>    
                         Combo price is $14 per sheet while on sale (email me for this).  Neither type is tuned nor do they need tuning. Effect is built in and permanent.
-                    </p>
-                    <p>
-                        <b>Requires 2 rubber upgrades per sheet in combo.</b>
                     </p>
                 </td>
                 <td class="image"> 
@@ -202,9 +196,6 @@
                     </form>
                     <p>
                         Dawei's best Euro copy rubber. Thin top allows for better sink into the sponge and better use of the best glue feel sponge of any unglued rubber coming from China by far. This is a Euro style looping rubber, lightly tacky, and built for max topspin. Max is supposed to be 2.3 but sometimes goes thicker. The SV is around 35deg, Regular around 40, and Power version around 42deg. 42deg is available in 2.2 only.
-                    </p>
-                    <p>
-                        <b>If you want to use Quattro or Quattro Ultralight in a combo you will need to click the "Quattro Upcharge" button below the regular Quattro (once for each sheet you want to use). It will add $2 to the cost of your combo for each sheet.</b>
                     </p>
                 </td>
                 <td class="image">
@@ -453,7 +444,7 @@
                         <b>2.2 ON SALE for $6 on the <a href="specials.php">Specials</a> page!</b>
                     </p>
                     <p>
-                        <b>Premade Buster combo with 2008XP rubbers and case for $26 on the <a href="specials.php">Specials</a> page!</b>
+                        <b>Premade Buster combo with 2008XP rubbers and case for $28 on the <a href="specials.php">Specials</a> page!</b>
                     </p>
                 </td>
                 <td class="image">
@@ -514,9 +505,6 @@
                     </form>
                     <p>
                         I'm not known to carry a lot of DHS, but I tried this and was impressed. Sponge seems to be tuned, and has the plastic painted onto the sponge to seal it in. Much like the Galaxy and other tuned stuff I've tried, but this does seem to be from a different manufacturer based on the finish. The topsheet does seem to me to be DHS make. Sponge seemed a little thinner than other 2.15s I've seen but I thought it was perfect thickness for play. Anyway, I was impressed enough to try stocking it. Semi-tacky top, not terribly thick or heavy.
-                    </p>
-                    <p>
-                        <b>Priced separately</b>. Sorry, no combos or discounts with this item.
                     </p>
                     <p>
                         <b>OUT OF STOCK H2 Neo Black</b>

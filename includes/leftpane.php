@@ -1,40 +1,24 @@
 <div id="leftpane">
     <div id="sidemenu">
-        <a href="index.php">
-            <img src="images/sidemenu/home.gif"/>
-        </a>
+        <a href="index.php"><img src="images/sidemenu/home.gif"/></a>
         <br />
-        <a href="rubbers.php">
-            <img src="images/sidemenu/rubbers.gif"/>
-        </a>
+        <a href="rubbers.php"><img src="images/sidemenu/rubbers.gif"/></a>
         <br />
-        <a href="blades.php">
-            <img src="images/sidemenu/blades.gif"/>
-        </a>
+        <a href="blades.php"><img src="images/sidemenu/blades.gif"/></a>
         <br />
-        <a href="balls.php">
-            <img src="images/sidemenu/balls.gif"/>
-        </a>
+        <a href="combos.php"><img src="images/sidemenu/combos.gif"/></a>
         <br />
-        <a href="accessories.php">
-            <img src="images/sidemenu/accessories.gif"/>
-        </a>
+        <a href="balls.php"><img src="images/sidemenu/balls.gif"/></a>
         <br />
-        <a href="specials.php">
-            <img src="images/sidemenu/specials.gif"/>
-        </a>
+        <a href="accessories.php"><img src="images/sidemenu/accessories.gif"/></a>
         <br />
-        <a href="howto.php">
-            <img src="images/sidemenu/howto.gif"/>
-        </a>
+        <a href="specials.php"><img src="images/sidemenu/specials.gif"/></a>
         <br />
-        <a href="contact.php">
-            <img src="images/sidemenu/contact.gif"/>
-        </a>
+        <a href="howto.php"><img src="images/sidemenu/howto.gif"/></a>
         <br />
-        <a href="payment.php">
-            <img src="images/sidemenu/payment.gif"/>
-        </a>
+        <a href="contact.php"><img src="images/sidemenu/contact.gif"/></a>
+        <br />
+        <a href="payment.php"><img src="images/sidemenu/payment.gif"/></a>
         <br />
         <img src="images/sidemenu/bottomsection.gif"/>
     </div>
