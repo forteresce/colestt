@@ -65,7 +65,7 @@
                         Very lightly tacky, soft, medium thickness topsheet complemented by a 40deg sponge with a lot of pop (both sound and speed). Could pass for Japanese make easily.  
                     </p>
                     <p>
-                        <b>Requires 2 rubber upgrades per sheet in combo.</b>
+                        <b>Requires 1 rubber upgrade per sheet in combo.</b>
                     </p>
                 </td>
                 <td class="image">
@@ -134,7 +134,7 @@
                         Combo price is $14 per sheet while on sale (email me for this).  Neither type is tuned nor do they need tuning. Effect is built in and permanent.
                     </p>
                     <p>
-                        <b>Requires 1 rubber upgrade per sheet in combo.</b>
+                        <b>Requires 2 rubber upgrades per sheet in combo.</b>
                     </p>
                 </td>
                 <td class="image"> 
