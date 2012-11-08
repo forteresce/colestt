@@ -44,6 +44,9 @@
                     <p>    
                         Comes with a cheap net, but I include the much nicer "Replacement Net" seen below.
                     </p>
+                    <p>
+                        <b>Please select $5 priority shipping with this item.</b> See shipping policy for details.
+                    </p>
                 </td>
                 <td class="image">
                     <img src="images/products/galaxy1803post.jpg"/>

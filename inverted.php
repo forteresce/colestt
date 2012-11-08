@@ -128,7 +128,7 @@
                         This topsheet has a very soft, Euro feel with traditional Euro pips structure. Extremely spinny without being sticky at all. The sponge in this batch is natural off white and it is very clicky, even moreso than the Dawei sponges. This rubber is a rarity that blocks as well as it loops. Now available in two hardnesses of sponge. One version is called "Alpha Plus" and is 38deg (like the previous Illumina batch) and is the fastest Illumina make so far, still with good click. The new version is 35deg but bouncy and clicky. They call it "Delta Sound." The true strength of Illumina rubber lies in its control while countering or blocking heavy topspin.
                     </p>
                     <p>    
-                        Combo price is $14 per sheet while on sale (email me for this).  Neither type is tuned nor do they need tuning. Effect is built in and permanent.
+                        Neither type is tuned nor do they need tuning. Effect is built in and permanent.
                     </p>
                 </td>
                 <td class="image"> 
@@ -555,7 +555,7 @@
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
                     </form>
                     <p>
-                        The classic version of the DHS favorite. Not factory tuned. Ask for combo pricing. 
+                        The classic version of the DHS favorite. Not factory tuned.
                     </p>
                 </td>
                 <td class="image">

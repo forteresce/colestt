@@ -897,7 +897,7 @@
                          Soft ayous blade with lots of control. The Instinct 5ply is all+ and a very popular blade. The Instinct Plus is a 7ply version so it's stiffer and faster, but still pretty soft and very good control for a 7ply.
                      </p>
                      <p>
-                        <b>On sale for $15 in combo!</b>
+                        <b>On sale for $15 when comboed with rubbers!</b>
                      </p>
                 </td>
                 <td class="image">
