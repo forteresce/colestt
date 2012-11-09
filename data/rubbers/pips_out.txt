@@ -1,18 +1,18 @@
-AIR UPUPUPUP Topsheet, 12
-Air Panamera, 16
+AIR UPUPUPUP Topsheet, 10
+Air Panamera, 10
 Air Panamera Topsheet, 10
 Air Classique, 10
-Bomb Talent, 12
+Bomb Talent, 10
 Dawei 388-D1 Quattro, 10
 Doublefish 1615, 10
-Gambler Peacekeeper OX, 8
+Gambler Peacekeeper OX, 10
 Meteor 8512, 10
-National Team Pogo, 8
-RITC 802-40, 12
-RITC 802, 5.5
-RITC 837, 5.5
-RITC 799, 5.5
-RITC 755, 5.5
-RITC 563, 5.5
-XiYing 979, 12
+National Team Pogo, 10
+RITC 802-40, 10
+RITC 802, 10
+RITC 837, 10
+RITC 799, 10
+RITC 755, 10
+RITC 563, 10
+XiYing 979, 10
 729 Dr. Evil, 10

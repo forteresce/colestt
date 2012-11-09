@@ -116,7 +116,7 @@
         </table> 
     </form>
 
-    <iframe id="frame" width="500" height="180"></iframe>
+    <iframe name="frame" id="frame" width="500" height="180"></iframe>
     </div>
 </body>
 </html>

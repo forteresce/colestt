@@ -37,6 +37,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="tax_cart" value="5">
                     </form>
                     <p>
                         Extremely nice and durable. Don't be afraid of the clip. This is all solid stuff. I've had mine on and off at the club 2x a week for 3 years and they're still like new, literally. Clamp is super heavy, but it won't fix your table if the heights don't match like screw will. :) It will hold the net as tight as you want it though.
