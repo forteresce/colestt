@@ -146,7 +146,7 @@
                     </form>
                 </td>
                 <td class="image">
-                    <img src="images/products/2008xp.jpg">
+                    <img src="images/products/rubbers/dawei-2008xp.jpg" />
                 </td>
             </tr>
         </table>
@@ -204,7 +204,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/venus.jpg" />
+                    <img src="images/products/rubbers/yinhe-galaxy-venus-2.jpg" />
                 </td>
             </tr>
         </table>
