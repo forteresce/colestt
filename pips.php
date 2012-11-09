@@ -73,6 +73,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                 </td>
             </tr>
@@ -128,6 +129,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         I'm putting my best long pips topsheet on sale for $12, but only as an ox topsheet. If you want sponge you have to buy it seperately using the add a sponge button above, or by custom ordering your sponge. I have it factory made on 0.6 lemon sponge supersoft in both types, so if you use the add a sponge button you will get the factory sponge. Otherwise I'll be custom gluing it.
@@ -189,6 +191,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         Panamera combines a softer, spinnier short pip with a soft 33deg sponge and a thick base sheet. This makes it quite spinny even for a short pip. Very controllable, but with the speed and hitting of a short pip. This is a fresh batch on lemon sponge, very soft.
@@ -243,6 +246,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         Very spinny for a pip, but still hits with great control.
@@ -297,6 +301,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         This is a short pip designed for classic hardbat play. Medium spin, good dwell. As versatile as a harbatters game. It is ITTF approved and legal in regular events, but not on the list of approved rubbers for US hardbat events. This rubber is designed to use no sponge and I don't recommend it to be put on sponge. Picture coming soon.
@@ -348,6 +353,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         Another tricky long pips that I've been requested to carry. Seems a nice combination of softness with reversal.
@@ -399,6 +405,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         This is a semi-soft long pip that still gives some reversal, so it's kind of positioned between blocking and chopping. If you sink the ball you can get some spin from the sides of the pips. I have it factory made on 0.6, so if you use the add a sponge button you will get the factory sponge. If you want to add thicker sponge, I'll glue it here using cannon.
@@ -453,6 +460,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         A decent reversal long pips with a loyal fan base. Fairly stiff. Seems like more for blocking and hitting to me.
@@ -507,6 +515,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         Just a little more evil than the Doctor, this is a new med/short pip made for Gambler in the image of Dr Evil (by the same company) but with a slightly longer, harder pip, gearing it just a bit more toward reversal effect but still offering way more hitting control than long pips. Made especially for hardbat with a thicker base sheet than the standard version found on sponge. Like Dr Evil, this is made for OX play. Initial reports on this are very good. 
@@ -561,6 +570,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         Meteor makes a lot of junky premades and stuff, but for some reason they make one of the best playing long pips coming out of china. This one is pretty funky and has sold well for me over a period of years. Production quality isn't always perfect and they can be a little messy for me to glue, but I'll do my best if you need me to.
@@ -615,6 +625,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         One of the long pips I don't know much about, but was persuaded to carry by long pips users.
@@ -669,6 +680,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         A very thick, soft short pip that gives excellent spin. Thick base sheet. Sorry about the price... it costs me more than twice as much as other Friendship tops.
@@ -720,6 +732,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         This is a very short pip rubber. Fast and fairly firm. I stock the topsheets by themselves, so can put them custom onto your sponge of choice. I recommend the 1.8 Dawei lightning. I'm also keeping one each red and black of 802-1 on hand as well.
@@ -774,6 +787,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         837 is not a max reversal kind of top. But it's also one of the easiest to attack with and to control in general. So this is more of a long hitting pip.
@@ -828,6 +842,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         This pip is just a little taller than 802. It feels a bit softer as a result. Makes a great hardbat pip although currently not on the short list approved by hardbat committee.
@@ -882,6 +897,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         755 long pips are more reversing than 837 but also maintain good attacking properties. Deng Yaping, the best woman ever to pick up a racket, used this rubber on her backhand with a 1.0 sponge. And she DIDN'T chop with it.
@@ -936,6 +952,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         563 is a medium pip. Not reversing like a long pip, but more like an anti. It kills the spin and makes kind of a knuckle. Drives with this rubber kind of dip and are dead and very hard to lift.
@@ -990,6 +1007,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         I'm carrying this pips because two good long pips players have told me this is the slowest pip they know of. So if your aim is to take as much off the ball as possible, this should be a good choice. Still with decent reversal.
@@ -1041,6 +1059,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         A short pip made of an less spinny material to give a bit of reversal like a long pips. Despite not being as funky as most lp rubbers, this rubber is still quite tricky. You can put on your own spin, block back a dead knuckle, or send back quite a bit of backspin if you cut very thinly when you chop. It chops excellently actually. It returns serve extremely well. Many people have tried to put this topsheet on sponge and by all accounts it's terrible. This topsheet was made for OX use and it should not be combined with sponge. Gluing this topsheet onto the blade is very easy compared with most of my other pips ox sheets due to the thick, inert base sheet.

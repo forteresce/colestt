@@ -13,9 +13,7 @@
 
     <div id="body">
         Welcome to Cole's Equipment Site. Here you'll find a selection of products for sale at great prices, as well as reviews on them. Also, there are instructions on gluing and cutting rubber, and applying the topsheet onto the sponge.
-        <p>    
-            <b>Please read the <a href="payment.php">payment/shipping</a> policy before placing an order.</b>
-        </p>
+        <br /><br />
         <img src="images/picture.jpg"/>
         <p>
             For those of you who are "combination players," that is you use inverted on the forehand and some type of "junk" rubber on the backhand, a good friend of mine is putting on an online clinic on the techniques involved in that style of play. If you're interested, check out this link: <a href="http://www.gregsttpages.com/gttp/index.php/Online-Coaching-Program/gregs-online-table-tennis-coaching-program.html">Greg's Online Coaching Program</a>

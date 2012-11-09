@@ -60,6 +60,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         Very lightly tacky, soft, medium thickness topsheet complemented by a 40deg sponge with a lot of pop (both sound and speed). Could pass for Japanese make easily.  
@@ -123,6 +124,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         This topsheet has a very soft, Euro feel with traditional Euro pips structure. Extremely spinny without being sticky at all. The sponge in this batch is natural off white and it is very clicky, even moreso than the Dawei sponges. This rubber is a rarity that blocks as well as it loops. Now available in two hardnesses of sponge. One version is called "Alpha Plus" and is 38deg (like the previous Illumina batch) and is the fastest Illumina make so far, still with good click. The new version is 35deg but bouncy and clicky. They call it "Delta Sound." The true strength of Illumina rubber lies in its control while countering or blocking heavy topspin.
@@ -193,6 +195,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         Dawei's best Euro copy rubber. Thin top allows for better sink into the sponge and better use of the best glue feel sponge of any unglued rubber coming from China by far. This is a Euro style looping rubber, lightly tacky, and built for max topspin. Max is supposed to be 2.3 but sometimes goes thicker. The SV is around 35deg, Regular around 40, and Power version around 42deg. 42deg is available in 2.2 only.
@@ -255,6 +258,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         This is the thicker topsheet version of Quattro, which makes it play a little flatter than the Ultralight version. Pushes flatter, flat hits better, less topspin on loops. 
@@ -321,6 +325,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         More controlled version of the Inspirit series. Still a very corky Euro copy sponge and an absolute steal at this price.
@@ -377,6 +382,7 @@
                        <input type="hidden" name="no_note" value="1">
                        <input type="hidden" name="currency_code" value="USD">
                        <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         The newest and best version of the popular Dawei Sprungfeder rubber. At one time this was my best selling tacky rubber, at that time displacing Cream on MRS. Sponge is kind of a cross between Saviga and Quattro, and a firm 40deg. The tackiest Dawei offering I carry.
@@ -436,6 +442,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p> 
                         This rubber should be selling for at least $10, but what the heck right? The sponge is 40deg and fairly fast. The topsheet is medium thickness and only very lightly tacky. In 1.8 it's a decent rubber for beginners if a little "hot", and offers a quality option for premade prices.
@@ -502,6 +509,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         I'm not known to carry a lot of DHS, but I tried this and was impressed. Sponge seems to be tuned, and has the plastic painted onto the sponge to seal it in. Much like the Galaxy and other tuned stuff I've tried, but this does seem to be from a different manufacturer based on the finish. The topsheet does seem to me to be DHS make. Sponge seemed a little thinner than other 2.15s I've seen but I thought it was perfect thickness for play. Anyway, I was impressed enough to try stocking it. Semi-tacky top, not terribly thick or heavy.
@@ -553,6 +561,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         The classic version of the DHS favorite. Not factory tuned.
@@ -612,6 +621,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p> 
                         Moon provincial has a less tacky but more supple topsheet. Sponge is 37deg tuned. Quite a nice product. Sun is also provincial tuned.
@@ -672,6 +682,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         This is a quality traditional Chinese, tacky topsheet on a fairly hard but heavilly tuned sponge. Thicker plastic base seems to allow the sponge to retain the tuner more than other makes I've tried. Quality product, but the provincial Moon is what's selling now in tuned, and I don't want to hold onto a tuned rubber too long.
@@ -728,6 +739,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         Tacky rubber with good control. Something like Geo Tacky but a little firmer and faster.
@@ -786,6 +798,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         This very successful rubber has been one of my biggest sellers over the last year or two. Totally non-tacky but reasonably spinny top. Excellent speed. The Classic sponge is faster and less spinny, while the Golden Cake sponge loads topspin better. 
@@ -846,6 +859,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         Although a labled as defensive rubber, it is not an anti-spin. It is fairly spinny. It is made for blocking and chopping primarily but can topspin pretty well. Most people who want to spin with it will go 2.0, as the 1.5 is more for chopping and blocking.
@@ -903,6 +917,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         Shadow is a slightly more control oriented rubber than wraith. Less tacky, softer sponge.
@@ -959,6 +974,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         Wraith is the spinniest of the Gambler rubbers and is quite fast for being fairly tacky. Springy sponge.
@@ -1015,6 +1031,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         A forum favorite, this rubber is very lightly tacky with a medium firm sponge. A popular item.
@@ -1072,6 +1089,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         Pro XP is supposed to be a less tacky (and therefore faster) version of the same rubber, but there's very little difference if any. Instead, what I find (like many of the rubbers I carry) is that the black is quite a bit softer and tackier than the red in either make. 
@@ -1132,6 +1150,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         Modern, ultralight rubber made by Friendship under the LKT brand. Moderately tacky, this rubber is something like Geo Tacky. Not quite as sticky but with a newer type of sponge.
@@ -1191,6 +1210,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         This is the rubber that got me into the business. For a couple years my best seller. Tacky topshet so not great for beginners but loads of control for people who want to play equal amounts of offense and defense. Be aware this is fairly heavy, especially if you're using it on both sides.
@@ -1247,6 +1267,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         I believe this new Snipe version is no longer a Japanese sponge, but the sponge is more consistent and the topsheet is probably the highest quality Friendship makes. Totally non-tacky, quite soft.
@@ -1303,6 +1324,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         This was 729's first attempt at creating a Euro rubber. It's soft, half tacky, and very very light. It's been criticized for lacking power, but I don't think it seems that slow. It's a great rubber for control looping, and I frequently recommend it to players making their first step up from a pre-made racket. One of the highest control rubbers on the market.
@@ -1360,6 +1382,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         GeoSpin Black Tacky is among the stickiest, spinniest rubbers on the planet. It has excellent control (being sticky it does react to incoming spin heavily though), and is medium in speed. The regular GeoSpin is supposed to be on a softer sponge, but I can't tell the difference. I like Black Tacky on the forehand and Red Regular on the backhand if you choose these rubbers.

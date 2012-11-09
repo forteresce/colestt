@@ -105,7 +105,7 @@
                 <td>
                     <input type="text" name="instructions" size="50" maxlength="200">
                     <br />
-                    e.g. Penhold Gaps, Blade Sealing, etc.
+                    e.g. Penhold Gap, Blade Sealing, etc.
                 </td>
             </tr>
             <tr>

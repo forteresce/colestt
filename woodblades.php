@@ -12,10 +12,6 @@
 
     <div id="body">
         <img src="images/title/woodblades.gif"/>
-        <p>
-            <b>Blades under $32 will come up as $1 first class shipping. In this case you'll need to manually change it to $5 priority shipping. I can't make my shopping cart work any other way, sorry!</b>
-        </p>
-
         <table class="product">
             <tr>
                 <td class="prodname" colspan="2">
@@ -55,6 +51,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
                         The O is probably my favorite of the Genote line and the most unique. It is a very thin blade, but made faster and stiffer by the addition of two plies of red-stained, hardened ayous. From the side, this blade looks like a donic dicon. You can see a side pic at www.colestt.com/gpics.doc. The blade is off- with a nice feel and a very nice look.
@@ -105,6 +102,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
                         Dawei has used a top quality hinoki to form the outer plies, which makes it just a tad softer, as well as prettier, and probably more collectible. This blade is also about 6.5mm thick and weighs around 88g. I'd call it on the high side of offensive but not quite as fast as the C, or maybe it just feels that way because it's a tad softer on the outer plies. Closeups showing the near-perfect grains are available upon request. Straight, Flared, and Cpen 
@@ -154,6 +152,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
                         Earlier versions of this blade were slower, but now this blade feels more like the 7ply that it is. Hinoki outer plies give it a softer feeling though.
@@ -204,6 +203,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
                         A classic Swedish formula, limba over ayous, favored by many great loopers from around the world. This blade had originally has been a little lighter, but now I've got them making it in what I consider to be the optimum weight range of 84-88. Personally I think it plays best around 86-88. This is my best selling blade. It has 7 thin plies, making it a bit faster than the typical 5ply wood limba but not as fast as most 7plies. Flared, anatomic, or straight. 
@@ -254,6 +254,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
                         This has been one of my most popular blades over the years. Try to find a limba outer ply at this price anywhere else. Handles now again as pictured. This blade has great tone. A little fast for beginners, but for intermediates and above it's a great blade for the price. Handle now as pictured again. Absolute steal.
@@ -318,6 +319,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
                         <span class="specs">
@@ -382,6 +384,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
                         Li Qian is a new sponsored player for Galaxy. As I understand it, she is a modern defensive player from China now playing for Poland. These are the two new "flagship" blades for Galaxy. The Lq-1 is a fairly fast blade for being defensive, but it has a defensive shape. What I noticed was that the length of the blade meant that it was extremely flexible and spinny if you loop or chop near the tip. The quality of crafstmanship and materials used in the LQ blades are second no other all wood blades I've ever seen. LQ1 seems to be the same wood formulation as W6, but oversized.
@@ -418,6 +421,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
                         Real one ply Hinoki. Grains are pretty nice for this price. Maybe not quite as perfect as the $200 ones, but the play is extremely comparable. I've certainly seen one ply blades that sold for $100+ that weren't as nicely grained.
@@ -467,6 +471,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
                         This blade is shaped like the LQ-1, but seems to be a touch slower with a lower pitch and more flex, making it seem a bit more like I would expect a defensive blade to feel. The handle is a thick cork. Flex to the max...well, not to the max, I've felt more, but it's flexy. Sales have increased with the popularity of hardbat.
@@ -517,6 +522,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
                         This blade has been labeled off to off+, but I think it's more like off. Maybe because the feel and control are so great. This one rivals my w6. Thinner blade but two layers of red hardened ayous give it speed and stiffness beyond what you would expect given it's thin structure. Really a nice piece of work. Some have called it a clipper clone but I don't see it as being as fast as most of the clippers I've tried.
@@ -570,6 +576,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
                         <span class="specs">
@@ -628,6 +635,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
                         <span class="specs">
@@ -683,6 +691,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
                         <span class="specs">
@@ -739,6 +748,7 @@
                         <input type="hidden" name="amount" value="22">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
                         <span class="specs">
@@ -817,6 +827,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
                         <span class="specs">
@@ -874,6 +885,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="5">
                     </form>
                     <span class="specs">
                         <b><i>Instinct (5-ply)</i></b>

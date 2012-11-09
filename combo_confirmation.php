@@ -50,6 +50,7 @@
         <input type="hidden" name="no_note" value="1">
         <input type="hidden" name="currency_code" value="USD">
         <input type="hidden" name="bn" value="PP-ShopCartBF">
+        <input type="hidden" name="weight" value="5">
         <input type="hidden" name="on0" value="Blade">
         <input type="hidden" name="os0" value="<?php echo $blade;?>">
         <input type="hidden" name="on1" value="Blade Handle">

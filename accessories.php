@@ -37,16 +37,13 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
-                        <input type="hidden" name="tax_cart" value="5">
+                        <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
                         Extremely nice and durable. Don't be afraid of the clip. This is all solid stuff. I've had mine on and off at the club 2x a week for 3 years and they're still like new, literally. Clamp is super heavy, but it won't fix your table if the heights don't match like screw will. :) It will hold the net as tight as you want it though.
                     </p>
                     <p>    
                         Comes with a cheap net, but I include the much nicer "Replacement Net" seen below.
-                    </p>
-                    <p>
-                        <b>Please select $5 priority shipping with this item.</b> See shipping policy for details.
                     </p>
                 </td>
                 <td class="image">
@@ -79,6 +76,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         Not too bad for the price. "Leatherette" side strips.
@@ -114,13 +112,11 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
                         As high a quality water glue as I've seen across several brands. I personally spread with my fingers but you may use a brush sponge or something.
                     </p> 
-                    <p> 
-                        <b>Please select $5 priority shipping with this item.</b> See shipping policy for details.
-                    </p>
                 </td>
                 <td class="image">
                     <img src="images/products/dawei water glue.jpg" />
@@ -152,6 +148,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p> 
                         Purchased separately or available with combos for up-charge.
@@ -193,6 +190,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         These come standard with combo's over $40. The case has a ball pouch that holds 3 balls on the back side.
@@ -228,6 +226,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         These come standard with combos under $40. Brand may vary.
@@ -263,6 +262,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         These are Air brand glue sheets. They have a foam type body to them.
@@ -295,6 +295,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         Galaxy edge tape. Nice design. Still just the ribbon material, but 10mm and it looks nice.

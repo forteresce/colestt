@@ -74,6 +74,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
                         Made with a Dawei Premade Buster blade and 2008XP rubbers, I'd put this against any premade under $60 at least.
@@ -141,6 +142,7 @@
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="lc" value="US">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                 </td>
                 <td class="image">
@@ -195,6 +197,7 @@
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
                         This is a quality traditional Chinese, tacky topsheet on a fairly hard but heavilly tuned sponge. Thicker plastic base seems to allow the sponge to retain the tuner more than other makes I've tried. Quality product but the provincial Moon is what's selling now in tuned, and I don't want to hold onto a tuned rubber too long.
