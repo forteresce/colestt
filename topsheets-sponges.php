@@ -167,7 +167,7 @@
                         <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
-                        Lighter than most topsheets and about half tacky. Nice soft texture.
+                        Lighter than most topsheets and about half as tacky. Nice soft texture.
                     </p>
                 </td>
                 <td class="image">
@@ -218,7 +218,7 @@
                         <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
-                        This is a very high quality topsheet. I'm carrying it in 1.4mm which is feather light and 1.5 which is just a hair thicker. They're very euro...not super tacky but grippy and spinny because they're butter-soft. Good for putting on thick sponges while remaining within legal thicknesses. Perhaps a little fragile        based on thinness but I haven't had any problems at all with them.
+                        This is a very high quality topsheet. I'm carrying it in 1.4mm which is feather light and 1.5 which is just a hair thicker. They're very Euro. Not super tacky but grippy and spinny because they're butter-soft. Good for putting on thick sponges while remaining within legal thicknesses. Perhaps a little fragile        based on thinness but I haven't had any problems at all with them.
                     </p>
                 </td>
                 <td class="image">
@@ -433,7 +433,7 @@
                         <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
-                        Very Euro sponge with some glue feel. Slightly springier than Saviga. Available in 1.8 2.0 2.2, and 2.3, densities 35, 40 and 42. 42 in 2.2 only.
+                        Very Euro sponge with some glue feel. Slightly springier than Saviga.
                     </p>
                 </td>
                 <td class="image">

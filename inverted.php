@@ -920,7 +920,7 @@
                         <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
-                        Shadow is a slightly more control oriented rubber than wraith. Less tacky, softer sponge.
+                        Shadow is a slightly more control oriented rubber than Wraith. Less tacky, softer sponge.
                     </p>
                 </td>
                 <td class="image">
@@ -1213,7 +1213,7 @@
                         <input type="hidden" name="weight" value="0.01">
                     </form>
                     <p>
-                        This is the rubber that got me into the business. For a couple years my best seller. Tacky topshet so not great for beginners but loads of control for people who want to play equal amounts of offense and defense. Be aware this is fairly heavy, especially if you're using it on both sides.
+                        This is the rubber that got me into the business. For a couple years my best seller. Tacky topsheet, so not great for beginners, but loads of control for people who want to play equal amounts of offense and defense. Be aware this is fairly heavy, especially if you're using it on both sides.
                     </p>
                 </td>
                 <td class="image">

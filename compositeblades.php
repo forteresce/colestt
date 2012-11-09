@@ -24,8 +24,6 @@
                     <p>
                         <span class="price">
                             Price: $32
-                            <br />
-                            Combo Price: $52
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -57,7 +55,7 @@
                         <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
-                        Thin hinoki carbon that I like because it doesn't have as much carbon "ping" as you normally feel with this type of blade. I've always thought it felt like there might be some arylate in the weave. I got my original sample of this blade and, after playing it, immediately ordered it in for stock. Good thing I tried it before my club mate, becaue once he latched onto it he wouldn't give it back. Since then I have sold dozens with excellent feedback. The crafstmanship of this blade, the aesthetics (finish), may not be quite up to the T series, but I think it plays much better. Better tone and control. More dwell. Seems like better materials.
+                        Thin Hinoki carbon that I like because it doesn't have as much carbon "ping" as you normally feel with this type of blade. I've always thought it felt like there might be some arylate in the weave. I got my original sample of this blade and, after playing it, immediately ordered it in for stock. Good thing I tried it before my club mate, because once he latched onto it he wouldn't give it back. Since then I have sold dozens with excellent feedback. The craftsmanship of this blade, the aesthetics (finish), may not be quite up to the T series, but I think it plays much better. Better tone and control. More dwell. Seems like better materials.
                     </p>
                 </td> 
                 <td class="image">
@@ -77,8 +75,6 @@
                     <p>
                         <span class="price">
                             Price: $32
-                            <br />
-                            Combo Price: $52
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -110,7 +106,7 @@
                         <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
-                        I've tried several of the Dawei carbon arylate blades and this was my favorite. Offensive but not ridiculous. Weight is coming in around 86g. Great control and soft feel for a fast carbon blade. The only reason this is less expensive than other composite blades on my site is because I get a better deal on them since I buy them direct from Dawei. Actually, outer plies are limba, second only in quality of materials on this page to the w1. Straight or flared handle are both hollow. This blade has a more prominent carbon feel than most of what carry, but the tone isn't a nasty ping. Mostly because the plies over the carbon are fairly thick. Much more so than say the T series.
+                        I've tried several of the Dawei carbon arylate blades and this was my favorite. Offensive but not ridiculous. Weight is coming in around 86g. Great control and soft feel for a fast carbon blade. The only reason this is less expensive than other composite blades on my site is because I get a better deal on them since I buy them direct from Dawei. Actually, outer plies are limba, second only in quality of materials on this page to the W1. Straight or flared handle are both hollow. This blade has a more prominent carbon feel than most of what carry, but the tone isn't a nasty ping. Mostly because the plies over the carbon are fairly thick. Much more so than say the T series.
                     </p>
                 </td>
                 <td class="image">
@@ -130,8 +126,6 @@
                     <p>
                         <span class="price">
                             Price: $25
-                            <br />
-                            Combo Price: $45
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -183,8 +177,6 @@
                     <p>
                         <span class="price">
                             Price: $64
-                            <br />
-                            Combo Price: $84
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -235,8 +227,6 @@
                     <p>
                         <span class="price">
                             Price: $52
-                            <br />
-                            Combo Price: $72
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">		
@@ -297,8 +287,6 @@
                     <p>
                         <span class="price">
                             Price: $42
-                            <br />
-                            Combo Price: $62
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -329,7 +317,7 @@
                         <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
-                        I have this one listed seperately because it's a different animal from the rest. This is a very thick balsa carbon. Superfast speed, but the softness of the balsa does give it a bit of spin too. I don't like the tone of thick balsa, but having some carbon in there balances that out a bit. If you want maximum power in an ultralight blade, this is the one. This is a hitting blade, not a looping blade.
+                        I have this one listed separately because it's a different animal from the rest. This is a very thick Balsa carbon. Superfast speed, but the softness of the Balsa does give it a bit of spin too. I don't like the tone of thick Balsa, but having some carbon in there balances that out a bit. If you want maximum power in an ultralight blade, this is the one. This is a hitting blade, not a looping blade.
                     </p>
                 </td>
                 <td class="image">
@@ -349,8 +337,6 @@
                     <p>
                         <span class="price">
                             Price: $34
-                            <br />
-                            Combo Price: $54
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -395,7 +381,7 @@
                         <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
-                        The T series is considered among the higher quality makes of Galaxy, and are often compared to more expensive Butterfly carbon/arylate blades. The outer ply looks like hinoki but I think they might be juniper, not really sure. They have a more traditional carbon feel than the more wood-like W1. The T7 is correctly marked as "medium" speed. The T8 is also correctly marked as fast. They look identical so I only posted one pic. I try to keep some other T blades around as well, typically T1, 2, and 4. Email for availability on those.
+                        The T series is considered among the higher quality makes of Galaxy, and are often compared to more expensive Butterfly carbon/arylate blades. The outer ply looks like Hinoki but I think they might be Juniper, not really sure. They have a more traditional carbon feel than the more wood-like W1. The T7 is correctly marked as "medium" speed. The T8 is also correctly marked as fast. They look identical so I only posted one pic. I try to keep some other T blades around as well, typically T1, 2, and 4. Email for availability on those.
                     </p>
                     <p>
                         <b>OUT OF STOCK T7 Straight</b>
@@ -418,8 +404,6 @@
                     <p>
                         <span class="price">
                             Price: $32
-                            <br />
-                            Combo Price: $52
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -473,8 +457,6 @@
                     <p>
                         <span class="price">
                             Price: $32
-                            <br />
-                            Combo Price: $50-55
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -505,7 +487,7 @@
                         <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
-                        Great blade for a defesive minded player who still needs some ability to attack. It definitely leans toward defense though. The kevlar gives it great touch and consistency for blocking, especially drop shot or dead ball blocking. This blade has probably more control than anything I carry besides the toxic3.
+                        Great blade for a defesive minded player who still needs some ability to attack. It definitely leans toward defense though. The kevlar gives it great touch and consistency for blocking, especially drop shot or dead ball blocking. This blade has probably more control than anything I carry besides the Toxic 3.
                     </p>
                 </td>
                 <td class="image">
@@ -525,8 +507,6 @@
                     <p>
                         <span class="price">
                             Price: $32
-                            <br />
-                            Combo Price: $52
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">

@@ -54,7 +54,7 @@
                         <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
-                        The O is probably my favorite of the Genote line and the most unique. It is a very thin blade, but made faster and stiffer by the addition of two plies of red-stained, hardened ayous. From the side, this blade looks like a donic dicon. You can see a side pic at www.colestt.com/gpics.doc. The blade is off- with a nice feel and a very nice look.
+                        The O is probably my favorite of the Genote line and the most unique. It is a very thin blade, but made faster and stiffer by the addition of two plies of red-stained, hardened ayous. From the side, this blade looks like a Donic Dicon. The blade is off- with a nice feel and a very nice look.
                     </p>
                 </td>
                 <td class="image">
@@ -105,7 +105,7 @@
                         <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
-                        Dawei has used a top quality hinoki to form the outer plies, which makes it just a tad softer, as well as prettier, and probably more collectible. This blade is also about 6.5mm thick and weighs around 88g. I'd call it on the high side of offensive but not quite as fast as the C, or maybe it just feels that way because it's a tad softer on the outer plies. Closeups showing the near-perfect grains are available upon request. Straight, Flared, and Cpen 
+                        Dawei has used a top quality Hinoki to form the outer plies, which makes it just a tad softer, as well as prettier, and probably more collectible. This blade is also about 6.5mm thick and weighs around 88g. I'd call it on the high side of offensive but not quite as fast as the C, or maybe it just feels that way because it's a tad softer on the outer plies. Closeups showing the near-perfect grains are available upon request.
                     </p>
                 </td>
                 <td class="image">
@@ -206,7 +206,7 @@
                         <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
-                        A classic Swedish formula, limba over ayous, favored by many great loopers from around the world. This blade had originally has been a little lighter, but now I've got them making it in what I consider to be the optimum weight range of 84-88. Personally I think it plays best around 86-88. This is my best selling blade. It has 7 thin plies, making it a bit faster than the typical 5ply wood limba but not as fast as most 7plies. Flared, anatomic, or straight. 
+                        A classic Swedish formula, Limba over Ayous, favored by many great loopers from around the world. This blade was originally a little lighter, but now I've got them making it in what I consider to be the optimum weight range of 84-88. Personally I think it plays best around 86-88. This is my best selling blade. It has 7 thin plies, making it a bit faster than the typical 5ply wood limba but not as fast as most 7ply.
                     </p>
                 </td>
                 <td class="image">
@@ -257,7 +257,7 @@
                         <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
-                        This has been one of my most popular blades over the years. Try to find a limba outer ply at this price anywhere else. Handles now again as pictured. This blade has great tone. A little fast for beginners, but for intermediates and above it's a great blade for the price. Handle now as pictured again. Absolute steal.
+                        This has been one of my most popular blades over the years. Try to find a limba outer ply at this price anywhere else. This blade has great tone. A little fast for beginners, but for intermediates and above it's a great blade for the price. Absolute steal.
                     </p>
                 </td>
                 <td class="image">
@@ -337,7 +337,7 @@
                         <b>If you want a Premade Buster combo, it is on sale for $28 on the <a href="specials.php">Specials</a> page.</b>
                     </p>
                     <p>
-                        <b>OUT OF STOCK DW2 Cpen, Straight. R2 Straight</b>
+                        <b>OUT OF STOCK DW2 Cpen and Straight. R2 Straight</b>
                     </p>
                 </td>
                 <td class="image">
@@ -387,7 +387,7 @@
                         <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
-                        Li Qian is a new sponsored player for Galaxy. As I understand it, she is a modern defensive player from China now playing for Poland. These are the two new "flagship" blades for Galaxy. The Lq-1 is a fairly fast blade for being defensive, but it has a defensive shape. What I noticed was that the length of the blade meant that it was extremely flexible and spinny if you loop or chop near the tip. The quality of crafstmanship and materials used in the LQ blades are second no other all wood blades I've ever seen. LQ1 seems to be the same wood formulation as W6, but oversized.
+                        Li Qian is a new sponsored player for Galaxy. As I understand it, she is a modern defensive player from China now playing for Poland. These are the two new "flagship" blades for Galaxy. The LQ-1 is a fairly fast blade for being defensive, but it has a defensive shape. What I noticed was that the length of the blade meant that it was extremely flexible and spinny if you loop or chop near the tip. The quality of crafstmanship and materials used in the LQ blades are second to no other all wood blades I've ever seen. LQ-1 seems to be the same wood formulation as W6, but oversized.
                     </p>
                 </td>
                 <td class="image">
@@ -525,7 +525,7 @@
                         <input type="hidden" name="weight" value="5">
                     </form>
                     <p>
-                        This blade has been labeled off to off+, but I think it's more like off. Maybe because the feel and control are so great. This one rivals my w6. Thinner blade but two layers of red hardened ayous give it speed and stiffness beyond what you would expect given it's thin structure. Really a nice piece of work. Some have called it a clipper clone but I don't see it as being as fast as most of the clippers I've tried.
+                        This blade has been labeled off to off+, but I think it's more like off. Maybe because the feel and control are so great. This one rivals my W6. Thinner blade but two layers of red hardened Ayous give it speed and stiffness beyond what you would expect given it's thin structure. Really a nice piece of work. Some have called it a Clipper clone but I don't see it as being as fast as most of the Clippers I've tried.
                     </p>
                     <p>
                         <b>OUT OF STOCK Flared</b>
@@ -586,7 +586,7 @@
                         </span>
                     </p>
                     <p>
-                        This is an extremely high quality blade in the model of Stiga's CR WRB. Coated outer plies. Speed is pretty fast... I'd put it in a class with Stiga Clipper. Quality on this blade, (like W6 and W1) is truly second to none. This is the best option I have for a fast all wood blade. Cross cut koto outer plies are stunning to look at.
+                        This is an extremely high quality blade in the model of Stiga's CR WRB. Coated outer plies. Speed is pretty fast... I'd put it in a class with a Stiga Clipper. Quality on this blade, (like W6 and W1) is truly second to none. This is the best option I have for a fast all wood blade. Cross cut Koto outer plies are stunning to look at.
                     </p>
                 </td>
                 <td class="image">
@@ -645,7 +645,7 @@
                         </span>
                     </p>
                     <p>
-                        Some forum lists have pegged this blade as a sub for Yasaka Extra, making it especially popular in penhold but sell a ton in shake grips as well. I'd call it on the up side of OFF-. Different wood grain from the other blades I list. I get different answers when I ask people what wood it is exactly. Not ayous or limba. It's very important that you treat this one heavy along the outside edge. The thin, crisp outer ply can chip up. Of course, I can do that for you if you ask, and usually do anyway. 5-ply Wood.
+                        Some forum lists have pegged this blade as a sub for Yasaka Extra, making it especially popular in penhold but sell a ton in shakehand grips as well. I'd call it on the up side of OFF-. Different wood grain from the other blades I list. I get different answers when I ask people what wood it is exactly. Not Ayous or Limba. It's very important that you treat this one heavy along the outside edge. The thin, crisp outer ply can chip up. Of course, I can do that for you if you ask, and usually do anyway. 5-ply Wood.
                     <p>
                 </td>
                 <td class="image">
@@ -703,7 +703,7 @@
                         </span>
                     </p>
                     <p>
-                        This is a mid soft but flexy and springy looping blade that has maintained long-term popularity. Seems to be the highest quality of ayous I've run across in this price range. Loops as well as anything but a little flexy in the short game if you're pushing much. 
+                        This is a mid soft but flexy and springy looping blade that has maintained long-term popularity. Seems to be the highest quality of Ayous I've run across in this price range. Loops as well as anything but a little flexy in the short game if you're pushing much. 
                     </p>
                 </td>
                 <td class="image">
@@ -906,7 +906,7 @@
                         Speed: <b>OFF</b>
                     </span>
                      <p>
-                         Soft ayous blade with lots of control. The Instinct 5ply is all+ and a very popular blade. The Instinct Plus is a 7ply version so it's stiffer and faster, but still pretty soft and very good control for a 7ply.
+                         Soft Ayous blade with lots of control. The Instinct 5ply is all+ and a very popular blade. The Instinct+ is a 7ply version so it's stiffer and faster, but still pretty soft and very good control for a 7ply.
                      </p>
                      <p>
                         <b>On sale for $15 when comboed with rubbers!</b>
