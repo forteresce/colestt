@@ -67,7 +67,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/SCIROCCO.jpg"/>
+                    <img src="images/products/rubbers/air-scirocco-sf.jpg"/>
                 </td>
             </tr>
         </table>
@@ -134,7 +134,7 @@
                     </p>
                 </td>
                 <td class="image"> 
-                    <img src="images/products/illumina.jpg"/>
+                    <img src="images/products/rubbers/air-illumina.jpg"/>
                 </td>
             </tr>
         </table>
@@ -202,7 +202,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/UL.JPG"/>
+                    <img src="images/products/rubbers/dawei-inspirit-quattro-ultralight.jpg"/>
                 </td>
             </tr>
         </table>
@@ -265,7 +265,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/inspiritquattro.JPG"/>
+                    <img src="images/products/rubbers/dawei-inspirit-quattro.jpg"/>
                 </td>
             </tr>
         </table>
@@ -332,7 +332,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/inspirit.JPG" />
+                    <img src="images/products/rubbers/dawei-inspirit.jpg"/>
                 </td>
             </tr>
         </table>
@@ -389,7 +389,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/sprungg3a2.jpg" />
+                    <img src="images/products/rubbers/dawei-sprungfeder-g3.jpg"/>
                 </td>
             </tr>
         </table>
@@ -455,7 +455,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/2008xp.jpg" />
+                    <img src="images/products/rubbers/dawei-2008xp.jpg"/>
                 </td>
             </tr>
         </table>
@@ -519,7 +519,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/h3neo.jpg"/>
+                    <img src="images/products/rubbers/dhs-h3-neo.jpg"/>
                 </td>
             </tr>
         </table>
@@ -568,7 +568,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/h3.png" />
+                    <img src="images/products/rubbers/dhs-h3-regular.jpg"/>
                 </td>
             </tr>
         </table>
@@ -631,7 +631,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/moon.jpg" />
+                    <img src="images/products/rubbers/yinhe-galaxy-moon.jpg"/>
                 </td>
             </tr>
         </table>
@@ -689,7 +689,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/venus.jpg" />
+                    <img src="images/products/rubbers/yinhe-galaxy-venus-2.jpg"/>
                 </td>
             </tr>
         </table>
@@ -746,7 +746,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/aces.jpg" />
+                    <img src="images/products/rubbers/gambler-aces-pro.jpg"/>
                 </td>
             </tr>
         </table>
@@ -808,7 +808,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/outlaw.jpg"/>
+                    <img src="images/products/rubbers/gambler-outlaw.jpg"/>
                 </td>
             </tr>
         </table>
@@ -866,7 +866,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/reflectoid.jpg" />
+                    <img src="images/products/rubbers/gambler-reflectoid.jpg"/>
                 </td>
             </tr>
         </table>
@@ -924,7 +924,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/shadow.jpg" />
+                    <img src="images/products/rubbers/gambler-shadow.jpg"/>
                 </td>
             </tr>
         </table>
@@ -981,7 +981,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/wraith.jpg" />
+                    <img src="images/products/rubbers/gambler-wraith.jpg"/>
                 </td>
             </tr>
         </table>
@@ -1038,7 +1038,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/BlackPower.jpg" />
+                    <img src="images/products/rubbers/lkt-blackpower.jpg"/>
                 </td>
             </tr>
         </table>
@@ -1099,7 +1099,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/lktxp.jpg" />
+                    <img src="images/products/rubbers/lkt-pro-xp.jpg"/>
                 </td>
             </tr>
         </table>
@@ -1160,7 +1160,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/lktxt.jpg" />
+                    <img src="images/products/rubbers/lkt-pro-xt.jpg"/>
                 </td>
             </tr>
         </table>
@@ -1217,7 +1217,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/cream.jpg" />
+                    <img src="images/products/rubbers/729-mrs.jpg"/>
                 </td>
             </tr>
         </table>
@@ -1274,7 +1274,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/focus3.JPG" />
+                    <img src="images/products/rubbers/729-focus-3-snipe.jpg"/>
                 </td>
             </tr>
         </table>
@@ -1331,7 +1331,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/fxel.jpg" />
+                    <img src="images/products/rubbers/729-fxel-supersoft.jpg"/>
                 </td>
             </tr>
         </table>
@@ -1389,7 +1389,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/geotacky.jpg" />
+                    <img src="images/products/rubbers/729-geospin-tacky.jpg"/>
                 </td>
             </tr>
         </table>

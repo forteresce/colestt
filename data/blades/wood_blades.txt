@@ -15,6 +15,6 @@ Galaxy W6, 34
 Galaxy 896, 16
 LKT Toxic 3, 22
 LKT Toxic 5, 22
-LKT Bomb, 18
 LKT Instinct, 15
 LKT Instinct+, 15
+729 Bomb, 18

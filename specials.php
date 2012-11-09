@@ -90,7 +90,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/premade buster.JPG" />
+                    <img src="images/products/blades/dawei-r2.jpg" />
                 </td>
             </tr>
         </table>

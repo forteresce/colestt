@@ -61,7 +61,7 @@
                     </p> 
                 </td>
                 <td class="image">
-                    <img src="images/products/dfish3.jpg"/>
+                    <img src="images/products/balls/doublefish-3-star-balls.jpg"/>
                 </td>
             </tr>
         </table>
@@ -154,7 +154,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/gambler 3star.JPG" />
+                    <img src="images/products/balls/gambler-platinum-3-star-balls.jpg"/>
                 </td>
             </tr>
         </table>

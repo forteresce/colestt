@@ -47,7 +47,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/galaxy1803post.jpg"/>
+                    <img src="images/products/accessories/dawei-post-set.jpg"/>
                 </td>
             </tr>
         </table>
@@ -83,7 +83,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/netreplacement.jpg"/>
+                    <img src="images/products/accessories/replacement-net.jpg"/>
                 </td>
             </tr>
         </table>
@@ -119,7 +119,7 @@
                     </p> 
                 </td>
                 <td class="image">
-                    <img src="images/products/dawei water glue.jpg" />
+                    <img src="images/products/accessories/dawei-water-glue.jpg"/>
                 </td>
             </tr>
         </table>
@@ -161,7 +161,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/racketcover2.jpg"/>
+                    <img src="images/products/accessories/racket-cover-rectangular.jpg"/>
                 </td>
             </tr>
         </table>
@@ -197,7 +197,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/racketcover3.jpg" />
+                    <img src="images/products/accessories/racket-cover-elliptical.jpg"/>
                 </td>
             </tr>
         </table>
@@ -233,7 +233,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/racketcover1.jpg"/>
+                    <img src="images/products/accessories/racket-cover-round.jpg"/>
                 </td>
             </tr>
         </table>
@@ -267,6 +267,9 @@
                     <p>
                         These are Air brand glue sheets. They have a foam type body to them.
                     </p>
+                </td>
+                <td class="image">
+                    <img src="images/products/accessories/air-glue-sheet.jpg"/>
                 </td>
             </tr>
         </table>
@@ -305,7 +308,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/edgetape.jpg"/>
+                    <img src="images/products/accessories/yinhe-galaxy-edge-tape.jpg"/>
                 </td>
             </tr>
         </table>

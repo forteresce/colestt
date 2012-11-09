@@ -58,7 +58,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/genO.JPG" />
+                    <img src="images/products/blades/dawei-genote-quattro-o.jpg" />
                 </td>
             </tr>
         </table>
@@ -109,7 +109,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/genS.JPG" />
+                    <img src="images/products/blades/dawei-genote-quattro-s.jpg" />
                 </td>
             </tr>
         </table>
@@ -159,7 +159,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/Qhinoki.JPG" />
+                    <img src="images/products/blades/dawei-quattro-hinoki.jpg" />
                 </td>
             </tr>
         </table>
@@ -210,7 +210,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/Qlimba.JPG" />
+                    <img src="images/products/blades/dawei-quattro-limba.jpg" />
                 </td>
             </tr>
         </table>
@@ -261,7 +261,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/matrix.JPG" />
+                    <img src="images/products/blades/dawei-matrix.jpg" />
                 </td>
             </tr>
         </table>
@@ -276,10 +276,6 @@
                 <td class="body">
                     <span class="price">
                         Price: $14
-                        <br />
-                        Combo Price: $28
-                        <br />
-                        (With 2 x 2008XP)
                     </span>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
                         <table>
@@ -341,7 +337,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/premade buster.JPG" />
+                    <img src="images/products/blades/dawei-r2.jpg" />
                 </td>
             </tr>
         </table>
@@ -391,7 +387,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/LQ-1s.JPG" />
+                    <img src="images/products/blades/dawei-lq1.jpg" />
                 </td>
             </tr>
         </table>
@@ -428,7 +424,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/982 side.JPG" />
+                    <img src="images/products/blades/yinhe-galaxy-982.jpg" />
                 </td>
             </tr>
         </table>
@@ -478,7 +474,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/LQ-2s.JPG" />
+                    <img src="images/products/blades/dawei-lq2.jpg" />
                 </td>
             </tr>
         </table>
@@ -532,7 +528,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/galaxyM6.jpg" />
+                    <img src="images/products/blades/yinhe-galaxy-m6.jpg" />
                 </td>
             </tr>
         </table>
@@ -590,7 +586,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/u2006.jpg" />
+                    <img src="images/products/blades/yinhe-galaxy-u2006.jpg" />
                 </td>
             </tr>
         </table>
@@ -649,7 +645,7 @@
                     <p>
                 </td>
                 <td class="image">
-                    <img src="images/products/galaxyw6.jpg" />
+                    <img src="images/products/blades/yinhe-galaxy-w6.jpg" />
                 </td>
             </tr>
         </table>
@@ -707,7 +703,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/galaxy896.jpg" />
+                    <img src="images/products/blades/yinhe-galaxy-896.jpg" />
                 </td>
             </tr>
         </table>
@@ -784,66 +780,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/toxic.jpg" />
-                </td>
-            </tr>
-        </table>
-        
-        <table class="product">
-            <tr>
-                <td class="prodname" colspan="2">
-                    LKT Bomb
-                </td>
-            </tr>
-            <tr>
-                <td class="body">
-                    <p>
-                        <span class="price">
-                            Price: $18
-                        </span>
-                    </p>
-                    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                        <table>
-                            <tr>
-                                <td>
-                                    <input type="hidden" name="on0" value="Type">Type
-                                </td>
-                                <td>
-                                    <select name="os0">
-                                        <option value="Flared">Flared</option>
-                                        <option value="Anatomic">Anatomic</option>
-                                        <option value="Cpen">Cpen</option>
-                                    </select>
-                                </td>
-                            </tr>
-                        </table>
-                        <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but22.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
-                        <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                        <input type="hidden" name="add" value="1">
-                        <input type="hidden" name="cmd" value="_cart">
-                        <input type="hidden" name="business" value="cole.ely@gmail.com">
-                        <input type="hidden" name="item_name" value="LKT Bomb">
-                        <input type="hidden" name="amount" value="18">
-                        <input type="hidden" name="no_note" value="1">
-                        <input type="hidden" name="currency_code" value="USD">
-                        <input type="hidden" name="bn" value="PP-ShopCartBF">
-                        <input type="hidden" name="weight" value="5">
-                    </form>
-                    <p>
-                        <span class="specs">
-                            Handle: <b>FL, C-PEN</b>
-                            <br />
-                            Weight: <b>~85g</b>
-                            <br />
-                            Speed: <b>Medium</b>
-                        </span>
-                    </p>
-                    <p>
-                        This is a popular blade that's in the off- range. Outer ply is pretty crisp, but the inner cork ply softens it up and gives it some flex. Now in anatomic as well.
-                    </p>
-                </td>
-                <td class="image">
-                    <img src="images/products/bomb.jpg" />
+                    <img src="images/products/blades/lkt-toxic-3.jpg" />
                 </td>
             </tr>
         </table>
@@ -913,7 +850,66 @@
                      </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/instinct.jpg" />
+                    <img src="images/products/blades/lkt-instinct.jpg" />
+                </td>
+            </tr>
+        </table>
+        
+        <table class="product">
+            <tr>
+                <td class="prodname" colspan="2">
+                    729 Bomb
+                </td>
+            </tr>
+            <tr>
+                <td class="body">
+                    <p>
+                        <span class="price">
+                            Price: $18
+                        </span>
+                    </p>
+                    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                        <table>
+                            <tr>
+                                <td>
+                                    <input type="hidden" name="on0" value="Type">Type
+                                </td>
+                                <td>
+                                    <select name="os0">
+                                        <option value="Flared">Flared</option>
+                                        <option value="Anatomic">Anatomic</option>
+                                        <option value="Cpen">Cpen</option>
+                                    </select>
+                                </td>
+                            </tr>
+                        </table>
+                        <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but22.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+                        <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                        <input type="hidden" name="add" value="1">
+                        <input type="hidden" name="cmd" value="_cart">
+                        <input type="hidden" name="business" value="cole.ely@gmail.com">
+                        <input type="hidden" name="item_name" value="729 Bomb">
+                        <input type="hidden" name="amount" value="18">
+                        <input type="hidden" name="no_note" value="1">
+                        <input type="hidden" name="currency_code" value="USD">
+                        <input type="hidden" name="bn" value="PP-ShopCartBF">
+                        <input type="hidden" name="weight" value="5">
+                    </form>
+                    <p>
+                        <span class="specs">
+                            Handle: <b>FL, C-PEN</b>
+                            <br />
+                            Weight: <b>~85g</b>
+                            <br />
+                            Speed: <b>Medium</b>
+                        </span>
+                    </p>
+                    <p>
+                        This is a popular blade that's in the off- range. Outer ply is pretty crisp, but the inner cork ply softens it up and gives it some flex. Now in anatomic as well.
+                    </p>
+                </td>
+                <td class="image">
+                    <img src="images/products/blades/729-bomb.jpg" />
                 </td>
             </tr>
         </table>

@@ -62,7 +62,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/999.jpg"/>
+                    <img src="images/products/rubbers/globe-999.jpg"/>
                 </td>
             </tr>
         </table>
@@ -122,7 +122,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/lktxt.jpg" />
+                    <img src="images/products/rubbers/lkt-pro-xp.jpg"/>
                 </td>
             </tr>
         </table>
@@ -171,7 +171,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/palio.jpg" />
+                    <img src="images/products/rubbers/palio-cj8000-regular.jpg"/>
                 </td>
             </tr>
         </table>
@@ -222,7 +222,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/cj8000.jpg" />
+                    <img src="images/products/rubbers/palio-cj8000-quality-bc.jpg"/>
                 </td>
             </tr>
         </table>
@@ -271,7 +271,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/2000.jpg"/>
+                    <img src="images/products/rubbers/729-fx.jpg"/>
                 </td>
             </tr>
         </table>
@@ -331,9 +331,6 @@
                     <p>
                         <b>OUT OF STOCK 1.8 30deg</b>
                     </p>
-                </td>
-                <td class="image">
-                    <img src="images/products/cannon.jpg" />
                 </td>
             </tr>
         </table>
@@ -437,7 +434,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/cannon.jpg" />
+                    <img src="images/products/rubbers/dawei-quattro.jpg" />
                 </td>
             </tr>
         </table>
@@ -489,7 +486,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/lightning.jpg" />
+                    <img src="images/products/rubbers/dawei-lightning.jpg" />
                 </td>
             </tr>
         </table>

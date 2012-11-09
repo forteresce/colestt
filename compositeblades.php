@@ -59,7 +59,7 @@
                     </p>
                 </td> 
                 <td class="image">
-                    <img src="images/products/gts.JPG"/>
+                    <img src="images/products/blades/dawei-gts.jpg"/>
                 </td>
             </tr>
         </table>
@@ -110,7 +110,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/wavestone.JPG"/>
+                    <img src="images/products/blades/dawei-wavestone.jpg"/>
                 </td>
             </tr>
         </table>
@@ -161,7 +161,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/genF.JPG"/>
+                    <img src="images/products/blades/dawei-genote-f.jpg"/>
                 </td>
             </tr>
         </table>
@@ -211,7 +211,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/w1.jpg"/>
+                    <img src="images/products/blades/yinhe-galaxy-woodking-w1.jpg"/>
                 </td>
             </tr>
         </table>
@@ -273,13 +273,16 @@
                         Correctly marked as "Medium Fast" speed, this racket is has 5 plies of wood and two layers of carbon/kevlar weave. Extremely high quality blades. Very soft and spinny but springy enough to loop with at mid distance. Very little carbon tone in K5. Slight carbon tone in K6. V14 is replacing the K4.
                     </p>
                 </td>
+                <td class="image">
+                    <img src="images/products/blades/yinhe-galaxy-carbokev-k6.jpg"/>
+                </td>
             </tr>
         </table>
 
         <table class="product">
             <tr>
                 <td class="prodname" colspan="2">
-                    Galaxy T-10 Balsa Carbon
+                    Galaxy T10 Balsa Carbon
                 </td>
             </tr>
             <tr>
@@ -321,7 +324,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/t10.JPG"/>
+                    <img src="images/products/blades/yinhe-galaxy-t10.jpg"/>
                 </td>
             </tr>
         </table>
@@ -388,7 +391,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/galaxyT7.jpg"/>
+                    <img src="images/products/blades/yinhe-galaxy-t7.jpg"/>
                 </td>
             </tr>
         </table>
@@ -396,7 +399,7 @@
         <table class="product">
             <tr>
                 <td class="prodname" colspan="2">
-                    Galaxy De-1 (Triple Arylate)
+                    Galaxy DE1 (Triple Arylate)
                 </td>
             </tr>
             <tr>
@@ -414,7 +417,7 @@
                                 </td>
                                 <td>
                                     <select name="os0">
-                                        <option value="Flared">Flared</option>
+                                        <!--<option value="Flared">Flared</option>-->
                                         <option value="Straight">Straight</option>
                                     </select>
                                 </td>
@@ -425,7 +428,7 @@
                         <input type="hidden" name="add" value="1">
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
-                        <input type="hidden" name="item_name" value="de-1">
+                        <input type="hidden" name="item_name" value="Yinhe Galaxy DE1">
                         <input type="hidden" name="amount" value="32">
                         <input type="hidden" name="no_shipping" value="2">
                         <input type="hidden" name="no_note" value="1">
@@ -441,7 +444,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/de1.JPG"/>
+                    <img src="images/products/blades/yinhe-galaxy-de1.jpg"/>
                 </td>
             </tr>
         </table>
@@ -491,7 +494,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/gambler os kev.jpg"/>
+                    <img src="images/products/blades/gambler-oversize-kevlar.jpg"/>
                 </td>
             </tr>
         </table>
@@ -542,7 +545,7 @@
                     </p>
                 </td>
                 <td class="image">
-                    <img src="images/products/ac.png"/>
+                    <img src="images/products/blades/gambler-arylate-carbon.jpg"/>
                 </td>
             </tr>
         </table>
