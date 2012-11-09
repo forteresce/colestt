@@ -28,12 +28,9 @@
                     I can send up to 2 rubbers anywhere in the continental US via First Class for $1.
                 </li>
                 <li>
-                    Bulky items like bags of balls, blades, glue, and post sets require $5 shipping.
+                    Bulky items like bags of balls, blades, glue, and post sets require $5 priority shipping, which takes two days to anywhere in the continental US.
                     <br />
                     <b>The shipping change is made on the 2nd page of the cart, after entering your info.</b>
-                </li>
-                <li>
-                    Otherwise, I use USPS Priority which is $5 and takes two days to anywhere in the continental US.
                 </li>
                 <li>    
                     Both domestic options will include "delivery confirmation."

@@ -58,7 +58,7 @@
                         Minimum of <b>4 boxes</b> if you're ordering just balls for space to paste a label.
                     </p> 
                     <p>
-                        I can ship up to 8 boxes first class for $1. Beyond that please choose $5 priority shipping.
+                        <b>Please select $5 priority shipping for over 8 boxes.</b> See shipping policy for details.
                     </p>
                 </td>
                 <td class="image">
@@ -149,10 +149,10 @@
                         The 3 star are USATT approved tournament quality. The 2 star are great for service practice or multiball.
                     </p>
                     <p>
-                        <b>Bags can only be shipped with $5 priority shipping.</b>
+                        <b>Please select $5 priority shipping with this item.</b> See shipping policy for details.
                     </p>
                     <p>
-                        For international orders, shipping must be quoted separately because the bulk just makes shipping impossible in many cases. This is because the balls are light, but the weight of the box makes the shipping charge substantial. 
+                        For international orders, shipping must be quoted separately.
                     </p>
                 </td>
                 <td class="image">
