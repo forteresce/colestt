@@ -86,7 +86,7 @@
                         <b>Please select $5 priority shipping with this combo.</b>
                     </p>
                     <p>
-                        <b>OUT OF STOCK DW2 Cpen, Straight. R2 Straight</b>
+                        <b>OUT OF STOCK DW2 Cpen and Straight. R2 Straight</b>
                     </p>
                 </td>
                 <td class="image">
