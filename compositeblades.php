@@ -540,9 +540,6 @@
                     <p>
                         This is a control-oriented composite blade, but it still has some kick and flex. Tone is very nice. Not much carbon "tonk" sound at all. It really lets the cork sound ring out when using speed glued rubbers. Would be nice for two wing balanced looper (even a bit off the table) or modern combination defensive players as well. Head size and shape is very nice, slightly above average. Surprising top end speed for how soft this blade plays in the short game.
                     </p>    
-                    <p>
-                        <b>Straight is no longer in production.</b>
-                    </p>
                 </td>
                 <td class="image">
                     <img src="images/products/blades/gambler-arylate-carbon.jpg"/>

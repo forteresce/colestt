@@ -333,7 +333,11 @@
                         <b>If you want a Premade Buster combo, it is on sale for $28 on the <a href="specials.php">Specials</a> page.</b>
                     </p>
                     <p>
-                        <b>OUT OF STOCK DW2 Cpen and Straight. R2 Straight</b>
+                        <b>OUT OF STOCK:</b>
+                        <ul>
+                            <li>DW2 Cpen, Straight</li>
+                            <li>R2 Straight</li>
+                        </ul>
                     </p>
                 </td>
                 <td class="image">

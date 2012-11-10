@@ -80,17 +80,19 @@
                         Made with a Dawei Premade Buster blade and 2008XP rubbers, I'd put this against any premade under $60 at least.
                     </p>
                     <p>
-                        If you want to mix thicknesses, email me please.
+                        If you want to mix thicknesses, please use the combo builder on the <a href="combos.php">combos</a> page.
                     </p>
                     <p>
-                        <b>Please select $5 priority shipping with this combo.</b>
-                    </p>
-                    <p>
-                        <b>OUT OF STOCK DW2 Cpen and Straight. R2 Straight</b>
+                        <b>OUT OF STOCK:</b>
+                        <ul>
+                            <li>DW2 Cpen, Straight</li>
+                            <li>R2 Straight</li>
+                        </ul>
                     </p>
                 </td>
                 <td class="image">
                     <img src="images/products/blades/dawei-r2.jpg" />
+                    <img src="images/products/rubbers/dawei-2008xp.jpg" />
                 </td>
             </tr>
         </table>
