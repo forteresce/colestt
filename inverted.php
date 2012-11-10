@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
@@ -448,10 +448,10 @@
                         This rubber should be selling for at least $10, but what the heck right? The sponge is 40deg and fairly fast. The topsheet is medium thickness and only very lightly tacky. In 1.8 it's a decent rubber for beginners if a little "hot", and offers a quality option for premade prices.
                     </p>
                     <p>
-                        <b>2.2 ON SALE for $6 on the <a href="specials.php">Specials</a> page!</b>
+                        <b>2.2 on sale for $6 on the <a href="specials.php">specials</a> page!</b>
                     </p>
                     <p>
-                        <b>Premade Buster combo with 2008XP rubbers and case for $28 on the <a href="specials.php">Specials</a> page!</b>
+                        <b>Premade Buster combo with 2008XP rubbers and case for $28 on the <a href="specials.php">specials</a> page!</b>
                     </p>
                 </td>
                 <td class="image">
@@ -627,7 +627,7 @@
                         Moon provincial has a less tacky but more supple topsheet. Sponge is 37deg tuned. Quite a nice product. Sun is also provincial tuned.
                     </p>
                     <p> 
-                        <b>OUT OF STOCK 2.0 Red</b>
+                        <b>OUT OF STOCK Moon 2.0 Red</b>
                     </p>
                 </td>
                 <td class="image">
@@ -804,7 +804,7 @@
                         This very successful rubber has been one of my biggest sellers over the last year or two. Totally non-tacky but reasonably spinny top. Excellent speed. The Classic sponge is faster and less spinny, while the Golden Cake sponge loads topspin better. 
                     </p>
                     <p>
-                        <b>OUT OF STOCK Golden Cake (Red)</b>
+                        <b>OUT OF STOCK Golden Cake Red</b>
                     </p>
                 </td>
                 <td class="image">
