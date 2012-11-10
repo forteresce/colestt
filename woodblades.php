@@ -327,10 +327,13 @@
                         </span>
                     </p>
                     <p>
-                        This is pretty much exclusive to colestt.com. I don't know anyone else who is selling this quality of all Ayous blade for $14, much less offering it as part of a custom combo for $28. I have three versions of Premade Buster blade, one ALL+ (DW2) and lighter, one OFF- (R2), and one fairly fast (R5). Try to find that anywhere else for $28!
+                        This is pretty much exclusive to colestt.com. I don't know anyone else who is selling this quality of all Ayous blade for $14, much less offering it as part of a custom combo for $28.
                     </p>
                     <p>
-                        <b>If you want a Premade Buster combo, it is for sale for $28 on the <a href="specials.php">specials</a> page.</b>
+                        I have three versions of Premade Buster blade, one ALL+ (DW2) and lighter, one OFF- (R2), and one fairly fast (R5).
+                    </p>
+                    <p>
+                        <b>Premade Buster combo with 2008XP rubbers and case for $28 on the <a href="specials.php">specials</a> page!</b>
                     </p>
                     <p>
                         <b>OUT OF STOCK:</b>
