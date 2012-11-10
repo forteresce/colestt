@@ -26,7 +26,7 @@
                 <td class="body">
                     <p>
                         <span class="price">
-                            Price: $30 - SALE $28
+                            Price: $28
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">

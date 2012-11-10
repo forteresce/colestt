@@ -212,7 +212,7 @@
                 <td class="body">
                     <p>
                         <span class="price">
-                            Price: $4 - SALE $3 
+                            Price: $4
                         </span>
                     </p>
                     <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -222,7 +222,7 @@
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="cole.ely@gmail.com">
                         <input type="hidden" name="item_name" value="Racket Cover (Round)">
-                        <input type="hidden" name="amount" value="3">
+                        <input type="hidden" name="amount" value="4">
                         <input type="hidden" name="no_note" value="1">
                         <input type="hidden" name="currency_code" value="USD">
                         <input type="hidden" name="bn" value="PP-ShopCartBF">
