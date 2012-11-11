@@ -47,50 +47,50 @@ div#body {
 	padding-bottom: 40px;
 }
 
-		table.product {
-		  	width: 565px;
-		  	border: 1px solid #DEDEEA;
-		  	background-color: #F1F3F4;
-		  	margin-bottom: 25px;
-		  	border-spacing: 10px;
-		}
-		table.product td {
-			font-family: arial, sans-serif;
-			font-size: 11pt;
-			color: #666;
-			padding: 0;
-			margin: 0;
-		}
-		table.product td.prodname {
-			background-color: #25628D;
-			font-weight: bold;
-			font-family: arial, sans-serif;
-			font-size: 14pt;
-			color: #D5E8F5;
-			padding: 4px;
-			padding-left: 12px;
-		}
-		table.product td.body {
-			padding: 8px;
-			font-size: 12px;	
-		}
-		table.product td.body span.price {
-			font-weight: bold;
-			font-size: 13pt;
-		}
-		table.product td.image {
-			text-align: right;
-		}
-
-div#ppgearbottom {
-	width: 100%;
-	text-align: right;
+table.product {
+    width: 565px;
+    border: 1px solid #DEDEEA;
+    background-color: #F1F3F4;
+    margin-bottom: 25px;
+    border-spacing: 10px;
 }
+
+    table.product td {
+        font-family: arial, sans-serif;
+        font-size: 11pt;
+        color: #666;
+        padding: 0;
+        margin: 0;
+    }
+
+    table.product td.prodname {
+        background-color: #25628D;
+        font-weight: bold;
+        font-family: arial, sans-serif;
+        font-size: 14pt;
+        color: #D5E8F5;
+        padding: 4px;
+        padding-left: 12px;
+    }
+
+    table.product td.body {
+        padding: 8px;
+        font-size: 12px;	
+    }
+
+    table.product td.body span.price {
+        font-weight: bold;
+        font-size: 13pt;
+    }
+
+    table.product td.image {
+        text-align: right;
+    }
 
 span.outofstock {
-	color: #AA0000;
-	text-style: italic;
+    color: #AA0000;
+    text-style: italic;
 }
 span.specs {
-	font-size: 11px;
+    font-size: 11px;
 }

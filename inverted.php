@@ -132,6 +132,13 @@ DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
                     <p>    
                         Neither type is tuned nor do they need tuning. Effect is built in and permanent.
                     </p>
+                    <p>
+                        <b>OUT OF STOCK:</b>
+                        <ul>
+                            <li>2.0 38deg Black</li>
+                            <li>2.0 35deg Red</li>
+                        </ul>
+                    </p>
                 </td>
                 <td class="image"> 
                     <img src="images/products/rubbers/air-illumina.jpg"/>

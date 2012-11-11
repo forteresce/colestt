@@ -16,16 +16,16 @@
             <b>Table of Contents</b>
             <ul>
                 <li>
-                    <a href="#gluing">Gluing and cutting rubber</a>
+                    <a href="#gluing">Gluing and Cutting Rubber</a>
                 </li>
                 <li>
-                    <a href="#combining">Combining topsheet and sponge</a>
+                    <a href="#combining">Combining Topsheet and Sponge</a>
                 </li>
             </ul>
         </p>
 
         <a name="gluing" id="gluing"></a>
-        <img src="images/subheading/gluingcutting.gif"/>
+        <h1>Gluing and Cutting Rubber</h1>
         <p>
             Anybody who plans on moving up from a pre-made racket needs to know how to glue on a new sheet of rubbers and cut it neatly to fit their blade. So here's some instructions on how I do it. Personally I use the Zeropong scissors, but I know others have more success with a scalpel or exacto knife. Here's the steps I use:
         </p>
@@ -77,7 +77,7 @@
         </ol>
 
         <a name="combining" id="combining"></a>
-        <img src="images/subheading/combining.gif"/>
+        <h1>Combining Topsheet and Sponge</h1>
         <ul>
             <p>
                 <iframe width="420" height="315" src="http://www.youtube.com/embed/SA3C9ABwAqM" frameborder="0" allowfullscreen></iframe>

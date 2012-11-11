@@ -27,10 +27,10 @@
     <h1>Combo Builder</h1>
     
     <p> 
-        By default, combos come assembled with rubbers (at discount), case, tape, ready to play.
+        By default, combos come assembled with rubbers (many at discount), case, tape, ready to play.
     </p>
     <p>
-        Please check the rubber and blade pages for availability before ordering. Thank you :)
+        Please check the rubber and blade pages for availability before ordering.
     </p>
 
     <form action="combo_confirmation.php" method="get" target="frame">
