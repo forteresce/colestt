@@ -1,4 +1,4 @@
-DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
@@ -11,6 +11,8 @@ DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     ?>
 
     <div id="body">
+        <h1>Inverted Rubbers</h1>
+
         <table class="product">
             <tr>
                 <td class="prodname" colspan="2">Air Scirocco SF on Lemon</td>

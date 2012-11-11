@@ -11,17 +11,11 @@
     ?>
 
     <div id="body">
-        <img src="images/title/blades.gif"/>
+        <h1>Blades</h1>
         <p>
-            <a href="woodblades.php">
-                <img src="images/blades/woodblades.gif"/>
-            </a>
-            <a href="compositeblades.php">
-                <img src="images/blades/compositeblades.gif"/>
-            </a>
-            <a href="specials.php">
-                <img src="images/blades/specials.gif"/>
-            </a>  
+            <a href="woodblades.php"><img src="images/blades/woodblades.gif"/></a>
+            <a href="compositeblades.php"><img src="images/blades/compositeblades.gif"/></a>
+            <a href="specials.php"><img src="images/blades/specials.gif"/></a>  
         </p>
         <p>
             Like Chinese rubbers, their blades were traditionally hard, heavy, and fast. But in response to the demands of the West, as well as changing styles in the East, they're starting to make blades out of lighter, softer woods. Often a Chinese blade will be sold for half the price of the same blade made in the same factory in China but stamped for a European or Japanese company.

@@ -11,7 +11,7 @@
     ?>
 
     <div id="body">
-        <img src="images/title/accessories.gif"/>
+        <h1>Accessories</h1>
 
         <table class="product">
             <tr>

@@ -11,7 +11,8 @@
     ?>
 
     <div id="body">
-        <img src="images/title/contact.gif"/>
+        <h1>Contact Me</h1>
+
         <p>
             <b>E-mail:</b> 
                 <script type="text/javascript">
@@ -29,7 +30,7 @@
                     }
                 // -->
                 </script>
-                <noscript>Please enable Javascript to see the email address</noscript>
+                <noscript>Please enable Javascript to see the email address.</noscript>
             <br />
             <b>Phone:</b> 620-624-5864
         </p>

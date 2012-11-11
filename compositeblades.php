@@ -11,7 +11,7 @@
     ?>
 
     <div id="body">
-        <img src="images/title/compositeblades.gif"/>
+        <h1>Composite Blades</h1>
 
         <table class="product">
             <tr>

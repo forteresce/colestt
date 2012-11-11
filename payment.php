@@ -9,8 +9,7 @@
     ?>
     
     <div id="body">
-        <a name="payment" id="payment"></a>
-        <img src="images/title/payment.gif"/>
+        <h1>Payment</h1>
         <p>
             I accept payment through the following: 
             <ul>
@@ -19,8 +18,7 @@
             </ul>
         </p>
         
-        <a name="shipping" id="shipping"></a>
-        <img src="images/title/shipping.gif"/>
+        <h1>Shipping</h1>
         <p>
             USA Shipping
             <ul>

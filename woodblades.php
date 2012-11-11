@@ -11,7 +11,8 @@
     ?>
 
     <div id="body">
-        <img src="images/title/woodblades.gif"/>
+        <h1>All-Wood Blades</h1>
+
         <table class="product">
             <tr>
                 <td class="prodname" colspan="2">

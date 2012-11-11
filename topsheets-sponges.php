@@ -11,7 +11,8 @@
     ?>
 
     <div id="body">
-        <img src="images/title/topsheets.gif" />
+        <h1>Topsheets</h1>
+
         <p>
             Most of the pips-out rubbers are available as topsheets as well. If you're wanting pips topsheets, go to the pips page. If you want sponge glued to your topsheet, you need to order one from the bottom of this page.
         </p>
@@ -277,7 +278,8 @@
         </table>
 
         <a name="sponges" id="sponges"></a>
-        <img src="images/title/sponges.gif"/>
+        <h1>Sponges</h1>
+
         <table class="product">
             <tr>
                 <td class="prodname" colspan="2">

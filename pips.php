@@ -11,7 +11,8 @@
     ?>
 
     <div id="body">
-        <img src="images/title/pips.gif" />
+        <h1>Pips-Out Rubbers</h1>
+
         <p>
             Most of these pips come without sponge (ox) because it allows me to customize to the specs of each order. If I tried to carry every possible permutation of sponge under each pip I'd go mad. The Dawei lightning pip is what used to be called cannon, and even it is at least the quality of sponge as what any of these factory versions would carry if I ordered them preassembled, and mostly better. I have a button below to make it a $4 upcharge using cannon/lightning sponge (38-40deg).
         </p>

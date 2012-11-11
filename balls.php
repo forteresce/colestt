@@ -11,7 +11,7 @@
     ?>
 
     <div id="body">
-        <img src="images/title/balls.gif"/>
+        <h1>Balls</h1>
 
         <table class="product">
             <tr>
