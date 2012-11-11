@@ -21,7 +21,7 @@
 </head>
 <body>
     <?php include 'includes/header.php'?>
-    <?php include 'includes/leftpane.php'?>
+    <?php include 'includes/sidebar.php'?>
 
     <div id="body">
         <h1>Combos</h1>

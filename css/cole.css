@@ -26,7 +26,7 @@ div#header {
 	left: 25px;
 }
 
-div#leftpane {
+div#sidebar {
 	position: absolute;
 	top: 70px;
 	left: 25px;
@@ -34,7 +34,7 @@ div#leftpane {
 	padding: 0;
 }
 
-div#sidemenu {
+div#menu {
 	width: 140px;
 	background-color: #E1E6E9;
 }
@@ -91,6 +91,7 @@ span.outofstock {
     color: #AA0000;
     text-style: italic;
 }
+
 span.specs {
     font-size: 11px;
 }

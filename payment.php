@@ -5,7 +5,7 @@
 <body>
     <?php
         include 'includes/header.php';
-        include 'includes/leftpane.php'; 
+        include 'includes/sidebar.php';
     ?>
     
     <div id="body">
